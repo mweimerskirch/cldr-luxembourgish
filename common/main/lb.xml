@@ -138,7 +138,7 @@
 			<language type="efi">Efik</language>
 			<language type="egy">Ägyptesch</language>
 			<language type="eka">Ekajuk</language>
-			<language type="el">Griechesch</language>
+			<language type="el">Griichesch</language>
 			<language type="elx">Elamesch</language>
 			<language type="en">Englesch</language>
 			<language type="en_AU">Australescht Englesch</language>
@@ -176,7 +176,7 @@
 			<language type="gaa">Ga-Sprooch</language>
 			<language type="gay">Gayo</language>
 			<language type="gba">Gbaya-Sprooch</language>
-			<language type="gd">Schottescht Gälesch</language>
+			<language type="gd">Schottescht Gällesch</language>
 			<language type="gem">Germanesch</language>
 			<language type="gez">Geez</language>
 			<language type="gil">Gilbertesesch</language>
@@ -188,7 +188,7 @@
 			<language type="gor">Mongondou</language>
 			<language type="got">Gotesch</language>
 			<language type="grb">Grebo-Sprooch</language>
-			<language type="grc">Algriechesch</language>
+			<language type="grc">AlGriichesch</language>
 			<language type="gsw">Schwäizerdäitsch</language>
 			<language type="gu">Gujarati</language>
 			<language type="gv">Manx</language>
@@ -378,7 +378,7 @@
 			<language type="pap">Papiamento</language>
 			<language type="pau">Palau</language>
 			<language type="peo">Alpersesch</language>
-			<language type="phi">Philippinen-Austronesesch</language>
+			<language type="phi">Philippinnen-Austronesesch</language>
 			<language type="phn">Phönikesch</language>
 			<language type="pi">Pali</language>
 			<language type="pl">Polnesch</language>
@@ -420,7 +420,7 @@
 			<language type="sem">Semitesch</language>
 			<language type="sg">Sango</language>
 			<language type="sga">Aliresch</language>
-			<language type="sgn">Gebärdensprooch</language>
+			<language type="sgn">Gebärdesprooch</language>
 			<language type="sh">Serbo-Kroatesch</language>
 			<language type="shn">Schan-Sprooch</language>
 			<language type="si">Singhalesesch</language>
@@ -567,7 +567,7 @@
 			<script type="Geor">Georgesch</script>
 			<script type="Glag">Glagolitesch</script>
 			<script type="Goth">Gotesch</script>
-			<script type="Grek">Griechesch</script>
+			<script type="Grek">Griichesch</script>
 			<script type="Gujr">Gujarati</script>
 			<script type="Guru">Gurmukhi</script>
 			<script type="Hang">Hangul</script>
@@ -575,8 +575,8 @@
 			<script type="Hano">Hanunoo</script>
 			<script type="Hans">Vereinfacht</script>
 			<script type="Hans" alt="stand-alone">Vereinfachtes Chinesesch</script>
-			<script type="Hant">Traditiounell</script>
-			<script type="Hant" alt="stand-alone">Traditiounellt Chinesesch</script>
+			<script type="Hant">Traditionell</script>
+			<script type="Hant" alt="stand-alone">Traditionellt Chinesesch</script>
 			<script type="Hebr">Hebräesch</script>
 			<script type="Hira">Hiragana</script>
 			<script type="Hmng">Pahawh Hmong</script>
@@ -595,7 +595,7 @@
 			<script type="Lana">Lanna</script>
 			<script type="Laoo">Laotesch</script>
 			<script type="Latf">Latäinesch - Fraktur-Variant</script>
-			<script type="Latg">Latäinesch - Gälesch Variant</script>
+			<script type="Latg">Latäinesch - Gällesch Variant</script>
 			<script type="Latn">Latäinesch</script>
 			<script type="Lepc">Lepcha</script>
 			<script type="Limb">Limbu</script>
@@ -651,11 +651,11 @@
 			<script type="Tibt">Tibetesch</script>
 			<script type="Ugar">Ugaritesch</script>
 			<script type="Vaii">Vai</script>
-			<script type="Visp">Sichtbare Sprooch</script>
+			<script type="Visp">Siichtbar Sprooch</script>
 			<script type="Xpeo">Alpersesch</script>
 			<script type="Xsux">Sumeresch-akkadesch Keilschrëft</script>
 			<script type="Yiii">Yi</script>
-			<script type="Zinh">Geerbter Schrëftwert</script>
+			<script type="Zinh">Geierftene Schrëftwert</script>
 			<script type="Zsym">Symboler</script>
 			<script type="Zxxx">Ouni Schrëft</script>
 			<script type="Zyyy">Onbestëmmt</script>
@@ -672,17 +672,17 @@
 			<territory type="014">Ostafrika</territory>
 			<territory type="015">Nordafrika</territory>
 			<territory type="017">Zentralafrika</territory>
-			<territory type="018">Südliches Afrika</territory>
+			<territory type="018">Südlecht Afrika</territory>
 			<territory type="019">Amerika</territory>
-			<territory type="021">Nördliches Amerika</territory>
+			<territory type="021">Nördlecht Amerika</territory>
 			<territory type="029">Karibik</territory>
 			<territory type="030">Ostasien</territory>
 			<territory type="034">Südasien</territory>
 			<territory type="035">Südostasien</territory>
 			<territory type="039">Südeuropa</territory>
-			<territory type="053">Australien an Neuseeland</territory>
+			<territory type="053">Australien an Neiséiland</territory>
 			<territory type="054">Melanesien</territory>
-			<territory type="057">Mikronesescht Inselgebiet</territory>
+			<territory type="057">Mikronesescht Inselgebitt</territory>
 			<territory type="061">Polynesien</territory>
 			<territory type="142">Asien</territory>
 			<territory type="143">Zentralasien</territory>
@@ -694,9 +694,9 @@
 			<territory type="419">Latäinamerika</territory>
 			<territory type="AC">Ascension</territory>
 			<territory type="AD">Andorra</territory>
-			<territory type="AE">Vereinigte Arabesch Emirate</territory>
+			<territory type="AE">Vereenegt Arabesch Emirater</territory>
 			<territory type="AF">Afghanistan</territory>
-			<territory type="AG">Antigua an Barbuda</territory>
+			<territory type="AG">Antigua a Barbuda</territory>
 			<territory type="AI">Anguilla</territory>
 			<territory type="AL">Albanien</territory>
 			<territory type="AM">Armenien</territory>
@@ -723,7 +723,7 @@
 			<territory type="BM">Bermuda</territory>
 			<territory type="BN">Brunei Darussalam</territory>
 			<territory type="BO">Bolivien</territory>
-			<territory type="BQ">Karibesch Nidderlande</territory>
+			<territory type="BQ">Karibesch Nidderlanden</territory>
 			<territory type="BR">Brasilien</territory>
 			<territory type="BS">Bahamas</territory>
 			<territory type="BT">Bhutan</territory>
@@ -739,8 +739,8 @@
 			<territory type="CG">Kongo-Brazzaville</territory>
 			<territory type="CG" alt="variant">Kongo [Republik]</territory>
 			<territory type="CH">Schwäiz</territory>
-			<territory type="CI">Côte d’Ivoire</territory>
-			<territory type="CI" alt="variant">Elfebeenküst</territory>
+			<territory type="CI">Elfebeeküst</territory>
+			<territory type="CI" alt="variant">Côte d’Ivoire</territory>
 			<territory type="CK">Cookinselen</territory>
 			<territory type="CL">Chile</territory>
 			<territory type="CM">Kamerun</territory>
@@ -761,7 +761,7 @@
 			<territory type="DM">Dominica</territory>
 			<territory type="DO">Dominikanesch Republik</territory>
 			<territory type="DZ">Algerien</territory>
-			<territory type="EA">Ceuta an Melilla</territory>
+			<territory type="EA">Ceuta a Melilla</territory>
 			<territory type="EC">Ecuador</territory>
 			<territory type="EE">Estland</territory>
 			<territory type="EG">Ägypten</territory>
@@ -769,7 +769,7 @@
 			<territory type="ER">Eritrea</territory>
 			<territory type="ES">Spanien</territory>
 			<territory type="ET">Äthiopien</territory>
-			<territory type="EU">Europäesch Union</territory>
+			<territory type="EU">Europäesch Unioun</territory>
 			<territory type="FI">Finnland</territory>
 			<territory type="FJ">Fidschi</territory>
 			<territory type="FK">Falklandinselen</territory>
@@ -781,7 +781,7 @@
 			<territory type="GB">Groussbritannien</territory>
 			<territory type="GD">Grenada</territory>
 			<territory type="GE">Georgien</territory>
-			<territory type="GF">Franséesch-Guayane</territory>
+			<territory type="GF">Franséisch-Guayane</territory>
 			<territory type="GG">Guernsey</territory>
 			<territory type="GH">Ghana</territory>
 			<territory type="GI">Gibraltar</territory>
@@ -790,15 +790,15 @@
 			<territory type="GN">Guinea</territory>
 			<territory type="GP">Guadeloupe</territory>
 			<territory type="GQ">Äquatorialguinea</territory>
-			<territory type="GR">Griechenland</territory>
+			<territory type="GR">Griicheland</territory>
 			<territory type="GS">Südgeorgien an déi Südlech Sandwichinselen</territory>
 			<territory type="GT">Guatemala</territory>
 			<territory type="GU">Guam</territory>
 			<territory type="GW">Guinea-Bissau</territory>
 			<territory type="GY">Guyana</territory>
-			<territory type="HK">Sonderverwaltungszone Hongkong</territory>
+			<territory type="HK">Sonnerverwaltungszon Hongkong</territory>
 			<territory type="HK" alt="short">Hongkong</territory>
-			<territory type="HM">Heard- an McDonald-Inselen</territory>
+			<territory type="HM">Heard- a McDonald-Inselen</territory>
 			<territory type="HN">Honduras</territory>
 			<territory type="HR">Kroatien</territory>
 			<territory type="HT">Haiti</territory>
@@ -852,9 +852,9 @@
 			<territory type="ML">Mali</territory>
 			<territory type="MM">Myanmar</territory>
 			<territory type="MN">Mongolei</territory>
-			<territory type="MO">Sonderverwaltungszone Macao</territory>
+			<territory type="MO">Sonnerverwaltungszon Macao</territory>
 			<territory type="MO" alt="short">Macao</territory>
-			<territory type="MP">Nördliche Marianen</territory>
+			<territory type="MP">Nördlech Marianen</territory>
 			<territory type="MQ">Martinique</territory>
 			<territory type="MR">Mauretanien</territory>
 			<territory type="MS">Montserrat</territory>
@@ -866,35 +866,35 @@
 			<territory type="MY">Malaysia</territory>
 			<territory type="MZ">Mosambik</territory>
 			<territory type="NA">Namibia</territory>
-			<territory type="NC">Neukaledonien</territory>
+			<territory type="NC">Neikaledonien</territory>
 			<territory type="NE">Niger</territory>
 			<territory type="NF">Norfolkinsel</territory>
 			<territory type="NG">Nigeria</territory>
 			<territory type="NI">Nicaragua</territory>
-			<territory type="NL">Nidderlande</territory>
+			<territory type="NL">Nidderlanden</territory>
 			<territory type="NO">Norwegen</territory>
 			<territory type="NP">Nepal</territory>
 			<territory type="NR">Nauru</territory>
 			<territory type="NU">Niue</territory>
-			<territory type="NZ">Neuseeland</territory>
+			<territory type="NZ">Neiséiland</territory>
 			<territory type="OM">Oman</territory>
 			<territory type="PA">Panama</territory>
 			<territory type="PE">Peru</territory>
-			<territory type="PF">Franséesch-Polynesien</territory>
+			<territory type="PF">Franséisch-Polynesien</territory>
 			<territory type="PG">Papua-Neuguinea</territory>
-			<territory type="PH">Philippinen</territory>
+			<territory type="PH">Philippinnen</territory>
 			<territory type="PK">Pakistan</territory>
 			<territory type="PL">Polen</territory>
-			<territory type="PM">St. Pierre an Miquelon</territory>
+			<territory type="PM">St. Pierre a Miquelon</territory>
 			<territory type="PN">Pitcairninselen</territory>
 			<territory type="PR">Puerto Rico</territory>
-			<territory type="PS">Palästinensesch Autonomiegebiete</territory>
+			<territory type="PS">Palästinensesch Autonomiegebidder</territory>
 			<territory type="PS" alt="short">Palästina</territory>
 			<territory type="PT">Portugal</territory>
 			<territory type="PW">Palau</territory>
 			<territory type="PY">Paraguay</territory>
 			<territory type="QA">Katar</territory>
-			<territory type="QO">Äußeres Ozeanien</territory>
+			<territory type="QO">Baussecht Ozeanien</territory>
 			<territory type="RE">Réunion</territory>
 			<territory type="RO">Rumänien</territory>
 			<territory type="RS">Serbien</territory>
@@ -924,7 +924,7 @@
 			<territory type="TA">Tristan da Cunha</territory>
 			<territory type="TC">Turks- a Caicosinselen</territory>
 			<territory type="TD">Tschad</territory>
-			<territory type="TF">Franséisch Süd- an Antarktisgebiete</territory>
+			<territory type="TF">Franséisch Süd- an Antarktisgebidder</territory>
 			<territory type="TG">Togo</territory>
 			<territory type="TH">Thailand</territory>
 			<territory type="TJ">Tadschikistan</territory>
@@ -942,11 +942,11 @@
 			<territory type="UA">Ukraine</territory>
 			<territory type="UG">Uganda</territory>
 			<territory type="UM">Amerikanesch-Ozeanien</territory>
-			<territory type="US">Vereinigte Staaten</territory>
+			<territory type="US">Vereenegt Staaten</territory>
 			<territory type="UY">Uruguay</territory>
 			<territory type="UZ">Usbekistan</territory>
 			<territory type="VA">Vatikanstad</territory>
-			<territory type="VC">St. Vincent an d'Grenadinen</territory>
+			<territory type="VC">St. Vincent an d'Grenadinnen</territory>
 			<territory type="VE">Venezuela</territory>
 			<territory type="VG">Britesch Jungferninselen</territory>
 			<territory type="VI">Amerikanesch Jungferninselen</territory>
@@ -959,12 +959,12 @@
 			<territory type="ZA">Südafrika</territory>
 			<territory type="ZM">Sambia</territory>
 			<territory type="ZW">Simbabwe</territory>
-			<territory type="ZZ">Onbekannte Region</territory>
+			<territory type="ZZ">Onbekannte Regioun</territory>
 		</territories>
 		<variants>
-			<variant type="1901">Al däitsche Rechtschreiwung</variant>
+			<variant type="1901">Al Däitsch Rechtschreiwung</variant>
 			<variant type="1994">Standardiséiert Resianesch Rechtschreiwung</variant>
-			<variant type="1996">Nei däitsche Rechtschreiwung</variant>
+			<variant type="1996">Nei Däitsch Rechtschreiwung</variant>
 			<variant type="1606NICT">Spéit Mëttelfranséisch</variant>
 			<variant type="1694ACAD">Klassescht Franséisch</variant>
 			<variant type="1959ACAD">Akademesch</variant>
@@ -973,7 +973,7 @@
 			<variant type="BAKU1926">Eenheetlecht Türkescht Alphabet</variant>
 			<variant type="BISKE">Bela-Dialekt</variant>
 			<variant type="BOONT">Boontling</variant>
-			<variant type="FONIPA">IPA Phonetesch</variant>
+			<variant type="FONIPA">Phonetesch (IPA)</variant>
 			<variant type="FONUPA">Phonetesch (UPA)</variant>
 			<variant type="KKCOR">Allgemeng Rechtschreiwung</variant>
 			<variant type="LIPAW">Lipovaz-Dialekt</variant>
@@ -984,7 +984,7 @@
 			<variant type="PINYIN">Pinyin</variant>
 			<variant type="POLYTON">Polytonesch</variant>
 			<variant type="POSIX">Posix</variant>
-			<variant type="REVISED">Revidierte Rechtschreiwung</variant>
+			<variant type="REVISED">Revidéiert Rechtschreiwung</variant>
 			<variant type="ROZAJ">Resianesch</variant>
 			<variant type="SAAHO">Saho</variant>
 			<variant type="SCOTLAND">Schottescht Standardenglesch</variant>
@@ -998,15 +998,15 @@
 		</variants>
 		<keys>
 			<key type="calendar">Kalenner</key>
-			<key type="colAlernate">Sortéierung ouni Symboler</key>
+			<key type="colAlternate">Sortéierung ouni Symboler</key>
 			<key type="colBackwards">Ëmgedréinte Sortéierung vun Akzenter</key>
-			<key type="colCaseFirst">Sortéierung no Grouss- bzw. Klengbuschtawen</key>
+			<key type="colCaseFirst">Sortéierung no Grouss- resp. Klengbuschtawen</key>
 			<key type="colCaseLevel">Sortéierung no Grouss- oder Klengschreiwung</key>
 			<key type="colHiraganaQuaternary">Kana-Sortéierung</key>
 			<key type="collatioun">Sortéierung</key>
 			<key type="colNormalizatioun">Norméiert Sortéierung</key>
 			<key type="colNumeric">Sortéierung no Zuelen</key>
-			<key type="colStrength">Sortéierstärke</key>
+			<key type="colStrength">Sortéierstäerkt</key>
 			<key type="currency">Währung</key>
 			<key type="numbers">Zuelen</key>
 			<key type="timezone">Zäitzon</key>
@@ -1016,11 +1016,11 @@
 		</keys>
 		<types>
 			<type type="arab" key="numbers">Arabesch-indesch Zifferen</type>
-			<type type="arabext" key="numbers">Erweiterte arabesch-indesch Zifferen</type>
+			<type type="arabext" key="numbers">Erweidert arabesch-indesch Zifferen</type>
 			<type type="armn" key="numbers">Armenesch Zifferen</type>
 			<type type="armnlow" key="numbers">Armenesch Zifferen a Kleischrëft</type>
 			<type type="beng" key="numbers">Bengalesch Zifferen</type>
-			<type type="big5han" key="collatioun">Traditiounellt Chinesesch - Big5</type>
+			<type type="big5han" key="collatioun">Traditionellt Chinesesch - Big5</type>
 			<type type="buddhist" key="calendar">Buddhistesche Kalenner</type>
 			<type type="chinese" key="calendar">Chinesesche Kalenner</type>
 			<type type="coptic" key="calendar">Koptesche Kalenner</type>
@@ -1030,26 +1030,26 @@
 			<type type="ethi" key="numbers">Äthiopesch Zifferen</type>
 			<type type="ethiopic" key="calendar">Äthiopesche Kalenner</type>
 			<type type="ethiopic-amete-alem" key="calendar">Äthiopesche Kalenner &quot;Amete Alem&quot;</type>
-			<type type="finance" key="numbers">Finanzzahlen</type>
-			<type type="fullwide" key="numbers">Vollbreite Zifferen</type>
-			<type type="gb2312han" key="collatioun">Vereinfachtes Chinesesch - GB2312</type>
+			<type type="finance" key="numbers">Finanzzuelen</type>
+			<type type="fullwide" key="numbers">Vollbreet Zifferen</type>
+			<type type="gb2312han" key="collatioun">Vereinfacht Chinesesch - GB2312</type>
 			<type type="geor" key="numbers">Georgesch Zifferen</type>
 			<type type="gregorian" key="calendar">Gregorianesche Kalenner</type>
-			<type type="grek" key="numbers">Griechesch Zifferen</type>
-			<type type="greklow" key="numbers">Griechesch Zifferen a Kleischrëft</type>
+			<type type="grek" key="numbers">Griichesch Zifferen</type>
+			<type type="greklow" key="numbers">Griichesch Zifferen a Kleischrëft</type>
 			<type type="gujr" key="numbers">Gujarati-Zifferen</type>
 			<type type="guru" key="numbers">Gurmukhi-Zifferen</type>
-			<type type="hanidec" key="numbers">Chinesesch Dezimalzahlen</type>
-			<type type="hans" key="numbers">Vereinfacht-chinesesch Zifferen</type>
-			<type type="hansfin" key="numbers">Vereinfacht-chinesesch Finanzziffern</type>
-			<type type="hant" key="numbers">Traditiounell-chinesesch Zifferen</type>
-			<type type="hantfin" key="numbers">Traditiounell-chinesesch Finanzziffern</type>
+			<type type="hanidec" key="numbers">Chinesesch Dezimalzuelen</type>
+			<type type="hans" key="numbers">Vereinfacht-Chinesesch Zifferen</type>
+			<type type="hansfin" key="numbers">Vereinfacht-Chinesesch Finanzziffern</type>
+			<type type="hant" key="numbers">Traditionell-Chinesesch Zifferen</type>
+			<type type="hantfin" key="numbers">Traditionell-Chinesesch Finanzziffern</type>
 			<type type="hebr" key="numbers">Hebräesch Zifferen</type>
 			<type type="hebrew" key="calendar">Hebräesche Kalenner</type>
 			<type type="identical" key="colStrength">All sortéieren</type>
-			<type type="indian" key="calendar">Indeschen Natiounalkalender</type>
+			<type type="indian" key="calendar">Indeschen Nationalkalenner</type>
 			<type type="islamic" key="calendar">Islamesche Kalenner</type>
-			<type type="islamic-civil" key="calendar">Bürgerlicher islamesche Kalenner</type>
+			<type type="islamic-civil" key="calendar">Biergerlechen islamesche Kalenner</type>
 			<type type="japanese" key="calendar">Japanesche Kalenner</type>
 			<type type="jpan" key="numbers">Japanesch Zifferen</type>
 			<type type="jpanfin" key="numbers">Japanesch Finanzziffern</type>
@@ -1057,24 +1057,24 @@
 			<type type="knda" key="numbers">Kannada-Zifferen</type>
 			<type type="laoo" key="numbers">Laotesch Zifferen</type>
 			<type type="latn" key="numbers">Westlech Zifferen</type>
-			<type type="lower" key="colCaseFirst">Klengbuschtawen fir d'éischt opféieren</type>
+			<type type="lower" key="colCaseFirst">Klengbuschtawe fir d'éischt uweisen</type>
 			<type type="mlym" key="numbers">Malayalam-Zifferen</type>
 			<type type="mong" key="numbers">Mongolesch Zifferen</type>
 			<type type="mymr" key="numbers">Myanmar-Zifferen</type>
 			<type type="native" key="numbers">Nativ Zifferen</type>
-			<type type="no" key="colBackwards">Akzente normal sortéieren</type>
+			<type type="no" key="colBackwards">Akzenter normal sortéieren</type>
 			<type type="no" key="colCaseFirst">Normal sortéieren</type>
 			<type type="no" key="colCaseLevel">No Grouss-/Klengschreiwung sortéieren</type>
 			<type type="no" key="colHiraganaQuaternary">Kana separat sortéieren</type>
 			<type type="no" key="colNormalizatioun">Ouni Norméierung sortéieren</type>
 			<type type="no" key="colNumeric">Zifferen eenzel sortéieren</type>
-			<type type="non-ignorable" key="colAlernate">Symbole sortéieren</type>
+			<type type="non-ignorable" key="colAlternate">Symboler sortéieren</type>
 			<type type="orya" key="numbers">Oriya-Zifferen</type>
 			<type type="persian" key="calendar">Persesche Kalenner</type>
 			<type type="phonebook" key="collatioun">Telefonsbuch-Sortéierung</type>
 			<type type="phonetic" key="collatioun">Sortéierung no Phonetik</type>
 			<type type="pinyin" key="collatioun">Pinyin-Sortéierreegelen</type>
-			<type type="primary" key="colStrength">Nur Basisbuchstaben sortéieren</type>
+			<type type="primary" key="colStrength">Nëmme Basisbuschtawe sortéieren</type>
 			<type type="quaternary" key="colStrength">Akzenter/Fall/Breet/Kana sortéieren</type>
 			<type type="reformed" key="collatioun">Reforméiert Sortéierreiefolleg</type>
 			<type type="roc" key="calendar">Kalenner vun der Republik China</type>
@@ -1083,20 +1083,20 @@
 			<type type="search" key="collatioun">Allgemeng Sich</type>
 			<type type="searchjl" key="collatioun">Sich no Ufanksbuschtawen aus dem koreaneschen Alphabet</type>
 			<type type="secondary" key="colStrength">Akzenter sortéieren</type>
-			<type type="shifted" key="colAlernate">Symboler sortéieren ignorieren</type>
-			<type type="stroke" key="collatioun">Stréchfolge</type>
+			<type type="shifted" key="colAlternate">Symboler beim Sortéieren ignoréieren</type>
+			<type type="stroke" key="collatioun">Stréchfolleg</type>
 			<type type="taml" key="numbers">Tamilesch Zifferen</type>
 			<type type="tamldec" key="numbers">Tamil-Zifferen</type>
 			<type type="telu" key="numbers">Telugu-Zifferen</type>
 			<type type="tertiary" key="colStrength">Akzenter/Fall/Breet sortéieren</type>
 			<type type="thai" key="numbers">Thai-Zifferen</type>
 			<type type="tibt" key="numbers">Tibetesch Zifferen</type>
-			<type type="traditiounal" key="collatioun">Traditiounell Sortéierreegelen</type>
-			<type type="traditiounal" key="numbers">Traditiounell Zuelen</type>
+			<type type="traditiounal" key="collatioun">Traditionell Sortéierreegelen</type>
+			<type type="traditiounal" key="numbers">Traditionell Zuelen</type>
 			<type type="unihan" key="collatioun">Radikal-Stréch-Sortéierreegelen</type>
-			<type type="upper" key="colCaseFirst">Groussbuchstaben fir d'éischt opféieren</type>
+			<type type="upper" key="colCaseFirst">Groussbuschtawe fir d'éischt opféieren</type>
 			<type type="vaii" key="numbers">Vai-Zifferen</type>
-			<type type="yes" key="colBackwards">Akzente umgekehrt sortéieren</type>
+			<type type="yes" key="colBackwards">Akzenter ëmgedréint sortéieren</type>
 			<type type="yes" key="colCaseLevel">No Grouss-/Klengschreiwung sortéieren</type>
 			<type type="yes" key="colHiraganaQuaternary">Kana anescht sortéieren</type>
 			<type type="yes" key="colNormalizatioun">No Unicode sortéieren</type>
@@ -1112,17 +1112,17 @@
 			<transformName type="x-Halfwidth">Hallef Breet</transformName>
 			<transformName type="x-Jamo">Jamo</transformName>
 			<transformName type="x-Pinyin">Pinyin</transformName>
-			<transformName type="x-Publishing">Veröffentlichung</transformName>
+			<transformName type="x-Publishing">Verëffentlechung</transformName>
 		</transformNames>
 		<measurementSystemNames>
-			<measurementSystemName type="metric">Metresch</measurementSystemName>
+			<measurementSystemName type="metric">Metreschen Eenheetesystem</measurementSystemName>
 			<measurementSystemName type="UK">Engleschen Eenheetesystem</measurementSystemName>
-			<measurementSystemName type="US">Angloamerikaneschen Eenheetssystem</measurementSystemName>
+			<measurementSystemName type="US">Angloamerikaneschen Eenheetesystem</measurementSystemName>
 		</measurementSystemNames>
 		<codePatterns>
 			<codePattern type="language">Sprooch: {0}</codePattern>
 			<codePattern type="script">Schrëft: {0}</codePattern>
-			<codePattern type="territory">Region: {0}</codePattern>
+			<codePattern type="territory">Regioun: {0}</codePattern>
 		</codePatterns>
 	</localeDisplayNames>
 	<characters>
@@ -1141,8 +1141,8 @@
 	<delimiters>
 		<quotatiounStart>„</quotatiounStart>
 		<quotatiounEnd>“</quotatiounEnd>
-		<alternateQuotatiounStart>‚</alternateQuotatiounStart>
-		<alternateQuotatiounEnd>‘</alternateQuotatiounEnd>
+		<alternateQuotationStart>‚</alternateQuotationStart>
+		<alternateQuotationEnd>‘</alternateQuotationEnd>
 	</delimiters>
 	<dates>
 		<calendars>
@@ -2722,12 +2722,12 @@
 			</metazone>
 			<metazone type="French_Guiana">
 				<long>
-					<standard>Franséesch-Guayane-Zäit</standard>
+					<standard>Franséisch-Guayane-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="French_Southern">
 				<long>
-					<standard>Franséisch Süd- an Antarktisgebiete-Zäit</standard>
+					<standard>Franséisch Süd- an Antarktisgebidder-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Galapagos">
@@ -3000,9 +3000,9 @@
 			</metazone>
 			<metazone type="New_Zealand">
 				<long>
-					<generic>Neuseeland-Zäit</generic>
-					<standard>Neuseeland-Normalzäit</standard>
-					<daylight>Neuseeland-Summerzäit</daylight>
+					<generic>Neiséiland-Zäit</generic>
+					<standard>Neiséiland-Normalzäit</standard>
+					<daylight>Neiséiland-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Newfoundland">
@@ -3862,9 +3862,9 @@
 				<displayName count="other">Äquatorialguinea-Ekwele</displayName>
 			</currency>
 			<currency type="GRD">
-				<displayName>Griechesch Drachme</displayName>
-				<displayName count="one">Griechesch Drachme</displayName>
-				<displayName count="other">Griechesch Drachmen</displayName>
+				<displayName>Griichesch Drachme</displayName>
+				<displayName count="one">Griichesch Drachme</displayName>
+				<displayName count="other">Griichesch Drachmen</displayName>
 			</currency>
 			<currency type="GTQ">
 				<displayName>Guatemaltekeschen Quetzal</displayName>
@@ -4243,9 +4243,9 @@
 				<displayName count="other">Nepalesesch Rupien</displayName>
 			</currency>
 			<currency type="NZD">
-				<displayName>Neuseeland-Dollar</displayName>
-				<displayName count="one">Neuseeland-Dollar</displayName>
-				<displayName count="other">Neuseeland-Dollar</displayName>
+				<displayName>Neiséiland-Dollar</displayName>
+				<displayName count="one">Neiséiland-Dollar</displayName>
+				<displayName count="other">Neiséiland-Dollar</displayName>
 				<symbol>NZ$</symbol>
 			</currency>
 			<currency type="OMR">
