@@ -2089,7 +2089,7 @@
 				<exemplarCity>Curaçao</exemplarCity>
 			</zone>
 			<zone type="Indian/Christmas">
-				<exemplarCity>Chrëschtdaags-Inselen</exemplarCity>
+				<exemplarCity>Chrëschtdagsinselen</exemplarCity>
 			</zone>
 			<zone type="Asia/Nicosia">
 				<exemplarCity>Nikosia</exemplarCity>
@@ -2612,7 +2612,7 @@
 			</metazone>
 			<metazone type="Christmas">
 				<long>
-					<standard>Weihnachtsinsel-Zäit</standard>
+					<standard>Chrëschtdagsinsel-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Cocos">
