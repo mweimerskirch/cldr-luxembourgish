@@ -41,7 +41,7 @@
 			<language type="art">Konschtsprooch</language>
 			<language type="arw">Arawak-Sprooch</language>
 			<language type="as">Assamesesch</language>
-			<language type="asa" draft="unconfirmed">Asu (Tanzania)</language>
+			<language type="asa">Asu (Tanzania)</language>
 			<language type="ast">Asturianesch</language>
 			<language type="ath">Athapaskesch</language>
 			<language type="aus">Australesch</language>
@@ -60,7 +60,7 @@
 			<language type="bej">Bedauye</language>
 			<language type="bem">Bemba-Sprooch</language>
 			<language type="ber">Berbersprooch</language>
-			<language type="bez" draft="unconfirmed">Bena (Tanzania)</language>
+			<language type="bez">Bena (Tanzania)</language>
 			<language type="bg">Bulgaresch</language>
 			<language type="bh">Biharesch</language>
 			<language type="bho">Bhodschpuri</language>
@@ -447,7 +447,7 @@
 			<language type="srr">Serer-Sprooch</language>
 			<language type="ss">Swazi</language>
 			<language type="ssa">Nilosaharanesch</language>
-			<language type="ssy" draft="unconfirmed">Saho</language>
+			<language type="ssy">Saho</language>
 			<language type="st">Süd-Sotho-Sprooch</language>
 			<language type="su">Sundanesesch</language>
 			<language type="suk">Sukuma-Sprooch</language>
@@ -462,7 +462,7 @@
 			<language type="tai">Tai-Sprooch</language>
 			<language type="te">Telugu</language>
 			<language type="tem">Temne</language>
-			<language type="teo" draft="unconfirmed">Teso</language>
+			<language type="teo">Teso</language>
 			<language type="ter">Tereno-Sprooch</language>
 			<language type="tet">Tetum-Sprooch</language>
 			<language type="tg">Tadschikesch</language>
@@ -479,8 +479,8 @@
 			<language type="tn">Tswana-Sprooch</language>
 			<language type="to">Tongaesch</language>
 			<language type="tog">Tsonga-Sprooch</language>
-			<language type="tpi">Neumelanesesch</language>
-			<language type="tr">Türkesch</language>
+			<language type="tpi">Neimelanesesch</language>
+			<language type="tr">Tierkesch</language>
 			<language type="ts">Tsonga</language>
 			<language type="tsi">Tsimshian-Sprooch</language>
 			<language type="tt">Tataresch</language>
@@ -970,7 +970,7 @@
 			<variant type="1959ACAD">Akademesch</variant>
 			<variant type="AREVELA">Ostarmenesch</variant>
 			<variant type="AREVMDA">Westarmenesch</variant>
-			<variant type="BAKU1926">Eenheetlecht Türkescht Alphabet</variant>
+			<variant type="BAKU1926">Eenheetlecht Tierkescht Alphabet</variant>
 			<variant type="BISKE">Bela-Dialekt</variant>
 			<variant type="BOONT">Boontling</variant>
 			<variant type="FONIPA">Phonetesch (IPA)</variant>
@@ -1514,7 +1514,7 @@
 							<day type="wed">Mëttwoch</day>
 							<day type="thu">Donneschdeg</day>
 							<day type="fri">Freideg</day>
-							<day type="sat">Samsdeg</day>
+							<day type="sat">Samschdeg</day>
 						</dayWidth>
 					</dayContext>
 					<dayContext type="stand-alone">
@@ -1552,7 +1552,7 @@
 							<day type="wed">Mëttwoch</day>
 							<day type="thu">Donneschdeg</day>
 							<day type="fri">Freideg</day>
-							<day type="sat">Samsdeg</day>
+							<day type="sat">Samschdeg</day>
 						</dayWidth>
 					</dayContext>
 				</days>
@@ -1607,18 +1607,18 @@
 							<dayPeriod type="evening">owes</dayPeriod>
 							<dayPeriod type="morning">virmëttes</dayPeriod>
 							<dayPeriod type="night">nuets</dayPeriod>
-							<dayPeriod type="noon">Mëtteg</dayPeriod>
+							<dayPeriod type="noon">mëttes</dayPeriod>
 							<dayPeriod type="pm">nom.</dayPeriod>
 						</dayPeriodWidth>
 					</dayPeriodContext>
 					<dayPeriodContext type="stand-alone">
 						<dayPeriodWidth type="wide">
-							<dayPeriod type="afternoon" draft="unconfirmed">Nomëtteg</dayPeriod>
-							<dayPeriod type="earlyMorning" draft="unconfirmed">Moien</dayPeriod>
-							<dayPeriod type="evening" draft="unconfirmed">Owend</dayPeriod>
-							<dayPeriod type="morning" draft="unconfirmed">Virmëtteg</dayPeriod>
-							<dayPeriod type="night" draft="unconfirmed">Nuet</dayPeriod>
-							<dayPeriod type="noon" draft="unconfirmed">Mëtteg</dayPeriod>
+							<dayPeriod type="afternoon">Nomëtteg</dayPeriod>
+							<dayPeriod type="earlyMorning">Moien</dayPeriod>
+							<dayPeriod type="evening">Owend</dayPeriod>
+							<dayPeriod type="morning">Virmëtteg</dayPeriod>
+							<dayPeriod type="night">Nuet</dayPeriod>
+							<dayPeriod type="noon">Mëtteg</dayPeriod>
 						</dayPeriodWidth>
 					</dayPeriodContext>
 				</dayPeriods>
@@ -1895,11 +1895,11 @@
 				<relative type="1">Nächst Joer</relative>
 				<relativeTime type="future">
 					<relativeTimePattern count="one">An {0} Joer</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} Joeren</relativeTimePattern>
+					<relativeTimePattern count="other">An {0} Joer</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
 					<relativeTimePattern count="one">Virun {0} Joer</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} Joeren</relativeTimePattern>
+					<relativeTimePattern count="other">Virun {0} Joer</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="month">
@@ -2993,9 +2993,9 @@
 			</metazone>
 			<metazone type="New_Caledonia">
 				<long>
-					<generic>Neukaledonesch Zäit</generic>
-					<standard>Neukaledonesch Normalzäit</standard>
-					<daylight>Neukaledonesch Summerzäit</daylight>
+					<generic>Neikaledonesch Zäit</generic>
+					<standard>Neikaledonesch Normalzäit</standard>
+					<daylight>Neikaledonesch Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="New_Zealand">
@@ -3007,9 +3007,9 @@
 			</metazone>
 			<metazone type="Newfoundland">
 				<long>
-					<generic>Neufundland-Zäit</generic>
-					<standard>Neufundland-Normalzäit</standard>
-					<daylight>Neufundland-Summerzäit</daylight>
+					<generic>Neifonntland-Zäit</generic>
+					<standard>Neifonntland-Normalzäit</standard>
+					<daylight>Neifonntland-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Niue">
@@ -3309,7 +3309,7 @@
 					<pattern type="10000000" count="other">00 Milliounen</pattern>
 					<pattern type="100000000" count="one">000 Milliounen</pattern>
 					<pattern type="100000000" count="other">000 Milliounen</pattern>
-					<pattern type="1000000000" count="one">0 Milliarde</pattern>
+					<pattern type="1000000000" count="one">0 Milliard</pattern>
 					<pattern type="1000000000" count="other">0 Milliarden</pattern>
 					<pattern type="10000000000" count="one">00 Milliarden</pattern>
 					<pattern type="10000000000" count="other">00 Milliarden</pattern>
@@ -3397,38 +3397,38 @@
 				<displayName count="other">Afghanesch Afghani</displayName>
 			</currency>
 			<currency type="ALL">
-				<displayName>Albanesch Lek</displayName>
-				<displayName count="one">Albanesch Lek</displayName>
+				<displayName>Albanesche Lek</displayName>
+				<displayName count="one">Albanesche Lek</displayName>
 				<displayName count="other">Albanesch Lek</displayName>
 			</currency>
 			<currency type="AMD">
-				<displayName>Armenesch Dram</displayName>
-				<displayName count="one">Armenesch Dram</displayName>
+				<displayName>Armeneschen Dram</displayName>
+				<displayName count="one">Armeneschen Dram</displayName>
 				<displayName count="other">Armenesch Dram</displayName>
 			</currency>
 			<currency type="ANG">
-				<displayName>Nidderländische-Antillen-Gulden</displayName>
-				<displayName count="one">Nidderländische-Antillen-Gulden</displayName>
-				<displayName count="other">Nidderländische-Antillen-Gulden</displayName>
+				<displayName>Nidderlännesch-Antillen-Gulden</displayName>
+				<displayName count="one">Nidderlännesch-Antillen-Gulden</displayName>
+				<displayName count="other">Nidderlännesch-Antillen-Gulden</displayName>
 			</currency>
 			<currency type="AOA">
-				<displayName>Angolaneschen Kwanza</displayName>
+				<displayName>Angolanesche Kwanza</displayName>
 				<displayName count="one">Angolaneschen Kwanza</displayName>
 				<displayName count="other">Angolanesch Kwanza</displayName>
 			</currency>
 			<currency type="AOK">
-				<displayName>Angolaneschen Kwanza (1977-1990)</displayName>
-				<displayName count="one">Angolaneschen Kwanza (1977-1990)</displayName>
+				<displayName>Angolanesche Kwanza (1977-1990)</displayName>
+				<displayName count="one">Angolanesche Kwanza (1977-1990)</displayName>
 				<displayName count="other">Angolanesch Kwanza (1977-1990)</displayName>
 			</currency>
 			<currency type="AON">
-				<displayName>Angolaneschen Neie Kwanza (1990-2000)</displayName>
+				<displayName>Angolaneschen Nei Kwanza (1990-2000)</displayName>
 				<displayName count="one">Angolaneschen Neie Kwanza (1990-2000)</displayName>
 				<displayName count="other">Angolanesch Nei Kwanza (1990-2000)</displayName>
 			</currency>
 			<currency type="AOR">
-				<displayName>Angolaneschen Kwanza Reajustado (1995-1999)</displayName>
-				<displayName count="one">Angolaneschen Kwanza Reajustado (1995-1999)</displayName>
+				<displayName>Angolanesche Kwanza Reajustado (1995-1999)</displayName>
+				<displayName count="one">Angolanesche Kwanza Reajustado (1995-1999)</displayName>
 				<displayName count="other">Angolanesch Kwanza Reajustado (1995-1999)</displayName>
 			</currency>
 			<currency type="ARA">
@@ -3476,12 +3476,12 @@
 			<currency type="BAD">
 				<displayName>Bosnien an Herzegowina Dinar (1992-1994)</displayName>
 				<displayName count="one">Bosnien an Herzegowina Dinar (1992-1994)</displayName>
-				<displayName count="other">Bosnien an Herzegowina Dinar (1992-1994)</displayName>
+				<displayName count="other">Bosnien an Herzegowina Dinaren (1992-1994)</displayName>
 			</currency>
 			<currency type="BAM">
-				<displayName>Bosnien an Herzegowina Konvertierbare Mark</displayName>
-				<displayName count="one">Bosnien an Herzegowina Konvertierbare Mark</displayName>
-				<displayName count="other">Bosnien an Herzegowina Konvertierbare Mark</displayName>
+				<displayName>Bosnien an Herzegowina Konvertéierbar Mark</displayName>
+				<displayName count="one">Bosnien an Herzegowina Konvertéierbar Mark</displayName>
+				<displayName count="other">Bosnien an Herzegowina Konvertéierbar Mark</displayName>
 			</currency>
 			<currency type="BBD">
 				<displayName>Barbados-Dollar</displayName>
@@ -3494,34 +3494,34 @@
 				<displayName count="other">Bangladesch-Taka</displayName>
 			</currency>
 			<currency type="BEC">
-				<displayName>Belgeschen Frang (konvertibel)</displayName>
-				<displayName count="one">Belgeschen Frang (konvertibel)</displayName>
-				<displayName count="other">Belgesch Frang (konvertibel)</displayName>
+				<displayName>Belsche Frang (konvertibel)</displayName>
+				<displayName count="one">Belsche Frang (konvertibel)</displayName>
+				<displayName count="other">Belsch Frang (konvertibel)</displayName>
 			</currency>
 			<currency type="BEF">
-				<displayName>Belgeschen Frang</displayName>
-				<displayName count="one">Belgeschen Frang</displayName>
-				<displayName count="other">Belgesch Frang</displayName>
+				<displayName>Belsche Frang</displayName>
+				<displayName count="one">Belsche Frang</displayName>
+				<displayName count="other">Belsch Frang</displayName>
 			</currency>
 			<currency type="BEL">
-				<displayName>Belgeschen Finanz-Frang</displayName>
-				<displayName count="one">Belgeschen Finanz-Frang</displayName>
-				<displayName count="other">Belgesch Finanz-Frang</displayName>
+				<displayName>Belsche Finanz-Frang</displayName>
+				<displayName count="one">Belsche Finanz-Frang</displayName>
+				<displayName count="other">Belsch Finanz-Frang</displayName>
 			</currency>
 			<currency type="BGL">
 				<displayName>Bulgaresch Lew (1962-1999)</displayName>
-				<displayName count="one">Bulgaresch Lew (1962-1999)</displayName>
+				<displayName count="one">Bulgaresche Lew (1962-1999)</displayName>
 				<displayName count="other">Bulgaresch Lew (1962-1999)</displayName>
 			</currency>
 			<currency type="BGN">
 				<displayName>Bulgaresch Lew</displayName>
-				<displayName count="one">Bulgaresch Lew</displayName>
+				<displayName count="one">Bulgaresche Lew</displayName>
 				<displayName count="other">Bulgaresch Lew</displayName>
 			</currency>
 			<currency type="BHD">
 				<displayName>Bahrain-Dinar</displayName>
 				<displayName count="one">Bahrain-Dinar</displayName>
-				<displayName count="other">Bahrain-Dinar</displayName>
+				<displayName count="other">Bahrain-Dinaren</displayName>
 			</currency>
 			<currency type="BIF">
 				<displayName>Burundi-Frang</displayName>
@@ -3539,8 +3539,8 @@
 				<displayName count="other">Brunei-Dollar</displayName>
 			</currency>
 			<currency type="BOB">
-				<displayName>Bolivaneschen Boliviano</displayName>
-				<displayName count="one">Bolivaneschen Boliviano</displayName>
+				<displayName>Bolivanesche Boliviano</displayName>
+				<displayName count="one">Bolivanesche Boliviano</displayName>
 				<displayName count="other">Bolivanesch Boliviano</displayName>
 			</currency>
 			<currency type="BOP">
@@ -3549,43 +3549,45 @@
 				<displayName count="other">Bolivianesch Peso</displayName>
 			</currency>
 			<currency type="BOV">
-				<displayName>Boliviansiche Mvdol</displayName>
-				<displayName count="one">Boliviansiche Mvdol</displayName>
+				<displayName>Bolivianseche Mvdol</displayName>
+				<displayName count="one">Bolivianseche Mvdol</displayName>
 				<displayName count="other">Bolivianesch Mvdol</displayName>
 			</currency>
 			<currency type="BRB">
-				<displayName>Brasilianeschen Cruzeiro Novo (1967-1986)</displayName>
-				<displayName count="one">Brasilianeschen Cruzeiro Novo (1967-1986)</displayName>
+				<displayName>Brasilianesche Cruzeiro Novo (1967-1986)</displayName>
+				<displayName count="one">Brasilianesche Cruzeiro Novo (1967-1986)</displayName>
 				<displayName count="other">Brasilianesch Cruzeiro Novo (1967-1986)</displayName>
 			</currency>
 			<currency type="BRC">
-				<displayName>Brasilianeschen Cruzado (1986-1989)</displayName>
-				<displayName count="one">Brasilianeschen Cruzado (1986-1989)</displayName>
+				<displayName>Brasilianesche Cruzado (1986-1989)</displayName>
+				<displayName count="one">Brasilianesche Cruzado (1986-1989)</displayName>
 				<displayName count="other">Brasilianesch Cruzado (1986-1989)</displayName>
 			</currency>
 			<currency type="BRE">
-				<displayName>Brasilianeschen Cruzeiro (1990-1993)</displayName>
-				<displayName count="one">Brasilianeschen Cruzeiro (1990-1993)</displayName>
+				<displayName>Brasilianesche Cruzeiro (1990-1993)</displayName>
+				<displayName count="one">Brasilianesche Cruzeiro (1990-1993)</displayName>
 				<displayName count="other">Brasilianesch Cruzeiro (1990-1993)</displayName>
 			</currency>
 			<currency type="BRL">
-				<displayName>Brasilianeschen Real</displayName>
-				<displayName count="one">Brasilianeschen Real</displayName>
+				<displayName>Brasilianesche Real</displayName>
+				<displayName count="one">Brasilianesche Real</displayName>
 				<displayName count="other">Brasilianesch Real</displayName>
 				<symbol>R$</symbol>
 			</currency>
 			<currency type="BRN">
-				<displayName>Brasilianeschen Cruzado Novo (1989-1990)</displayName>
+				<displayName>Brasilianesche Cruzado Novo (1989-1990)</displayName>
 				<displayName count="one">Brasilianeschen Cruzado Novo (1989-1990)</displayName>
 				<displayName count="other">Brasilianesch Cruzado Novo (1989-1990)</displayName>
 			</currency>
 			<currency type="BRR">
-				<displayName>Brasilianeschen Cruzeiro (1993-1994)</displayName>
-				<displayName count="one">Brasilianeschen Cruzeiro (1993-1994)</displayName>
+				<displayName>Brasilianesche Cruzeiro (1993-1994)</displayName>
+				<displayName count="one">Brasilianesche Cruzeiro (1993-1994)</displayName>
 				<displayName count="other">Brasilianesch Cruzeiro (1993-1994)</displayName>
 			</currency>
 			<currency type="BRZ">
-				<displayName>Brasilianeschen Cruzeiro (1942-1967)</displayName>
+				<displayName>Brasilianesche Cruzeiro (1942-1967)</displayName>
+				<displayName count="one">Brasilianesche Cruzeiro (1942-1967))</displayName>
+				<displayName count="other">Brasilianesch Cruzeiro (1942-1967))</displayName>
 			</currency>
 			<currency type="BSD">
 				<displayName>Bahama-Dollar</displayName>
@@ -3598,8 +3600,8 @@
 				<displayName count="other">Bhutan-Ngultrum</displayName>
 			</currency>
 			<currency type="BUK">
-				<displayName>Birmaneschen Kyat</displayName>
-				<displayName count="one">Birmaneschen Kyat</displayName>
+				<displayName>Birmanesche Kyat</displayName>
+				<displayName count="one">Birmanesche Kyat</displayName>
 				<displayName count="other">Birmanesch Kyat</displayName>
 			</currency>
 			<currency type="BWP">
@@ -3639,18 +3641,18 @@
 				<displayName count="other">WIR-Euro</displayName>
 			</currency>
 			<currency type="CHF">
-				<displayName>Schwäizer Franken</displayName>
-				<displayName count="one">Schwäizer Franken</displayName>
-				<displayName count="other">Schwäizer Franken</displayName>
+				<displayName>Schwäizer Frang</displayName>
+				<displayName count="one">Schwäizer Frang</displayName>
+				<displayName count="other">Schwäizer Frang</displayName>
 			</currency>
 			<currency type="CHW">
-				<displayName>WIR Franken</displayName>
-				<displayName count="one">WIR Franken</displayName>
-				<displayName count="other">WIR Franken</displayName>
+				<displayName>WIR-Frang</displayName>
+				<displayName count="one">WIR-Frang</displayName>
+				<displayName count="other">WIR-Frang</displayName>
 			</currency>
 			<currency type="CLF">
-				<displayName>Chilenesch Unidades de Fomento</displayName>
-				<displayName count="one">Chilenesch Unidades de Fomento</displayName>
+				<displayName>Chileneschen Unidades de Fomento</displayName>
+				<displayName count="one">Chileneschen Unidades de Fomento</displayName>
 				<displayName count="other">Chilenesch Unidades de Fomento</displayName>
 			</currency>
 			<currency type="CLP">
@@ -3677,7 +3679,7 @@
 			<currency type="CSD">
 				<displayName>Serbeschen Dinar (2002-2006)</displayName>
 				<displayName count="one">Serbeschen Dinar (2002-2006)</displayName>
-				<displayName count="other">Serbesch Dinar (2002-2006)</displayName>
+				<displayName count="other">Serbesch Dinaren (2002-2006)</displayName>
 			</currency>
 			<currency type="CSK">
 				<displayName>Tschechoslowakesch Kroun</displayName>
@@ -3710,14 +3712,14 @@
 				<displayName count="other">Tschechesch Krounen</displayName>
 			</currency>
 			<currency type="DDM">
-				<displayName>Mark der DDR</displayName>
-				<displayName count="one">Mark der DDR</displayName>
-				<displayName count="other">Mark der DDR</displayName>
+				<displayName>DDR-Mark</displayName>
+				<displayName count="one">DDR-Mark</displayName>
+				<displayName count="other">DDR-Mark</displayName>
 			</currency>
 			<currency type="DEM">
-				<displayName>Däitsche Mark</displayName>
-				<displayName count="one">Däitsche Mark</displayName>
-				<displayName count="other">Däitsche Mark</displayName>
+				<displayName>Däitsch Mark</displayName>
+				<displayName count="one">Däitsch Mark</displayName>
+				<displayName count="other">Däitsch Mark</displayName>
 			</currency>
 			<currency type="DJF">
 				<displayName>Dschibuti-Frang</displayName>
@@ -3737,17 +3739,17 @@
 			<currency type="DZD">
 				<displayName>Algereschen Dinar</displayName>
 				<displayName count="one">Algereschen Dinar</displayName>
-				<displayName count="other">Algeresch Dinar</displayName>
+				<displayName count="other">Algeresch Dinaren</displayName>
 			</currency>
 			<currency type="ECS">
-				<displayName>Ecuadorianeschen Sucre</displayName>
-				<displayName count="one">Ecuadorianeschen Sucre</displayName>
+				<displayName>Ecuadorianesche Sucre</displayName>
+				<displayName count="one">Ecuadorianesche Sucre</displayName>
 				<displayName count="other">Ecuadorianesch Sucre</displayName>
 			</currency>
 			<currency type="ECV">
-				<displayName>Verrechnungseenheet für Ecuador</displayName>
-				<displayName count="one">Verrechnungseenheeten für Ecuador</displayName>
-				<displayName count="other">Verrechnungseenheeten für Ecuador</displayName>
+				<displayName>Verrechnungseenheete fir Ecuador</displayName>
+				<displayName count="one">Verrechnungseenheet fir Ecuador</displayName>
+				<displayName count="other">Verrechnungseenheete fir Ecuador</displayName>
 			</currency>
 			<currency type="EEK">
 				<displayName>Estnesch Kroun</displayName>
@@ -3817,13 +3819,13 @@
 				<symbol>£</symbol>
 			</currency>
 			<currency type="GEK">
-				<displayName>Georgeschen Kupon Larit</displayName>
-				<displayName count="one">Georgeschen Kupon Larit</displayName>
+				<displayName>Georgesche Kupon Larit</displayName>
+				<displayName count="one">Georgesche Kupon Larit</displayName>
 				<displayName count="other">Georgesch Kupon Larit</displayName>
 			</currency>
 			<currency type="GEL">
-				<displayName>Georgeschen Lari</displayName>
-				<displayName count="one">Georgeschen Lari</displayName>
+				<displayName>Georgesche Lari</displayName>
+				<displayName count="one">Georgesche Lari</displayName>
 				<displayName count="other">Georgesch Lari</displayName>
 			</currency>
 			<currency type="GHC">
@@ -3852,8 +3854,8 @@
 				<displayName count="other">Guinea-Frang</displayName>
 			</currency>
 			<currency type="GNS">
-				<displayName>Guineeschen Syli</displayName>
-				<displayName count="one">Guineeschen Syli</displayName>
+				<displayName>Guineesche Syli</displayName>
+				<displayName count="one">Guineesche Syli</displayName>
 				<displayName count="other">Guineesch Syli</displayName>
 			</currency>
 			<currency type="GQE">
@@ -3867,14 +3869,14 @@
 				<displayName count="other">Griichesch Drachmen</displayName>
 			</currency>
 			<currency type="GTQ">
-				<displayName>Guatemaltekeschen Quetzal</displayName>
-				<displayName count="one">Guatemaltekeschen Quetzal</displayName>
+				<displayName>Guatemaltekesche Quetzal</displayName>
+				<displayName count="one">Guatemaltekesche Quetzal</displayName>
 				<displayName count="other">Guatemaltekesch Quetzales</displayName>
 			</currency>
 			<currency type="GWE">
-				<displayName>Portugiesesch Guinea Escudo</displayName>
-				<displayName count="one">Portugiesesch Guinea Escudo</displayName>
-				<displayName count="other">Portugiesesch Guinea Escudo</displayName>
+				<displayName>Portugiesesch-Guinea Escudo</displayName>
+				<displayName count="one">Portugiesesch-Guinea Escudo</displayName>
+				<displayName count="other">Portugiesesch-Guinea Escudo</displayName>
 			</currency>
 			<currency type="GWP">
 				<displayName>Guinea-Bissau Peso</displayName>
@@ -3900,11 +3902,11 @@
 			<currency type="HRD">
 				<displayName>Kroateschen Dinar</displayName>
 				<displayName count="one">Kroateschen Dinar</displayName>
-				<displayName count="other">Kroatesch Dinar</displayName>
+				<displayName count="other">Kroatesch Dinaren</displayName>
 			</currency>
 			<currency type="HRK">
-				<displayName>Kroateschen Kuna</displayName>
-				<displayName count="one">Kroateschen Kuna</displayName>
+				<displayName>Kroatesche Kuna</displayName>
+				<displayName count="one">Kroatesche Kuna</displayName>
 				<displayName count="other">Kroatesch Kuna</displayName>
 			</currency>
 			<currency type="HTG">
@@ -3913,8 +3915,8 @@
 				<displayName count="other">Haitianesch Gourde</displayName>
 			</currency>
 			<currency type="HUF">
-				<displayName>Ungaresch Forint</displayName>
-				<displayName count="one">Ungareschen Forint</displayName>
+				<displayName>Ungaresche Forint</displayName>
+				<displayName count="one">Ungaresche Forint</displayName>
 				<displayName count="other">Ungaresch Forint</displayName>
 			</currency>
 			<currency type="IDR">
@@ -3933,8 +3935,8 @@
 				<displayName count="other">Israelesch Pond</displayName>
 			</currency>
 			<currency type="ILS">
-				<displayName>Israelesch Neien Schekel</displayName>
-				<displayName count="one">Israeleschen Neien Schekel</displayName>
+				<displayName>Israeleschen Neie Schekel</displayName>
+				<displayName count="one">Israeleschen Neie Schekel</displayName>
 				<displayName count="other">Israelesch Nei Schekel</displayName>
 				<symbol>₪</symbol>
 			</currency>
@@ -3947,7 +3949,7 @@
 			<currency type="IQD">
 				<displayName>Irakeschen Dinar</displayName>
 				<displayName count="one">Irakeschen Dinar</displayName>
-				<displayName count="other">Irakesch Dinar</displayName>
+				<displayName count="other">Irakesch Dinaren</displayName>
 			</currency>
 			<currency type="IRR">
 				<displayName>Iranesch Rial</displayName>
@@ -3972,11 +3974,11 @@
 			<currency type="JOD">
 				<displayName>Jordaneschen Dinar</displayName>
 				<displayName count="one">Jordaneschen Dinar</displayName>
-				<displayName count="other">Jordanesch Dinar</displayName>
+				<displayName count="other">Jordanesch Dinaren</displayName>
 			</currency>
 			<currency type="JPY">
-				<displayName>Japanesch Yen</displayName>
-				<displayName count="one">Japaneschen Yen</displayName>
+				<displayName>Japanesche Yen</displayName>
+				<displayName count="one">Japanesche Yen</displayName>
 				<displayName count="other">Japanesch Yen</displayName>
 				<symbol>¥</symbol>
 			</currency>
@@ -3986,13 +3988,13 @@
 				<displayName count="other">Kenia-Schilling</displayName>
 			</currency>
 			<currency type="KGS">
-				<displayName>Kirgiseschen Som</displayName>
-				<displayName count="one">Kirgiseschen Som</displayName>
+				<displayName>Kirgisesche Som</displayName>
+				<displayName count="one">Kirgisesche Som</displayName>
 				<displayName count="other">Kirgisesch Som</displayName>
 			</currency>
 			<currency type="KHR">
-				<displayName>Kambodschaneschen Riel</displayName>
-				<displayName count="one">Kambodschaneschen Riel</displayName>
+				<displayName>Kambodschanesche Riel</displayName>
+				<displayName count="one">Kambodschanesche Riel</displayName>
 				<displayName count="other">Kambodschanesch Riel</displayName>
 			</currency>
 			<currency type="KMF">
@@ -4001,20 +4003,20 @@
 				<displayName count="other">Komore-Frang</displayName>
 			</currency>
 			<currency type="KPW">
-				<displayName>Nordkoreaneschen Won</displayName>
-				<displayName count="one">Nordkoreaneschen Won</displayName>
+				<displayName>Nordkoreanesche Won</displayName>
+				<displayName count="one">Nordkoreanesche Won</displayName>
 				<displayName count="other">Nordkoreanesch Won</displayName>
 			</currency>
 			<currency type="KRW">
-				<displayName>Südkoreaneschen Won</displayName>
-				<displayName count="one">Südkoreaneschen Won</displayName>
+				<displayName>Südkoreanesche Won</displayName>
+				<displayName count="one">Südkoreanesche Won</displayName>
 				<displayName count="other">Südkoreanesch Won</displayName>
 				<symbol>₩</symbol>
 			</currency>
 			<currency type="KWD">
 				<displayName>Kuwait-Dinar</displayName>
 				<displayName count="one">Kuwait-Dinar</displayName>
-				<displayName count="other">Kuwait-Dinar</displayName>
+				<displayName count="other">Kuwait-Dinaren</displayName>
 			</currency>
 			<currency type="KYD">
 				<displayName>Kaiman-Dollar</displayName>
@@ -4052,44 +4054,44 @@
 				<displayName count="other">Loti</displayName>
 			</currency>
 			<currency type="LTL">
-				<displayName>Litaueschen Litas</displayName>
-				<displayName count="one">Litaueschen Litas</displayName>
+				<displayName>Litauesche Litas</displayName>
+				<displayName count="one">Litauesche Litas</displayName>
 				<displayName count="other">Litauesch Litas</displayName>
 			</currency>
 			<currency type="LTT">
 				<displayName>Litaueschen Talonas</displayName>
-				<displayName count="one">Litauesch Talonas</displayName>
+				<displayName count="one">Litaueschen Talonas</displayName>
 				<displayName count="other">Litauesch Talonas</displayName>
 			</currency>
 			<currency type="LUC">
-				<displayName>Lëtzebuergesche Frang (konvertibel)</displayName>
-				<displayName count="one">Lëtzebuergesche Frang (konvertibel)</displayName>
-				<displayName count="other">Lëtzebuergesch Frang (konvertibel)</displayName>
+				<displayName>Lëtzebuerger Frang (konvertibel)</displayName>
+				<displayName count="one">Lëtzebuerger Frang (konvertibel)</displayName>
+				<displayName count="other">Lëtzebuerger Frang (konvertibel)</displayName>
 			</currency>
 			<currency type="LUF">
-				<displayName>Lëtzebuergesche Frang</displayName>
-				<displayName count="one">Lëtzebuergesche Frang</displayName>
-				<displayName count="other">Lëtzebuergesch Frang</displayName>
+				<displayName>Lëtzebuerger Frang</displayName>
+				<displayName count="one">Lëtzebuerger Frang</displayName>
+				<displayName count="other">Lëtzebuerger Frang</displayName>
 			</currency>
 			<currency type="LUL">
-				<displayName>Lëtzebuergesche Finanz-Frang</displayName>
-				<displayName count="one">Lëtzebuergesche Finanz-Frang</displayName>
-				<displayName count="other">Lëtzebuergesch Finanz-Frang</displayName>
+				<displayName>Lëtzebuerger Finanz-Frang</displayName>
+				<displayName count="one">Lëtzebuerger Finanz-Frang</displayName>
+				<displayName count="other">Lëtzebuerger Finanz-Frang</displayName>
 			</currency>
 			<currency type="LVL">
-				<displayName>Letteschen Lats</displayName>
-				<displayName count="one">Letteschen Lats</displayName>
+				<displayName>Lettesche Lats</displayName>
+				<displayName count="one">Lettesche Lats</displayName>
 				<displayName count="other">Lettesch Lats</displayName>
 			</currency>
 			<currency type="LVR">
-				<displayName>Letteschen Rubel</displayName>
-				<displayName count="one">Lettesch Rubel</displayName>
+				<displayName>Lettesche Rubel</displayName>
+				<displayName count="one">Lettesche Rubel</displayName>
 				<displayName count="other">Lettesch Rubel</displayName>
 			</currency>
 			<currency type="LYD">
-				<displayName>Libyscher Dinar</displayName>
-				<displayName count="one">Libyscher Dinar</displayName>
-				<displayName count="other">Libysche Dinar</displayName>
+				<displayName>Libeschen Dinar</displayName>
+				<displayName count="one">Libeschen Dinar</displayName>
+				<displayName count="other">Libesch Dinaren</displayName>
 			</currency>
 			<currency type="MAD">
 				<displayName>Marokkaneschen Dirham</displayName>
@@ -4097,8 +4099,8 @@
 				<displayName count="other">Marokkanesch Dirham</displayName>
 			</currency>
 			<currency type="MAF">
-				<displayName>Marokkaneschen Frang</displayName>
-				<displayName count="one">Marokkanesch Frang</displayName>
+				<displayName>Marokkanesche Frang</displayName>
+				<displayName count="one">Marokkanesche Frang</displayName>
 				<displayName count="other">Marokkanesch Frang</displayName>
 			</currency>
 			<currency type="MDL">
@@ -4122,13 +4124,13 @@
 				<displayName count="other">Mazedonesch Denari</displayName>
 			</currency>
 			<currency type="MLF">
-				<displayName>Maleschen Frang</displayName>
-				<displayName count="one">Malesch Frang</displayName>
+				<displayName>Malesche Frang</displayName>
+				<displayName count="one">Malesche Frang</displayName>
 				<displayName count="other">Malesch Frang</displayName>
 			</currency>
 			<currency type="MMK">
-				<displayName>Myanmareschen Kyat</displayName>
-				<displayName count="one">Myanmareschen Kyat</displayName>
+				<displayName>Myanmaresche Kyat</displayName>
+				<displayName count="one">Myanmaresche Kyat</displayName>
 				<displayName count="other">Myanmaresch Kyat</displayName>
 			</currency>
 			<currency type="MNT">
@@ -4153,7 +4155,7 @@
 			</currency>
 			<currency type="MTP">
 				<displayName>Maltesescht Pond</displayName>
-				<displayName count="one">Maltesesch Pond</displayName>
+				<displayName count="one">Maltesescht Pond</displayName>
 				<displayName count="other">Maltesesch Pond</displayName>
 			</currency>
 			<currency type="MUR">
@@ -4164,7 +4166,7 @@
 			<currency type="MVR">
 				<displayName>Malediven-Rupie</displayName>
 				<displayName count="one">Malediven-Rupie</displayName>
-				<displayName count="other">Malediven-Rupie</displayName>
+				<displayName count="other">Malediven-Rupien</displayName>
 			</currency>
 			<currency type="MWK">
 				<displayName>Malawi-Kwacha</displayName>
@@ -4198,13 +4200,13 @@
 				<displayName count="other">Mozambikanesch Escudo</displayName>
 			</currency>
 			<currency type="MZM">
-				<displayName>Mosambikaneschen Metical (1980-2006)</displayName>
-				<displayName count="one">Mosambikaneschen Metical (1980-2006)</displayName>
+				<displayName>Mosambikanesche Metical (1980-2006)</displayName>
+				<displayName count="one">Mosambikanesche Metical (1980-2006)</displayName>
 				<displayName count="other">Mosambikanesch Meticais (1980-2006)</displayName>
 			</currency>
 			<currency type="MZN">
-				<displayName>Mosambikaneschen Metical</displayName>
-				<displayName count="one">Mosambikaneschen Metical</displayName>
+				<displayName>Mosambikanesche Metical</displayName>
+				<displayName count="one">Mosambikanesche Metical</displayName>
 				<displayName count="other">Mosambikanesch Meticais</displayName>
 			</currency>
 			<currency type="NAD">
@@ -4218,8 +4220,8 @@
 				<displayName count="other">Nigerianesch Naira</displayName>
 			</currency>
 			<currency type="NIC">
-				<displayName>Nicaraguaneschen Córdoba (1988-1991)</displayName>
-				<displayName count="one">Nicaraguaneschen Córdoba (1988-1991)</displayName>
+				<displayName>Nicaraguanesche Córdoba (1988-1991)</displayName>
+				<displayName count="one">Nicaraguanesche Córdoba (1988-1991)</displayName>
 				<displayName count="other">Nicaraguanesch Córdoba (1988-1991)</displayName>
 			</currency>
 			<currency type="NIO">
@@ -4249,39 +4251,39 @@
 				<symbol>NZ$</symbol>
 			</currency>
 			<currency type="OMR">
-				<displayName>Omaneschen Rial</displayName>
-				<displayName count="one">Omaneschen Rial</displayName>
+				<displayName>Omanesche Rial</displayName>
+				<displayName count="one">Omanesche Rial</displayName>
 				<displayName count="other">Omanesch Rials</displayName>
 			</currency>
 			<currency type="PAB">
-				<displayName>Panamaeschen Balboa</displayName>
-				<displayName count="one">Panamaeschen Balboa</displayName>
+				<displayName>Panamaesche Balboa</displayName>
+				<displayName count="one">Panamaesche Balboa</displayName>
 				<displayName count="other">Panamaesch Balboas</displayName>
 			</currency>
 			<currency type="PEI">
 				<displayName>Peruaneschen Inti</displayName>
-				<displayName count="one">Peruanesch Inti</displayName>
+				<displayName count="one">Peruaneschen Inti</displayName>
 				<displayName count="other">Peruanesch Inti</displayName>
 			</currency>
 			<currency type="PEN">
-				<displayName>Peruaneschen Neien Sol</displayName>
-				<displayName count="one">Peruaneschen Neien Sol</displayName>
+				<displayName>Peruaneschen Neie Sol</displayName>
+				<displayName count="one">Peruaneschen Neie Sol</displayName>
 				<displayName count="other">Peruanesch Nei Sol</displayName>
 			</currency>
 			<currency type="PES">
-				<displayName>Peruaneschen Sol (1863-1965)</displayName>
-				<displayName count="one">Peruaneschen Sol (1863-1965)</displayName>
+				<displayName>Peruanesche Sol (1863-1965)</displayName>
+				<displayName count="one">Peruanesche Sol (1863-1965)</displayName>
 				<displayName count="other">Peruanesch Sol (1863-1965)</displayName>
 			</currency>
 			<currency type="PGK">
-				<displayName>Papua-Neuguineeschen Kina</displayName>
-				<displayName count="one">Papua-Neuguineeschen Kina</displayName>
+				<displayName>Papua-Neuguineesche Kina</displayName>
+				<displayName count="one">Papua-Neuguineesche Kina</displayName>
 				<displayName count="other">Papua-Neuguineesch Kina</displayName>
 			</currency>
 			<currency type="PHP">
-				<displayName>Philippinesche Peso</displayName>
-				<displayName count="one">Philippinesche Peso</displayName>
-				<displayName count="other">Philippinesch Pesos</displayName>
+				<displayName>Philippinnesche Peso</displayName>
+				<displayName count="one">Philippinnesche Peso</displayName>
+				<displayName count="other">Philippinnesch Pesos</displayName>
 			</currency>
 			<currency type="PKR">
 				<displayName>Pakistanesch Rupie</displayName>
@@ -4299,8 +4301,8 @@
 				<displayName count="other">Polnesch Zloty (1950-1995)</displayName>
 			</currency>
 			<currency type="PTE">
-				<displayName>Portugiseschr Escudo</displayName>
-				<displayName count="one">Portugisesch Escudo</displayName>
+				<displayName>Portugiseschen Escudo</displayName>
+				<displayName count="one">Portugiseschen Escudo</displayName>
 				<displayName count="other">Portugisesch Escudo</displayName>
 			</currency>
 			<currency type="PYG">
@@ -4315,17 +4317,17 @@
 			</currency>
 			<currency type="RHD">
 				<displayName>Rhodeseschen Dollar</displayName>
-				<displayName count="one">Rhodesesch Dollar</displayName>
+				<displayName count="one">Rhodeseschen Dollar</displayName>
 				<displayName count="other">Rhodesesch Dollar</displayName>
 			</currency>
 			<currency type="ROL">
-				<displayName>Rumäneschen Leu (1952-2006)</displayName>
-				<displayName count="one">Rumäneschen Leu (1952-2006)</displayName>
+				<displayName>Rumänesche Leu (1952-2006)</displayName>
+				<displayName count="one">Rumänesche Leu (1952-2006)</displayName>
 				<displayName count="other">Rumänesch Leu (1952-2006)</displayName>
 			</currency>
 			<currency type="RON">
-				<displayName>Rumäneschen Leu</displayName>
-				<displayName count="one">Rumäneschen Leu</displayName>
+				<displayName>Rumänesche Leu</displayName>
+				<displayName count="one">Rumänesche Leu</displayName>
 				<displayName count="other">Rumänesch Leu</displayName>
 			</currency>
 			<currency type="RSD">
@@ -4334,13 +4336,13 @@
 				<displayName count="other">Serbesch Dinaren</displayName>
 			</currency>
 			<currency type="RUB">
-				<displayName>Russeschen Rubel</displayName>
-				<displayName count="one">Russeschen Rubel</displayName>
+				<displayName>Russesche Rubel</displayName>
+				<displayName count="one">Russesche Rubel</displayName>
 				<displayName count="other">Russesch Rubel</displayName>
 			</currency>
 			<currency type="RUR">
-				<displayName>Russeschen Rubel (1991-1998)</displayName>
-				<displayName count="one">Russeschen Rubel (1991-1998)</displayName>
+				<displayName>Russesche Rubel (1991-1998)</displayName>
+				<displayName count="one">Russesche Rubel (1991-1998)</displayName>
 				<displayName count="other">Russesch Rubel (1991-1998)</displayName>
 			</currency>
 			<currency type="RWF">
@@ -4366,7 +4368,7 @@
 			<currency type="SDD">
 				<displayName>Sudaneseschen Dinar (1992-2007)</displayName>
 				<displayName count="one">Sudaneseschen Dinar (1992-2007)</displayName>
-				<displayName count="other">Sudanesesch Dinar (1992-2007)</displayName>
+				<displayName count="other">Sudanesesch Dinaren (1992-2007)</displayName>
 			</currency>
 			<currency type="SDG">
 				<displayName>Sudanesescht Pond</displayName>
@@ -4400,12 +4402,12 @@
 			</currency>
 			<currency type="SKK">
 				<displayName>Slowakesch Kroun</displayName>
-				<displayName count="one">Slowakesch Krounen</displayName>
+				<displayName count="one">Slowakesch Kroun</displayName>
 				<displayName count="other">Slowakesch Krounen</displayName>
 			</currency>
 			<currency type="SLL">
-				<displayName>Sierra-leoneschen Leone</displayName>
-				<displayName count="one">Sierra-leoneschen Leone</displayName>
+				<displayName>Sierra-leonesche Leone</displayName>
+				<displayName count="one">Sierra-leonesche Leone</displayName>
 				<displayName count="other">Sierra-leonesch Leones</displayName>
 			</currency>
 			<currency type="SOS">
@@ -4434,14 +4436,14 @@
 				<displayName count="other">São-toméesch Dobra</displayName>
 			</currency>
 			<currency type="SUR">
-				<displayName>Sowjeteschen Rubel</displayName>
-				<displayName count="one">Sowjetesch Rubel</displayName>
+				<displayName>Sowjetesche Rubel</displayName>
+				<displayName count="one">Sowjetesche Rubel</displayName>
 				<displayName count="other">Sowjetesch Rubel</displayName>
 			</currency>
 			<currency type="SVC">
-				<displayName>El Salvador Colon</displayName>
-				<displayName count="one">El Salvador-Colon</displayName>
-				<displayName count="other">El Salvador-Colon</displayName>
+				<displayName>El-Salvador-Colon</displayName>
+				<displayName count="one">El-Salvador-Colon</displayName>
+				<displayName count="other">El-Salvador-Colon</displayName>
 			</currency>
 			<currency type="SYP">
 				<displayName>Syrescht Pond</displayName>
@@ -4449,18 +4451,18 @@
 				<displayName count="other">Syresch Pond</displayName>
 			</currency>
 			<currency type="SZL">
-				<displayName>Swasilänneschen Lilangeni</displayName>
-				<displayName count="one">Swasilänneschen Lilangeni</displayName>
-				<displayName count="other">Swasilännesch Emalangeni</displayName>
+				<displayName>Swasilännesche Lilangeni</displayName>
+				<displayName count="one">Swasilännesche Lilangeni</displayName>
+				<displayName count="other">Swasilännesch Lilangeni</displayName>
 			</currency>
 			<currency type="THB">
-				<displayName>Thailänneschen Baht</displayName>
-				<displayName count="one">Thailänneschen Baht</displayName>
+				<displayName>Thailännesche Baht</displayName>
+				<displayName count="one">Thailännesche Baht</displayName>
 				<displayName count="other">Thailännesch Baht</displayName>
 				<symbol>฿</symbol>
 			</currency>
 			<currency type="TJR">
-				<displayName>Tadschikistan Rubel</displayName>
+				<displayName>Tadschikistan-Rubel</displayName>
 				<displayName count="one">Tadschikistan-Rubel</displayName>
 				<displayName count="other">Tadschikistan-Rubel</displayName>
 			</currency>
@@ -4482,7 +4484,7 @@
 			<currency type="TND">
 				<displayName>Tuneseschen Dinar</displayName>
 				<displayName count="one">Tuneseschen Dinar</displayName>
-				<displayName count="other">Tunesesch Dinar</displayName>
+				<displayName count="other">Tunesesch Dinaren</displayName>
 			</currency>
 			<currency type="TOP">
 				<displayName>Tongaeschen Paʻanga</displayName>
@@ -4495,14 +4497,14 @@
 				<displayName count="other">Timor-Escudo</displayName>
 			</currency>
 			<currency type="TRL">
-				<displayName>Türkesch Lira (1922-2005)</displayName>
-				<displayName count="one">Türkesch Lira (1922-2005)</displayName>
-				<displayName count="other">Türkesch Lira (1922-2005)</displayName>
+				<displayName>Tierkesch Lira (1922-2005)</displayName>
+				<displayName count="one">Tierkesch Lira (1922-2005)</displayName>
+				<displayName count="other">Tierkesch Lira (1922-2005)</displayName>
 			</currency>
 			<currency type="TRY">
-				<displayName>Türkesch Lira</displayName>
-				<displayName count="one">Türkesch Lira</displayName>
-				<displayName count="other">Türkesch Lira</displayName>
+				<displayName>Tierkesch Lira</displayName>
+				<displayName count="one">Tierkesch Lira</displayName>
+				<displayName count="other">Tierkesch Lira</displayName>
 			</currency>
 			<currency type="TTD">
 				<displayName>Trinidad an Tobago-Dollar</displayName>
@@ -4521,13 +4523,13 @@
 				<displayName count="other">Tansania-Schilling</displayName>
 			</currency>
 			<currency type="UAH">
-				<displayName>Ukrainesch Hrywnja</displayName>
-				<displayName count="one">Ukrainesch Hrywnja</displayName>
+				<displayName>Ukraineschen Hrywnja</displayName>
+				<displayName count="one">Ukraineschen Hrywnja</displayName>
 				<displayName count="other">Ukrainesch Hrywen</displayName>
 			</currency>
 			<currency type="UAK">
-				<displayName>Ukraineschen Karbovanetz</displayName>
-				<displayName count="one">Ukrainesch Karbovanetz</displayName>
+				<displayName>Ukrainesche Karbovanetz</displayName>
+				<displayName count="one">Ukrainesche Karbovanetz</displayName>
 				<displayName count="other">Ukrainesch Karbovanetz</displayName>
 			</currency>
 			<currency type="UGS">
@@ -4547,14 +4549,14 @@
 				<symbol>$</symbol>
 			</currency>
 			<currency type="USN">
-				<displayName>US Dollar (Nächste Dag)</displayName>
-				<displayName count="one">US-Dollar (Nächste Dag)</displayName>
-				<displayName count="other">US-Dollar (Nächste Dag)</displayName>
+				<displayName>US Dollar (Nächsten Dag)</displayName>
+				<displayName count="one">US-Dollar (Nächsten Dag)</displayName>
+				<displayName count="other">US-Dollar (Nächsten Dag)</displayName>
 			</currency>
 			<currency type="USS">
-				<displayName>US Dollar (Gleicher Dag)</displayName>
-				<displayName count="one">US-Dollar (Gleicher Dag)</displayName>
-				<displayName count="other">US-Dollar (Gleicher Dag)</displayName>
+				<displayName>US Dollar (Selweschten Dag)</displayName>
+				<displayName count="one">US-Dollar (Selweschten Dag)</displayName>
+				<displayName count="other">US-Dollar (Selweschten Dag)</displayName>
 			</currency>
 			<currency type="UYP">
 				<displayName>Uruguayesche Peso (1975-1993)</displayName>
@@ -4572,13 +4574,13 @@
 				<displayName count="other">Usbekistan-Sum</displayName>
 			</currency>
 			<currency type="VEB">
-				<displayName>Venezolaneschen Bolívar (1871-2008)</displayName>
-				<displayName count="one">Venezolaneschen Bolívar (1871-2008)</displayName>
+				<displayName>Venezolanesche Bolívar (1871-2008)</displayName>
+				<displayName count="one">Venezolanesche Bolívar (1871-2008)</displayName>
 				<displayName count="other">Venezolanesch Bolívares (1871-2008)</displayName>
 			</currency>
 			<currency type="VEF">
-				<displayName>Venezolaneschen Bolívar</displayName>
-				<displayName count="one">Venezolaneschen Bolívar</displayName>
+				<displayName>Venezolanesche Bolívar</displayName>
+				<displayName count="one">Venezolanesche Bolívar</displayName>
 				<displayName count="other">Venezolanesch Bolívares</displayName>
 			</currency>
 			<currency type="VND">
@@ -4615,22 +4617,22 @@
 			</currency>
 			<currency type="XBA">
 				<displayName>Europäesch Rechnungseenheet</displayName>
-				<displayName count="one">Europäesch Rechnungseenheeten</displayName>
+				<displayName count="one">Europäesch Rechnungseenheet</displayName>
 				<displayName count="other">Europäesch Rechnungseenheeten</displayName>
 			</currency>
 			<currency type="XBB">
 				<displayName>Europäesch Währungseenheet (XBB)</displayName>
-				<displayName count="one">Europäesch Währungseenheeten (XBB)</displayName>
+				<displayName count="one">Europäesch Währungseenheet (XBB)</displayName>
 				<displayName count="other">Europäesch Währungseenheeten (XBB)</displayName>
 			</currency>
 			<currency type="XBC">
 				<displayName>Europäesch Rechnungseenheet (XBC)</displayName>
-				<displayName count="one">Europäesch Rechnungseenheeten (XBC)</displayName>
+				<displayName count="one">Europäesch Rechnungseenheet (XBC)</displayName>
 				<displayName count="other">Europäesch Rechnungseenheeten (XBC)</displayName>
 			</currency>
 			<currency type="XBD">
 				<displayName>Europäesch Rechnungseenheet (XBD)</displayName>
-				<displayName count="one">Europäesch Rechnungseenheeten (XBD)</displayName>
+				<displayName count="one">Europäesch Rechnungseenheet (XBD)</displayName>
 				<displayName count="other">Europäesch Rechnungseenheeten (XBD)</displayName>
 			</currency>
 			<currency type="XCD">
@@ -4640,13 +4642,13 @@
 				<symbol>EC$</symbol>
 			</currency>
 			<currency type="XDR">
-				<displayName>Sonderziehungsrechte</displayName>
-				<displayName count="one">Sonderziehungsrechte</displayName>
-				<displayName count="other">Sonderziehungsrechte</displayName>
+				<displayName>Sonner-Zéiungsrecht</displayName>
+				<displayName count="one">Sonner-Zéiungsrecht</displayName>
+				<displayName count="other">Sonner-Zéiungsrechter</displayName>
 			</currency>
 			<currency type="XEU">
 				<displayName>Europäesch Währungseenheet (XEU)</displayName>
-				<displayName count="one">Europäesch Währungseenheeten (XEU)</displayName>
+				<displayName count="one">Europäesch Währungseenheet (XEU)</displayName>
 				<displayName count="other">Europäesch Währungseenheeten (XEU)</displayName>
 			</currency>
 			<currency type="XFO">
@@ -4655,8 +4657,8 @@
 				<displayName count="other">Franséisch Gold-Frang</displayName>
 			</currency>
 			<currency type="XFU">
-				<displayName>Franséische UIC-Frang</displayName>
-				<displayName count="one">Franséische UIC-Frang</displayName>
+				<displayName>Franséischen UIC-Frang</displayName>
+				<displayName count="one">Franséischen UIC-Frang</displayName>
 				<displayName count="other">Franséisch UIC-Frang</displayName>
 			</currency>
 			<currency type="XOF">
@@ -4666,7 +4668,7 @@
 				<symbol>CFA</symbol>
 			</currency>
 			<currency type="XPD">
-				<displayName>Onze Palladium</displayName>
+				<displayName>Onz Palladium</displayName>
 				<displayName count="one">Onz Palladium</displayName>
 				<displayName count="other">Onze Palladium</displayName>
 			</currency>
@@ -4677,7 +4679,7 @@
 				<symbol>CFPF</symbol>
 			</currency>
 			<currency type="XPT">
-				<displayName>Onze Platin</displayName>
+				<displayName>Onz Platin</displayName>
 				<displayName count="one">Onz Platin</displayName>
 				<displayName count="other">Onze Platin</displayName>
 			</currency>
@@ -4699,7 +4701,7 @@
 			<currency type="YDD">
 				<displayName>Jemen-Dinar</displayName>
 				<displayName count="one">Jemen-Dinar</displayName>
-				<displayName count="other">Jemen-Dinar</displayName>
+				<displayName count="other">Jemen-Dinaren</displayName>
 			</currency>
 			<currency type="YER">
 				<displayName>Jemen-Rial</displayName>
@@ -4709,26 +4711,26 @@
 			<currency type="YUD">
 				<displayName>Jugoslaweschen Dinar (1966-1990)</displayName>
 				<displayName count="one">Jugoslaweschen Dinar (1966-1990)</displayName>
-				<displayName count="other">Jugoslawesch Dinar (1966-1990)</displayName>
+				<displayName count="other">Jugoslawesch Dinaren (1966-1990)</displayName>
 			</currency>
 			<currency type="YUM">
 				<displayName>Jugoslaweschen Neien Dinar (1994-2002)</displayName>
 				<displayName count="one">Jugoslaweschen Neien Dinar (1994-2002)</displayName>
-				<displayName count="other">Jugoslawesch Nei Dinar (1994-2002)</displayName>
+				<displayName count="other">Jugoslawesch Nei Dinaren (1994-2002)</displayName>
 			</currency>
 			<currency type="YUN">
 				<displayName>Jugoslaweschen Dinar (konvertibel)</displayName>
-				<displayName count="one">Jugoslawesch Dinar (konvertibel)</displayName>
-				<displayName count="other">Jugoslawesch Dinar (konvertibel)</displayName>
+				<displayName count="one">Jugoslaweschen Dinar (konvertibel)</displayName>
+				<displayName count="other">Jugoslawesch Dinaren (konvertibel)</displayName>
 			</currency>
 			<currency type="ZAL">
-				<displayName>Südafrikaneschen Rand (Finanz)</displayName>
-				<displayName count="one">Südafrikaneschen Rand (Finanz)</displayName>
+				<displayName>Südafrikanesche Rand (Finanz)</displayName>
+				<displayName count="one">Südafrikanesche Rand (Finanz)</displayName>
 				<displayName count="other">Südafrikaneschen Rand (Finanz)</displayName>
 			</currency>
 			<currency type="ZAR">
-				<displayName>Südafrikaneschen Rand</displayName>
-				<displayName count="one">Südafrikaneschen Rand</displayName>
+				<displayName>Südafrikanesche Rand</displayName>
+				<displayName count="one">Südafrikanesche Rand</displayName>
 				<displayName count="other">Südafrikanesch Rand</displayName>
 			</currency>
 			<currency type="ZMK">
@@ -4744,12 +4746,12 @@
 			<currency type="ZRN">
 				<displayName>Zaire-Neien Zaïre (1993-1998)</displayName>
 				<displayName count="one">Zaire-Neien Zaïre (1993-1998)</displayName>
-				<displayName count="other">Zaire-Nei Zaïre (1993-1998)</displayName>
+				<displayName count="other">Zaire-Nei Zaïren (1993-1998)</displayName>
 			</currency>
 			<currency type="ZRZ">
 				<displayName>Zaire-Zaïre (1971-1993)</displayName>
 				<displayName count="one">Zaire-Zaïre (1971-1993)</displayName>
-				<displayName count="other">Zaire-Zaïre (1971-1993)</displayName>
+				<displayName count="other">Zaire-Zaïren (1971-1993)</displayName>
 			</currency>
 			<currency type="ZWD">
 				<displayName>Simbabwe-Dollar (1980-2008)</displayName>
@@ -4774,8 +4776,8 @@
 				<compoundUnitPattern>{0} pro {1}</compoundUnitPattern>
 			</compoundUnit>
 			<unit type="acceleration-g-force">
-				<unitPattern count="one">{0}-fache Äerdbeschleinegung</unitPattern>
-				<unitPattern count="other">{0}-fache Äerdbeschleinegung</unitPattern>
+				<unitPattern count="one">{0}-fach Äerdbeschleinegung</unitPattern>
+				<unitPattern count="other">{0}-fach Äerdbeschleinegung</unitPattern>
 			</unit>
 			<unit type="angle-arc-minute">
 				<unitPattern count="one">{0} Wénkelminutt</unitPattern>
@@ -5348,10 +5350,10 @@
 	</units>
 	<listPatterns>
 		<listPattern>
-			<listPatternPart type="2">{0} an {1}</listPatternPart>
+			<listPatternPart type="2">{0} a(n) {1}</listPatternPart>
 			<listPatternPart type="start">{0}, {1}</listPatternPart>
 			<listPatternPart type="middle">{0}, {1}</listPatternPart>
-			<listPatternPart type="end">{0} an {1}</listPatternPart>
+			<listPatternPart type="end">{0} a(n) {1}</listPatternPart>
 		</listPattern>
 	</listPatterns>
 	<posix>
