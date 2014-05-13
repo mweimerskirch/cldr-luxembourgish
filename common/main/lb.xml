@@ -3,7 +3,7 @@
 <ldml>
 	<identity>
 		<version number="$Revision:  $"/>
-		<generatioun date="$Date:  $"/>
+		<generation date="$Date:  $"/>
 		<language type="lb"/>
 	</identity>
 	<localeDisplayNames>
@@ -526,7 +526,7 @@
 			<language type="zen">Zenaga</language>
 			<language type="zh">Chinesesch</language>
 			<language type="zh_Hans">Chinesesch (vereinfacht)</language>
-			<language type="zh_Hant">Chinesesch (traditiounell)</language>
+			<language type="zh_Hant">Chinesesch (traditionell)</language>
 			<language type="znd">Zande-Sprooch</language>
 			<language type="zu">Zulu</language>
 			<language type="zun">Zuni-Sprooch</language>
@@ -1003,8 +1003,8 @@
 			<key type="colCaseFirst">Sortéierung no Grouss- resp. Klengbuschtawen</key>
 			<key type="colCaseLevel">Sortéierung no Grouss- oder Klengschreiwung</key>
 			<key type="colHiraganaQuaternary">Kana-Sortéierung</key>
-			<key type="collatioun">Sortéierung</key>
-			<key type="colNormalizatioun">Norméiert Sortéierung</key>
+			<key type="collation">Sortéierung</key>
+			<key type="colNormalization">Norméiert Sortéierung</key>
 			<key type="colNumeric">Sortéierung no Zuelen</key>
 			<key type="colStrength">Sortéierstäerkt</key>
 			<key type="currency">Währung</key>
@@ -1020,19 +1020,19 @@
 			<type type="armn" key="numbers">Armenesch Zifferen</type>
 			<type type="armnlow" key="numbers">Armenesch Zifferen a Kleischrëft</type>
 			<type type="beng" key="numbers">Bengalesch Zifferen</type>
-			<type type="big5han" key="collatioun">Traditionellt Chinesesch - Big5</type>
+			<type type="big5han" key="collation">Traditionellt Chinesesch - Big5</type>
 			<type type="buddhist" key="calendar">Buddhistesche Kalenner</type>
 			<type type="chinese" key="calendar">Chinesesche Kalenner</type>
 			<type type="coptic" key="calendar">Koptesche Kalenner</type>
 			<type type="deva" key="numbers">Devanagari-Zifferen</type>
-			<type type="dictiounary" key="collatioun">Lexikographesch Sortéierreiefolleg</type>
-			<type type="ducet" key="collatioun">Unicode-Sortéierung</type>
+			<type type="dictionary" key="collation">Lexikographesch Sortéierreiefolleg</type>
+			<type type="ducet" key="collation">Unicode-Sortéierung</type>
 			<type type="ethi" key="numbers">Äthiopesch Zifferen</type>
 			<type type="ethiopic" key="calendar">Äthiopesche Kalenner</type>
 			<type type="ethiopic-amete-alem" key="calendar">Äthiopesche Kalenner &quot;Amete Alem&quot;</type>
 			<type type="finance" key="numbers">Finanzzuelen</type>
 			<type type="fullwide" key="numbers">Vollbreet Zifferen</type>
-			<type type="gb2312han" key="collatioun">Vereinfacht Chinesesch - GB2312</type>
+			<type type="gb2312han" key="collation">Vereinfacht Chinesesch - GB2312</type>
 			<type type="geor" key="numbers">Georgesch Zifferen</type>
 			<type type="gregorian" key="calendar">Gregorianesche Kalenner</type>
 			<type type="grek" key="numbers">Griichesch Zifferen</type>
@@ -1066,40 +1066,40 @@
 			<type type="no" key="colCaseFirst">Normal sortéieren</type>
 			<type type="no" key="colCaseLevel">No Grouss-/Klengschreiwung sortéieren</type>
 			<type type="no" key="colHiraganaQuaternary">Kana separat sortéieren</type>
-			<type type="no" key="colNormalizatioun">Ouni Norméierung sortéieren</type>
+			<type type="no" key="colNormalization">Ouni Norméierung sortéieren</type>
 			<type type="no" key="colNumeric">Zifferen eenzel sortéieren</type>
 			<type type="non-ignorable" key="colAlternate">Symboler sortéieren</type>
 			<type type="orya" key="numbers">Oriya-Zifferen</type>
 			<type type="persian" key="calendar">Persesche Kalenner</type>
-			<type type="phonebook" key="collatioun">Telefonsbuch-Sortéierung</type>
-			<type type="phonetic" key="collatioun">Sortéierung no Phonetik</type>
-			<type type="pinyin" key="collatioun">Pinyin-Sortéierreegelen</type>
+			<type type="phonebook" key="collation">Telefonsbuch-Sortéierung</type>
+			<type type="phonetic" key="collation">Sortéierung no Phonetik</type>
+			<type type="pinyin" key="collation">Pinyin-Sortéierreegelen</type>
 			<type type="primary" key="colStrength">Nëmme Basisbuschtawe sortéieren</type>
 			<type type="quaternary" key="colStrength">Akzenter/Fall/Breet/Kana sortéieren</type>
-			<type type="reformed" key="collatioun">Reforméiert Sortéierreiefolleg</type>
+			<type type="reformed" key="collation">Reforméiert Sortéierreiefolleg</type>
 			<type type="roc" key="calendar">Kalenner vun der Republik China</type>
 			<type type="roman" key="numbers">Réimesch Zifferen</type>
 			<type type="romanlow" key="numbers">Réimesch Zifferen a Kleischrëft</type>
-			<type type="search" key="collatioun">Allgemeng Sich</type>
-			<type type="searchjl" key="collatioun">Sich no Ufanksbuschtawen aus dem koreaneschen Alphabet</type>
+			<type type="search" key="collation">Allgemeng Sich</type>
+			<type type="searchjl" key="collation">Sich no Ufanksbuschtawen aus dem koreaneschen Alphabet</type>
 			<type type="secondary" key="colStrength">Akzenter sortéieren</type>
 			<type type="shifted" key="colAlternate">Symboler beim Sortéieren ignoréieren</type>
-			<type type="stroke" key="collatioun">Stréchfolleg</type>
+			<type type="stroke" key="collation">Stréchfolleg</type>
 			<type type="taml" key="numbers">Tamilesch Zifferen</type>
 			<type type="tamldec" key="numbers">Tamil-Zifferen</type>
 			<type type="telu" key="numbers">Telugu-Zifferen</type>
 			<type type="tertiary" key="colStrength">Akzenter/Fall/Breet sortéieren</type>
 			<type type="thai" key="numbers">Thai-Zifferen</type>
 			<type type="tibt" key="numbers">Tibetesch Zifferen</type>
-			<type type="traditiounal" key="collatioun">Traditionell Sortéierreegelen</type>
-			<type type="traditiounal" key="numbers">Traditionell Zuelen</type>
-			<type type="unihan" key="collatioun">Radikal-Stréch-Sortéierreegelen</type>
+			<type type="traditional" key="collation">Traditionell Sortéierreegelen</type>
+			<type type="traditional" key="numbers">Traditionell Zuelen</type>
+			<type type="unihan" key="collation">Radikal-Stréch-Sortéierreegelen</type>
 			<type type="upper" key="colCaseFirst">Groussbuschtawe fir d'éischt opféieren</type>
 			<type type="vaii" key="numbers">Vai-Zifferen</type>
 			<type type="yes" key="colBackwards">Akzenter ëmgedréint sortéieren</type>
 			<type type="yes" key="colCaseLevel">No Grouss-/Klengschreiwung sortéieren</type>
 			<type type="yes" key="colHiraganaQuaternary">Kana anescht sortéieren</type>
-			<type type="yes" key="colNormalizatioun">No Unicode sortéieren</type>
+			<type type="yes" key="colNormalization">No Unicode sortéieren</type>
 			<type type="yes" key="colNumeric">Zifferen numeresch sortéieren</type>
 		</types>
 		<transformNames>
@@ -1126,21 +1126,21 @@
 		</codePatterns>
 	</localeDisplayNames>
 	<characters>
-		<exemplarCharacters>[a ä b c d e ë f g h i j k l m n o ö p q r s ß t u ü v w x y z]</exemplarCharacters>
-		<exemplarCharacters type="auxiliary">[á à ă â å ã ā æ ç é è ĕ ê ē ğ í ì ĭ î ï İ ī ı ñ ó ò ŏ ô ø ō œ ş ú ù ŭ û ū ÿ]</exemplarCharacters>
-		<exemplarCharacters type="index">[A B C D E F G H I J K L M N O P Q R S {Sch*} {St*} T U V W X Y Z]</exemplarCharacters>
-		<exemplarCharacters type="punctuatioun">[\- ‐ – — , ; \: ! ? . … ' ‘ ‚ &quot; “ „ « » ( ) \[ \] \{ \} § @ * / \&amp; #]</exemplarCharacters>
+		<exemplarCharacters>[a ä b c d e ë é è f g h i j k l m n o ö p q r s ß t u ü v w x y z]</exemplarCharacters>
+		<exemplarCharacters type="auxiliary">[á à ă â å ã ā æ ç ĕ ê ē ğ í ì ĭ î ï İ ī ı ñ ó ò ŏ ô ø ō œ ş ú ù ŭ û ū ÿ]</exemplarCharacters>
+		<exemplarCharacters type="index">[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]</exemplarCharacters>
+		<exemplarCharacters type="punctuation">[\- ‐ – — , ; \: ! ? . … ' ‘ ‚ &quot; “ „ « » ( ) \[ \] \{ \} § @ * / \&amp; #]</exemplarCharacters>
 		<ellipsis type="final">{0} …</ellipsis>
 		<ellipsis type="initial">… {0}</ellipsis>
 		<ellipsis type="medial">{0} … {1}</ellipsis>
 		<ellipsis type="word-final">{0} …</ellipsis>
 		<ellipsis type="word-initial">… {0}</ellipsis>
 		<ellipsis type="word-medial">{0} … {1}</ellipsis>
-		<moreInformatioun>?</moreInformatioun>
+		<moreInformation>?</moreInformation>
 	</characters>
 	<delimiters>
-		<quotatiounStart>„</quotatiounStart>
-		<quotatiounEnd>“</quotatiounEnd>
+		<quotationStart>„</quotationStart>
+		<quotationEnd>“</quotationEnd>
 		<alternateQuotationStart>‚</alternateQuotationStart>
 		<alternateQuotationEnd>‘</alternateQuotationEnd>
 	</delimiters>
