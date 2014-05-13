@@ -386,7 +386,6 @@
 			<language type="pra">Prakrit</language>
 			<language type="pro">Alprovenzalesch</language>
 			<language type="ps">Paschtu</language>
-			<language type="ps" alt="variant">Paschtu</language>
 			<language type="pt">Portugiesesch</language>
 			<language type="pt_BR">Brasilianescht Portugiesesch</language>
 			<language type="pt_PT">Europäescht Portugiesesch</language>
@@ -493,7 +492,6 @@
 			<language type="tyv">Tuwinesch</language>
 			<language type="udm">Udmurtesch</language>
 			<language type="ug">Uiguresch</language>
-			<language type="ug" alt="variant">Uiguresch</language>
 			<language type="uga">Ugaritesch</language>
 			<language type="uk">Ukrainesch</language>
 			<language type="umb">Mbundu-Sprooch</language>
