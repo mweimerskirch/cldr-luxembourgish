@@ -2009,7 +2009,7 @@
 			</field>
 			<field type="second">
 				<displayName>Sekonn</displayName>
-				<relative type="0">lo</relative>
+				<relative type="0">elo</relative>
 				<relativeTime type="future">
 					<relativeTimePattern count="one">An {0} Sekonn</relativeTimePattern>
 					<relativeTimePattern count="other">An {0} Sekonnen</relativeTimePattern>
@@ -4935,7 +4935,7 @@
 			</unit>
 			<unit type="speed-mile-per-hour">
 				<unitPattern count="one">{0} Meil pro Stonn</unitPattern>
-				<unitPattern count="other">{0} Meilen pro Stonn</unitPattern>
+				<unitPattern count="other">{0} Meile pro Stonn</unitPattern>
 			</unit>
 			<unit type="temperature-celsius">
 				<unitPattern count="one">{0} Grad Celsius</unitPattern>
