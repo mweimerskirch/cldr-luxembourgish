@@ -1016,7 +1016,7 @@
 			<type type="arab" key="numbers">Arabesch-indesch Zifferen</type>
 			<type type="arabext" key="numbers">Erweidert arabesch-indesch Zifferen</type>
 			<type type="armn" key="numbers">Armenesch Zifferen</type>
-			<type type="armnlow" key="numbers">Armenesch Zifferen a Kleischrëft</type>
+			<type type="armnlow" key="numbers">Armenesch Zifferen a Klengschrëft</type>
 			<type type="beng" key="numbers">Bengalesch Zifferen</type>
 			<type type="big5han" key="collation">Traditionellt Chinesesch - Big5</type>
 			<type type="buddhist" key="calendar">Buddhistesche Kalenner</type>
