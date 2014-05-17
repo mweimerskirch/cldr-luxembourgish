@@ -997,7 +997,7 @@
 		<keys>
 			<key type="calendar">Kalenner</key>
 			<key type="colAlternate">Zortéierung ouni Symboler</key>
-			<key type="colBackwards">Ëmgedréinte Zortéierung vun Akzenter</key>
+			<key type="colBackwards">Ëmgedréint Zortéierung vun Accenten</key>
 			<key type="colCaseFirst">Zortéierung no Grouss- resp. Klengbuschtawen</key>
 			<key type="colCaseLevel">Zortéierung no Grouss- oder Klengschreiwung</key>
 			<key type="colHiraganaQuaternary">Kana-Zortéierung</key>
@@ -1060,7 +1060,7 @@
 			<type type="mong" key="numbers">Mongolesch Zifferen</type>
 			<type type="mymr" key="numbers">Myanmar-Zifferen</type>
 			<type type="native" key="numbers">Nativ Zifferen</type>
-			<type type="no" key="colBackwards">Akzenter normal zortéieren</type>
+			<type type="no" key="colBackwards">Accenten normal zortéieren</type>
 			<type type="no" key="colCaseFirst">Normal zortéieren</type>
 			<type type="no" key="colCaseLevel">No Grouss-/Klengschreiwung zortéieren</type>
 			<type type="no" key="colHiraganaQuaternary">Kana separat zortéieren</type>
@@ -1073,20 +1073,20 @@
 			<type type="phonetic" key="collation">Zortéierung no Phonetik</type>
 			<type type="pinyin" key="collation">Pinyin-Zortéierreegelen</type>
 			<type type="primary" key="colStrength">Nëmme Basisbuschtawe zortéieren</type>
-			<type type="quaternary" key="colStrength">Akzenter/Fall/Breet/Kana zortéieren</type>
+			<type type="quaternary" key="colStrength">Accenten/Fall/Breet/Kana zortéieren</type>
 			<type type="reformed" key="collation">Reforméiert Zortéierreiefolleg</type>
 			<type type="roc" key="calendar">Kalenner vun der Republik China</type>
 			<type type="roman" key="numbers">Réimesch Zifferen</type>
 			<type type="romanlow" key="numbers">Réimesch Zifferen a Kleischrëft</type>
 			<type type="search" key="collation">Allgemeng Sich</type>
 			<type type="searchjl" key="collation">Sich no Ufanksbuschtawen aus dem koreaneschen Alphabet</type>
-			<type type="secondary" key="colStrength">Akzenter zortéieren</type>
+			<type type="secondary" key="colStrength">Accenten zortéieren</type>
 			<type type="shifted" key="colAlternate">Symboler beim Zortéieren ignoréieren</type>
 			<type type="stroke" key="collation">Stréchfolleg</type>
 			<type type="taml" key="numbers">Tamilesch Zifferen</type>
 			<type type="tamldec" key="numbers">Tamil-Zifferen</type>
 			<type type="telu" key="numbers">Telugu-Zifferen</type>
-			<type type="tertiary" key="colStrength">Akzenter/Fall/Breet zortéieren</type>
+			<type type="tertiary" key="colStrength">Accenten/Fall/Breet zortéieren</type>
 			<type type="thai" key="numbers">Thai-Zifferen</type>
 			<type type="tibt" key="numbers">Tibetesch Zifferen</type>
 			<type type="traditional" key="collation">Traditionell Zortéierreegelen</type>
@@ -1094,7 +1094,7 @@
 			<type type="unihan" key="collation">Radikal-Stréch-Zortéierreegelen</type>
 			<type type="upper" key="colCaseFirst">Groussbuschtawe fir d'éischt opféieren</type>
 			<type type="vaii" key="numbers">Vai-Zifferen</type>
-			<type type="yes" key="colBackwards">Akzenter ëmgedréint zortéieren</type>
+			<type type="yes" key="colBackwards">Accenten ëmgedréint zortéieren</type>
 			<type type="yes" key="colCaseLevel">No Grouss-/Klengschreiwung zortéieren</type>
 			<type type="yes" key="colHiraganaQuaternary">Kana anescht zortéieren</type>
 			<type type="yes" key="colNormalization">No Unicode zortéieren</type>
@@ -1105,7 +1105,7 @@
 			<transformName type="Numeric">Numeresch</transformName>
 			<transformName type="Tone">Tounsprooch</transformName>
 			<transformName type="UNGEGN">UNGEGN</transformName>
-			<transformName type="x-Accents">Akzenter</transformName>
+			<transformName type="x-Accents">Accenten</transformName>
 			<transformName type="x-Fullwidth">Breet</transformName>
 			<transformName type="x-Halfwidth">Hallef Breet</transformName>
 			<transformName type="x-Jamo">Jamo</transformName>
