@@ -140,7 +140,7 @@
 			<language type="dtp">Zentral-Dusun</language>
 			<language type="dua">Duala</language>
 			<language type="dum">Mëttelnidderlännesch</language>
-			<language type="dv">Maledivesch</language>
+			<language type="dv">Maldivesch</language>
 			<language type="dyo">Jola-Fonyi</language>
 			<language type="dyu">Dyula-Sprooch</language>
 			<language type="dz">Bhutanesch</language>
@@ -3369,7 +3369,7 @@
 			</metazone>
 			<metazone type="Maldives">
 				<long>
-					<standard>Malediven-Zäit</standard>
+					<standard>Maldiven-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Marquesas">
@@ -4596,9 +4596,9 @@
 				<displayName count="other">Mauritius-Rupien</displayName>
 			</currency>
 			<currency type="MVR">
-				<displayName>Malediven-Rupie</displayName>
-				<displayName count="one">Malediven-Rupie</displayName>
-				<displayName count="other">Malediven-Rupien</displayName>
+				<displayName>Maldiven-Rupie</displayName>
+				<displayName count="one">Maldiven-Rupie</displayName>
+				<displayName count="other">Maldiven-Rupien</displayName>
 			</currency>
 			<currency type="MWK">
 				<displayName>Malawi-Kwacha</displayName>
