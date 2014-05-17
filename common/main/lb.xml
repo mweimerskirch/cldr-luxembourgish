@@ -996,20 +996,20 @@
 		</variants>
 		<keys>
 			<key type="calendar">Kalenner</key>
-			<key type="colAlternate">Sortéierung ouni Symboler</key>
-			<key type="colBackwards">Ëmgedréinte Sortéierung vun Akzenter</key>
-			<key type="colCaseFirst">Sortéierung no Grouss- resp. Klengbuschtawen</key>
-			<key type="colCaseLevel">Sortéierung no Grouss- oder Klengschreiwung</key>
-			<key type="colHiraganaQuaternary">Kana-Sortéierung</key>
-			<key type="collation">Sortéierung</key>
-			<key type="colNormalization">Norméiert Sortéierung</key>
-			<key type="colNumeric">Sortéierung no Zuelen</key>
-			<key type="colStrength">Sortéierstäerkt</key>
+			<key type="colAlternate">Zortéierung ouni Symboler</key>
+			<key type="colBackwards">Ëmgedréinte Zortéierung vun Akzenter</key>
+			<key type="colCaseFirst">Zortéierung no Grouss- resp. Klengbuschtawen</key>
+			<key type="colCaseLevel">Zortéierung no Grouss- oder Klengschreiwung</key>
+			<key type="colHiraganaQuaternary">Kana-Zortéierung</key>
+			<key type="collation">Zortéierung</key>
+			<key type="colNormalization">Norméiert Zortéierung</key>
+			<key type="colNumeric">Zortéierung no Zuelen</key>
+			<key type="colStrength">Zortéierstäerkt</key>
 			<key type="currency">Währung</key>
 			<key type="numbers">Zuelen</key>
 			<key type="timezone">Zäitzon</key>
 			<key type="va">Lokal Variant</key>
-			<key type="variableTop">No Symboler sortéieren</key>
+			<key type="variableTop">No Symboler zortéieren</key>
 			<key type="x">Privatnotzung</key>
 		</keys>
 		<types>
@@ -1023,8 +1023,8 @@
 			<type type="chinese" key="calendar">Chinesesche Kalenner</type>
 			<type type="coptic" key="calendar">Koptesche Kalenner</type>
 			<type type="deva" key="numbers">Devanagari-Zifferen</type>
-			<type type="dictionary" key="collation">Lexikographesch Sortéierreiefolleg</type>
-			<type type="ducet" key="collation">Unicode-Sortéierung</type>
+			<type type="dictionary" key="collation">Lexikographesch Zortéierreiefolleg</type>
+			<type type="ducet" key="collation">Unicode-Zortéierung</type>
 			<type type="ethi" key="numbers">Äthiopesch Zifferen</type>
 			<type type="ethiopic" key="calendar">Äthiopesche Kalenner</type>
 			<type type="ethiopic-amete-alem" key="calendar">Äthiopesche Kalenner &quot;Amete Alem&quot;</type>
@@ -1044,7 +1044,7 @@
 			<type type="hantfin" key="numbers">Traditionell-Chinesesch Finanzziffern</type>
 			<type type="hebr" key="numbers">Hebräesch Zifferen</type>
 			<type type="hebrew" key="calendar">Hebräesche Kalenner</type>
-			<type type="identical" key="colStrength">All sortéieren</type>
+			<type type="identical" key="colStrength">All zortéieren</type>
 			<type type="indian" key="calendar">Indeschen Nationalkalenner</type>
 			<type type="islamic" key="calendar">Islamesche Kalenner</type>
 			<type type="islamic-civil" key="calendar">Biergerlechen islamesche Kalenner</type>
@@ -1060,45 +1060,45 @@
 			<type type="mong" key="numbers">Mongolesch Zifferen</type>
 			<type type="mymr" key="numbers">Myanmar-Zifferen</type>
 			<type type="native" key="numbers">Nativ Zifferen</type>
-			<type type="no" key="colBackwards">Akzenter normal sortéieren</type>
-			<type type="no" key="colCaseFirst">Normal sortéieren</type>
-			<type type="no" key="colCaseLevel">No Grouss-/Klengschreiwung sortéieren</type>
-			<type type="no" key="colHiraganaQuaternary">Kana separat sortéieren</type>
-			<type type="no" key="colNormalization">Ouni Norméierung sortéieren</type>
-			<type type="no" key="colNumeric">Zifferen eenzel sortéieren</type>
-			<type type="non-ignorable" key="colAlternate">Symboler sortéieren</type>
+			<type type="no" key="colBackwards">Akzenter normal zortéieren</type>
+			<type type="no" key="colCaseFirst">Normal zortéieren</type>
+			<type type="no" key="colCaseLevel">No Grouss-/Klengschreiwung zortéieren</type>
+			<type type="no" key="colHiraganaQuaternary">Kana separat zortéieren</type>
+			<type type="no" key="colNormalization">Ouni Norméierung zortéieren</type>
+			<type type="no" key="colNumeric">Zifferen eenzel zortéieren</type>
+			<type type="non-ignorable" key="colAlternate">Symboler zortéieren</type>
 			<type type="orya" key="numbers">Oriya-Zifferen</type>
 			<type type="persian" key="calendar">Persesche Kalenner</type>
-			<type type="phonebook" key="collation">Telefonsbuch-Sortéierung</type>
-			<type type="phonetic" key="collation">Sortéierung no Phonetik</type>
-			<type type="pinyin" key="collation">Pinyin-Sortéierreegelen</type>
-			<type type="primary" key="colStrength">Nëmme Basisbuschtawe sortéieren</type>
-			<type type="quaternary" key="colStrength">Akzenter/Fall/Breet/Kana sortéieren</type>
-			<type type="reformed" key="collation">Reforméiert Sortéierreiefolleg</type>
+			<type type="phonebook" key="collation">Telefonsbuch-Zortéierung</type>
+			<type type="phonetic" key="collation">Zortéierung no Phonetik</type>
+			<type type="pinyin" key="collation">Pinyin-Zortéierreegelen</type>
+			<type type="primary" key="colStrength">Nëmme Basisbuschtawe zortéieren</type>
+			<type type="quaternary" key="colStrength">Akzenter/Fall/Breet/Kana zortéieren</type>
+			<type type="reformed" key="collation">Reforméiert Zortéierreiefolleg</type>
 			<type type="roc" key="calendar">Kalenner vun der Republik China</type>
 			<type type="roman" key="numbers">Réimesch Zifferen</type>
 			<type type="romanlow" key="numbers">Réimesch Zifferen a Kleischrëft</type>
 			<type type="search" key="collation">Allgemeng Sich</type>
 			<type type="searchjl" key="collation">Sich no Ufanksbuschtawen aus dem koreaneschen Alphabet</type>
-			<type type="secondary" key="colStrength">Akzenter sortéieren</type>
-			<type type="shifted" key="colAlternate">Symboler beim Sortéieren ignoréieren</type>
+			<type type="secondary" key="colStrength">Akzenter zortéieren</type>
+			<type type="shifted" key="colAlternate">Symboler beim Zortéieren ignoréieren</type>
 			<type type="stroke" key="collation">Stréchfolleg</type>
 			<type type="taml" key="numbers">Tamilesch Zifferen</type>
 			<type type="tamldec" key="numbers">Tamil-Zifferen</type>
 			<type type="telu" key="numbers">Telugu-Zifferen</type>
-			<type type="tertiary" key="colStrength">Akzenter/Fall/Breet sortéieren</type>
+			<type type="tertiary" key="colStrength">Akzenter/Fall/Breet zortéieren</type>
 			<type type="thai" key="numbers">Thai-Zifferen</type>
 			<type type="tibt" key="numbers">Tibetesch Zifferen</type>
-			<type type="traditional" key="collation">Traditionell Sortéierreegelen</type>
+			<type type="traditional" key="collation">Traditionell Zortéierreegelen</type>
 			<type type="traditional" key="numbers">Traditionell Zuelen</type>
-			<type type="unihan" key="collation">Radikal-Stréch-Sortéierreegelen</type>
+			<type type="unihan" key="collation">Radikal-Stréch-Zortéierreegelen</type>
 			<type type="upper" key="colCaseFirst">Groussbuschtawe fir d'éischt opféieren</type>
 			<type type="vaii" key="numbers">Vai-Zifferen</type>
-			<type type="yes" key="colBackwards">Akzenter ëmgedréint sortéieren</type>
-			<type type="yes" key="colCaseLevel">No Grouss-/Klengschreiwung sortéieren</type>
-			<type type="yes" key="colHiraganaQuaternary">Kana anescht sortéieren</type>
-			<type type="yes" key="colNormalization">No Unicode sortéieren</type>
-			<type type="yes" key="colNumeric">Zifferen numeresch sortéieren</type>
+			<type type="yes" key="colBackwards">Akzenter ëmgedréint zortéieren</type>
+			<type type="yes" key="colCaseLevel">No Grouss-/Klengschreiwung zortéieren</type>
+			<type type="yes" key="colHiraganaQuaternary">Kana anescht zortéieren</type>
+			<type type="yes" key="colNormalization">No Unicode zortéieren</type>
+			<type type="yes" key="colNumeric">Zifferen numeresch zortéieren</type>
 		</types>
 		<transformNames>
 			<transformName type="BGN">BGN</transformName>
