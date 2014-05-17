@@ -2070,35 +2070,35 @@
 				</relativeTime>
 			</field>
 			<field type="day-short">
-				<displayName>D</displayName>
+				<displayName>D.</displayName>
 				<relative type="-2">virgëschter</relative>
 				<relative type="-1">gëschter</relative>
 				<relative type="0">haut</relative>
 				<relative type="1">muer</relative>
 				<relative type="2">iwwermuer</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">an {0} D</relativeTimePattern>
-					<relativeTimePattern count="other">a(n) {0} D</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} D.</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} D.</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">virun {0} D</relativeTimePattern>
-					<relativeTimePattern count="other">viru(n) {0} D</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} D.</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} D.</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="day-narrow">
-				<displayName>Dag</displayName>
+				<displayName>D.</displayName>
 				<relative type="-2">virgëschter</relative>
 				<relative type="-1">gëschter</relative>
 				<relative type="0">haut</relative>
 				<relative type="1">muer</relative>
 				<relative type="2">iwwermuer</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">+{0} D</relativeTimePattern>
-					<relativeTimePattern count="other">+{0} D</relativeTimePattern>
+					<relativeTimePattern count="one">+{0} D.</relativeTimePattern>
+					<relativeTimePattern count="other">+{0} D.</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">-{0} D</relativeTimePattern>
-					<relativeTimePattern count="other">-{0} D</relativeTimePattern>
+					<relativeTimePattern count="one">-{0} D.</relativeTimePattern>
+					<relativeTimePattern count="other">-{0} D.</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="weekday">
@@ -2146,22 +2146,22 @@
 				<displayName>Stonn</displayName>
 				<relativeTime type="future">
 					<relativeTimePattern count="one">an {0} Stonn</relativeTimePattern>
-					<relativeTimePattern count="other">an {0} Stonnen</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} Stonnen</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
 					<relativeTimePattern count="one">virun {0} Stonn</relativeTimePattern>
-					<relativeTimePattern count="other">virun {0} Stonnen</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} Stonnen</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="minute">
 				<displayName>Minutt</displayName>
 				<relativeTime type="future">
 					<relativeTimePattern count="one">an {0} Minutt</relativeTimePattern>
-					<relativeTimePattern count="other">an {0} Minutten</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} Minutten</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
 					<relativeTimePattern count="one">virun {0} Minutt</relativeTimePattern>
-					<relativeTimePattern count="other">virun {0} Minutten</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} Minutten</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="second">
@@ -2169,11 +2169,11 @@
 				<relative type="0">elo</relative>
 				<relativeTime type="future">
 					<relativeTimePattern count="one">an {0} Sekonn</relativeTimePattern>
-					<relativeTimePattern count="other">an {0} Sekonnen</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} Sekonnen</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
 					<relativeTimePattern count="one">virun {0} Sekonn</relativeTimePattern>
-					<relativeTimePattern count="other">virun {0} Sekonnen</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} Sekonnen</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="zone">
@@ -2204,7 +2204,7 @@
 				<exemplarCity>Wostok</exemplarCity>
 			</zone>
 			<zone type="Antarctica/DumontDUrville">
-				<exemplarCity>Dumont D'Urville</exemplarCity>
+				<exemplarCity>Dumont d'Urville</exemplarCity>
 			</zone>
 			<zone type="Europe/Vienna">
 				<exemplarCity>Wien</exemplarCity>
@@ -2273,7 +2273,7 @@
 				<exemplarCity>Asmara</exemplarCity>
 			</zone>
 			<zone type="Atlantic/Canary">
-				<exemplarCity>Kanaren</exemplarCity>
+				<exemplarCity>Kanaresch Inselen</exemplarCity>
 			</zone>
 			<zone type="Africa/Addis_Ababa">
 				<exemplarCity>Addis Abeba</exemplarCity>
@@ -2299,13 +2299,13 @@
 				<exemplarCity>Tiflis</exemplarCity>
 			</zone>
 			<zone type="Africa/Accra">
-				<exemplarCity>Akkra</exemplarCity>
+				<exemplarCity>Accra</exemplarCity>
 			</zone>
 			<zone type="Europe/Athens">
 				<exemplarCity>Athen</exemplarCity>
 			</zone>
 			<zone type="Atlantic/South_Georgia">
-				<exemplarCity>Süd-Georgien</exemplarCity>
+				<exemplarCity>Südgeorgien</exemplarCity>
 			</zone>
 			<zone type="Asia/Hong_Kong">
 				<exemplarCity>Hongkong</exemplarCity>
@@ -2319,7 +2319,7 @@
 				</long>
 			</zone>
 			<zone type="Asia/Calcutta">
-				<exemplarCity>Kolkata</exemplarCity>
+				<exemplarCity>Kalkutta</exemplarCity>
 			</zone>
 			<zone type="Asia/Baghdad">
 				<exemplarCity>Bagdad</exemplarCity>
