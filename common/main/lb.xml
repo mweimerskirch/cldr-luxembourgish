@@ -1022,8 +1022,10 @@
 			<key type="collation">Zortéierung</key>
 			<key type="colNormalization">Norméiert Zortéierung</key>
 			<key type="colNumeric">Zortéierung no Zuelen</key>
+			<key type="colReorder">Skript/Block-Neizortéierung</key>
 			<key type="colStrength">Zortéierstäerkt</key>
 			<key type="currency">Währung</key>
+			<key type="kv">Héchst ignoréiert</key>
 			<key type="numbers">Zuelen</key>
 			<key type="timezone">Zäitzon</key>
 			<key type="va">Lokal Variant</key>
