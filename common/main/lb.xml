@@ -157,9 +157,9 @@
 			<language type="en_AU">Australescht Englesch</language>
 			<language type="en_CA">Kanadescht Englesch</language>
 			<language type="en_GB">Britescht Englesch</language>
-			<language type="en_GB-short">Englesch (UK)</language>
+			<language type="en_GB" alt="short">Englesch (UK)</language>
 			<language type="en_US">Amerikanescht Englesch</language>
-			<language type="en_US-short">Englesch (US)</language>
+			<language type="en_US" alt="short">Englesch (US)</language>
 			<language type="enm">Mëttelenglesch</language>
 			<language type="eo">Esperanto</language>
 			<language type="es">Spuenesch</language>
@@ -1200,6 +1200,7 @@
 			<type type="indian" key="calendar">Indeschen Nationalkalenner</type>
 			<type type="islamic" key="calendar">Islamesche Kalenner</type>
 			<type type="islamic-civil" key="calendar">Biergerlechen islamesche Kalenner</type>
+            <type type="iso8601" key="calendar">ISO-8601-Kalenner</type>
 			<type type="japanese" key="calendar">Japanesche Kalenner</type>
 			<type type="jpan" key="numbers">Japanesch Zifferen</type>
 			<type type="jpanfin" key="numbers">Japanesch Finanzziffern</type>
@@ -1234,6 +1235,7 @@
 			<type type="searchjl" key="collation">Sich no Ufanksbuschtawen aus dem koreaneschen Alphabet</type>
 			<type type="secondary" key="colStrength">Accenten zortéieren</type>
 			<type type="shifted" key="colAlternate">Symboler beim Zortéieren ignoréieren</type>
+            <type type="standard" key="collation">Standard Zortéierreiefolleg</type>
 			<type type="stroke" key="collation">Stréchfolleg</type>
 			<type type="taml" key="numbers">Tamilesch Zifferen</type>
 			<type type="tamldec" key="numbers">Tamil-Zifferen</type>
