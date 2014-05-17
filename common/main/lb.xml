@@ -4279,9 +4279,9 @@
 				<displayName count="other">Marokkanesch Frang</displayName>
 			</currency>
 			<currency type="MDL">
-				<displayName>Moldau-Leu</displayName>
-				<displayName count="one">Moldau-Leu</displayName>
-				<displayName count="other">Moldau-Leu</displayName>
+				<displayName>Moldawesche Leu</displayName>
+				<displayName count="one">Moldawesche Leu</displayName>
+				<displayName count="other">Moldawesch Leu</displayName>
 			</currency>
 			<currency type="MGA">
 				<displayName>Madagaskar-Ariary</displayName>
