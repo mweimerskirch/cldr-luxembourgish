@@ -2352,7 +2352,7 @@
 				<exemplarCity>Kaimaninselen</exemplarCity>
 			</zone>
 			<zone type="Asia/Aqtobe">
-				<exemplarCity>Aktobe</exemplarCity>
+				<exemplarCity>Aqtöbe</exemplarCity>
 			</zone>
 			<zone type="America/St_Lucia">
 				<exemplarCity>St. Lucia</exemplarCity>
@@ -2364,16 +2364,16 @@
 				<exemplarCity>Lëtzebuerg</exemplarCity>
 			</zone>
 			<zone type="Africa/Tripoli">
-				<exemplarCity>Tripolis</exemplarCity>
+				<exemplarCity>Tripoli</exemplarCity>
 			</zone>
 			<zone type="Europe/Chisinau">
 				<exemplarCity>Kischinau</exemplarCity>
 			</zone>
 			<zone type="Asia/Macau">
-				<exemplarCity>Macao</exemplarCity>
+				<exemplarCity>Macau</exemplarCity>
 			</zone>
 			<zone type="Indian/Maldives">
-				<exemplarCity>Malediven</exemplarCity>
+				<exemplarCity>Maldiven</exemplarCity>
 			</zone>
 			<zone type="America/Mexico_City">
 				<exemplarCity>Mexiko-Stad</exemplarCity>
@@ -2415,7 +2415,7 @@
 				<exemplarCity>Wolgograd</exemplarCity>
 			</zone>
 			<zone type="Asia/Yekaterinburg">
-				<exemplarCity>Jekaterinburg</exemplarCity>
+				<exemplarCity>Jekaterinbuerg</exemplarCity>
 			</zone>
 			<zone type="Asia/Novosibirsk">
 				<exemplarCity>Nowosibirsk</exemplarCity>
@@ -2472,7 +2472,7 @@
 				<exemplarCity>Taipeh</exemplarCity>
 			</zone>
 			<zone type="Africa/Dar_es_Salaam">
-				<exemplarCity>Daressalam</exemplarCity>
+				<exemplarCity>Dar es Salaam</exemplarCity>
 			</zone>
 			<zone type="Europe/Uzhgorod">
 				<exemplarCity>Uschgorod</exemplarCity>
@@ -2481,7 +2481,7 @@
 				<exemplarCity>Kiew</exemplarCity>
 			</zone>
 			<zone type="Europe/Zaporozhye">
-				<exemplarCity>Saporeschja</exemplarCity>
+				<exemplarCity>Saporischschja</exemplarCity>
 			</zone>
 			<zone type="America/North_Dakota/Beulah">
 				<exemplarCity>Beulah, North Dakota</exemplarCity>
