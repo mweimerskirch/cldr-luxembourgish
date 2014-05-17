@@ -692,7 +692,7 @@
 			<territory type="419">Latäinamerika</territory>
 			<territory type="AC">Ascension</territory>
 			<territory type="AD">Andorra</territory>
-			<territory type="AE">Vereenegt Arabesch Emirater</territory>
+			<territory type="AE">Vereenegt Arabesch Emiraten</territory>
 			<territory type="AF">Afghanistan</territory>
 			<territory type="AG">Antigua a Barbuda</territory>
 			<territory type="AI">Anguilla</territory>
@@ -703,12 +703,12 @@
 			<territory type="AQ">Antarktis</territory>
 			<territory type="AR">Argentinien</territory>
 			<territory type="AS">Amerikanesch-Samoa</territory>
-			<territory type="AT">Éisterräich</territory>
+			<territory type="AT">Éisträich</territory>
 			<territory type="AU">Australien</territory>
 			<territory type="AW">Aruba</territory>
-			<territory type="AX">Alandinselen</territory>
+			<territory type="AX">Åland</territory>
 			<territory type="AZ">Aserbaidschan</territory>
-			<territory type="BA">Bosnien an Herzegowina</territory>
+			<territory type="BA">Bosnien-Herzegowina</territory>
 			<territory type="BB">Barbados</territory>
 			<territory type="BD">Bangladesch</territory>
 			<territory type="BE">Belsch</territory>
@@ -717,9 +717,9 @@
 			<territory type="BH">Bahrain</territory>
 			<territory type="BI">Burundi</territory>
 			<territory type="BJ">Benin</territory>
-			<territory type="BL">St. Barthélemy</territory>
+			<territory type="BL">Saint-Barthélemy</territory>
 			<territory type="BM">Bermuda</territory>
-			<territory type="BN">Brunei Darussalam</territory>
+			<territory type="BN">Brunei</territory>
 			<territory type="BO">Bolivien</territory>
 			<territory type="BQ">Karibesch Nidderlanden</territory>
 			<territory type="BR">Brasilien</territory>
@@ -727,7 +727,7 @@
 			<territory type="BT">Bhutan</territory>
 			<territory type="BV">Bouvetinsel</territory>
 			<territory type="BW">Botsuana</territory>
-			<territory type="BY">Belarus</territory>
+			<territory type="BY">Wäissrussland</territory>
 			<territory type="BZ">Belize</territory>
 			<territory type="CA">Kanada</territory>
 			<territory type="CC">Kokosinselen</territory>
@@ -751,7 +751,7 @@
 			<territory type="CW">Curaçao</territory>
 			<territory type="CX">Chrëschtdagsinsel</territory>
 			<territory type="CY">Zypern</territory>
-			<territory type="CZ">Tschechesch Republik</territory>
+			<territory type="CZ">Tschechien</territory>
 			<territory type="DE">Däitschland</territory>
 			<territory type="DG">Diego Garcia</territory>
 			<territory type="DJ">Dschibuti</territory>
@@ -762,11 +762,11 @@
 			<territory type="EA">Ceuta a Melilla</territory>
 			<territory type="EC">Ecuador</territory>
 			<territory type="EE">Estland</territory>
-			<territory type="EG">Ägypten</territory>
+			<territory type="EG">Egypten</territory>
 			<territory type="EH">Westsahara</territory>
 			<territory type="ER">Eritrea</territory>
 			<territory type="ES">Spanien</territory>
-			<territory type="ET">Äthiopien</territory>
+			<territory type="ET">Ethiopien</territory>
 			<territory type="EU">Europäesch Unioun</territory>
 			<territory type="FI">Finnland</territory>
 			<territory type="FJ">Fidschi</territory>
@@ -779,7 +779,7 @@
 			<territory type="GB">Groussbritannien</territory>
 			<territory type="GD">Grenada</territory>
 			<territory type="GE">Georgien</territory>
-			<territory type="GF">Franséisch-Guayane</territory>
+			<territory type="GF">Franséisch Guayane</territory>
 			<territory type="GG">Guernsey</territory>
 			<territory type="GH">Ghana</territory>
 			<territory type="GI">Gibraltar</territory>
@@ -787,7 +787,7 @@
 			<territory type="GM">Gambia</territory>
 			<territory type="GN">Guinea</territory>
 			<territory type="GP">Guadeloupe</territory>
-			<territory type="GQ">Äquatorialguinea</territory>
+			<territory type="GQ">Equatorialguinea</territory>
 			<territory type="GR">Griicheland</territory>
 			<territory type="GS">Südgeorgien an déi Südlech Sandwichinselen</territory>
 			<territory type="GT">Guatemala</territory>
@@ -823,7 +823,7 @@
 			<territory type="KM">Komoren</territory>
 			<territory type="KN">St. Kitts an Nevis</territory>
 			<territory type="KP">Demokratesch Volleksrepublik Korea</territory>
-			<territory type="KR">Republik Korea</territory>
+			<territory type="KR">Südkorea</territory>
 			<territory type="KW">Kuwait</territory>
 			<territory type="KY">Kaimaninselen</territory>
 			<territory type="KZ">Kasachstan</territory>
@@ -840,7 +840,7 @@
 			<territory type="LY">Libyen</territory>
 			<territory type="MA">Marokko</territory>
 			<territory type="MC">Monaco</territory>
-			<territory type="MD">Republik Moldau</territory>
+			<territory type="MD">Moldawien</territory>
 			<territory type="ME">Montenegro</territory>
 			<territory type="MF">St. Martin</territory>
 			<territory type="MG">Madagaskar</territory>
@@ -850,15 +850,15 @@
 			<territory type="ML">Mali</territory>
 			<territory type="MM">Myanmar</territory>
 			<territory type="MN">Mongolei</territory>
-			<territory type="MO">Sonnerverwaltungszon Macao</territory>
-			<territory type="MO" alt="short">Macao</territory>
-			<territory type="MP">Nördlech Marianen</territory>
+			<territory type="MO">Sonnerverwaltungszon Macau</territory>
+			<territory type="MO" alt="short">Macau</territory>
+			<territory type="MP">Nërdlech Marianen</territory>
 			<territory type="MQ">Martinique</territory>
 			<territory type="MR">Mauretanien</territory>
 			<territory type="MS">Montserrat</territory>
 			<territory type="MT">Malta</territory>
 			<territory type="MU">Mauritius</territory>
-			<territory type="MV">Malediven</territory>
+			<territory type="MV">Maldiven</territory>
 			<territory type="MW">Malawi</territory>
 			<territory type="MX">Mexiko</territory>
 			<territory type="MY">Malaysia</territory>
@@ -879,15 +879,15 @@
 			<territory type="PA">Panama</territory>
 			<territory type="PE">Peru</territory>
 			<territory type="PF">Franséisch-Polynesien</territory>
-			<territory type="PG">Papua-Neuguinea</territory>
+			<territory type="PG">Papua-Neiguinea</territory>
 			<territory type="PH">Philippinnen</territory>
 			<territory type="PK">Pakistan</territory>
 			<territory type="PL">Polen</territory>
 			<territory type="PM">St. Pierre a Miquelon</territory>
 			<territory type="PN">Pitcairninselen</territory>
 			<territory type="PR">Puerto Rico</territory>
-			<territory type="PS">Palästinensesch Autonomiegebidder</territory>
-			<territory type="PS" alt="short">Palästina</territory>
+			<territory type="PS">Palestinensesch Autonomiegebidder</territory>
+			<territory type="PS" alt="short">Palestina</territory>
 			<territory type="PT">Portugal</territory>
 			<territory type="PW">Palau</territory>
 			<territory type="PY">Paraguay</territory>
@@ -896,7 +896,7 @@
 			<territory type="RE">Réunion</territory>
 			<territory type="RO">Rumänien</territory>
 			<territory type="RS">Serbien</territory>
-			<territory type="RU">Russesch Fëderatioun</territory>
+			<territory type="RU">Russland</territory>
 			<territory type="RW">Ruanda</territory>
 			<territory type="SA">Saudi-Arabien</territory>
 			<territory type="SB">Salomonen</territory>
@@ -932,22 +932,22 @@
 			<territory type="TM">Turkmenistan</territory>
 			<territory type="TN">Tunesien</territory>
 			<territory type="TO">Tonga</territory>
-			<territory type="TR">Türkei</territory>
+			<territory type="TR">Tierkei</territory>
 			<territory type="TT">Trinidad an Tobago</territory>
 			<territory type="TV">Tuvalu</territory>
 			<territory type="TW">Taiwan</territory>
 			<territory type="TZ">Tansania</territory>
-			<territory type="UA">Ukraine</territory>
+			<territory type="UA">Ukrain</territory>
 			<territory type="UG">Uganda</territory>
 			<territory type="UM">Amerikanesch-Ozeanien</territory>
-			<territory type="US">Vereenegt Staaten</territory>
+			<territory type="US">Vereenegt Staate vun Amerika</territory>
 			<territory type="UY">Uruguay</territory>
 			<territory type="UZ">Usbekistan</territory>
 			<territory type="VA">Vatikanstad</territory>
 			<territory type="VC">St. Vincent an d'Grenadinnen</territory>
 			<territory type="VE">Venezuela</territory>
-			<territory type="VG">Britesch Jungferninselen</territory>
-			<territory type="VI">Amerikanesch Jungferninselen</territory>
+			<territory type="VG">Britesch Joffereninselen</territory>
+			<territory type="VI">Amerikanesch Joffereninselen</territory>
 			<territory type="VN">Vietnam</territory>
 			<territory type="VU">Vanuatu</territory>
 			<territory type="WF">Wallis a Futuna</territory>
@@ -957,7 +957,7 @@
 			<territory type="ZA">Südafrika</territory>
 			<territory type="ZM">Sambia</territory>
 			<territory type="ZW">Simbabwe</territory>
-			<territory type="ZZ">Onbekannte Regioun</territory>
+			<territory type="ZZ">OnbekannteRegioun</territory>
 		</territories>
 		<variants>
 			<variant type="1901">Al Däitsch Rechtschreiwung</variant>
@@ -2352,7 +2352,7 @@
 				<exemplarCity>Kaimaninselen</exemplarCity>
 			</zone>
 			<zone type="Asia/Aqtobe">
-				<exemplarCity>Aqtöbe</exemplarCity>
+				<exemplarCity>Aktobe</exemplarCity>
 			</zone>
 			<zone type="America/St_Lucia">
 				<exemplarCity>St. Lucia</exemplarCity>
@@ -2364,16 +2364,16 @@
 				<exemplarCity>Lëtzebuerg</exemplarCity>
 			</zone>
 			<zone type="Africa/Tripoli">
-				<exemplarCity>Tripoli</exemplarCity>
+				<exemplarCity>Tripolis</exemplarCity>
 			</zone>
 			<zone type="Europe/Chisinau">
 				<exemplarCity>Kischinau</exemplarCity>
 			</zone>
 			<zone type="Asia/Macau">
-				<exemplarCity>Macau</exemplarCity>
+				<exemplarCity>Macao</exemplarCity>
 			</zone>
 			<zone type="Indian/Maldives">
-				<exemplarCity>Maldiven</exemplarCity>
+				<exemplarCity>Malediven</exemplarCity>
 			</zone>
 			<zone type="America/Mexico_City">
 				<exemplarCity>Mexiko-Stad</exemplarCity>
@@ -2415,7 +2415,7 @@
 				<exemplarCity>Wolgograd</exemplarCity>
 			</zone>
 			<zone type="Asia/Yekaterinburg">
-				<exemplarCity>Jekaterinbuerg</exemplarCity>
+				<exemplarCity>Jekaterinburg</exemplarCity>
 			</zone>
 			<zone type="Asia/Novosibirsk">
 				<exemplarCity>Nowosibirsk</exemplarCity>
@@ -2472,7 +2472,7 @@
 				<exemplarCity>Taipeh</exemplarCity>
 			</zone>
 			<zone type="Africa/Dar_es_Salaam">
-				<exemplarCity>Dar es Salaam</exemplarCity>
+				<exemplarCity>Daressalam</exemplarCity>
 			</zone>
 			<zone type="Europe/Uzhgorod">
 				<exemplarCity>Uschgorod</exemplarCity>
@@ -2481,7 +2481,7 @@
 				<exemplarCity>Kiew</exemplarCity>
 			</zone>
 			<zone type="Europe/Zaporozhye">
-				<exemplarCity>Saporischschja</exemplarCity>
+				<exemplarCity>Saporeschja</exemplarCity>
 			</zone>
 			<zone type="America/North_Dakota/Beulah">
 				<exemplarCity>Beulah, North Dakota</exemplarCity>
