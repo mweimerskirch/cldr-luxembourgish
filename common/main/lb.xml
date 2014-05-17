@@ -1935,25 +1935,25 @@
 				<relative type="1">nächst Quartal</relative>
 				<relativeTime type="future">
 					<relativeTimePattern count="one">an {0} Quartal</relativeTimePattern>
-					<relativeTimePattern count="other">an {0} Quartaler</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} Quartaler</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
 					<relativeTimePattern count="one">virun {0} Quartal</relativeTimePattern>
-					<relativeTimePattern count="other">virun {0} Quartaler</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} Quartaler</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="quarter-short">
-				<displayName>Qtl.</displayName>
-				<relative type="-1">lescht Qtl.</relative>
-				<relative type="0">dëst Qtl.</relative>
-				<relative type="1">nächst Qtl.</relative>
+				<displayName>Q.</displayName>
+				<relative type="-1">lescht Q.</relative>
+				<relative type="0">dëst Q.</relative>
+				<relative type="1">nächst Q.</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">an {0} Qtl.</relativeTimePattern>
-					<relativeTimePattern count="other">an {0} Qtl.</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} Q.</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} Q.</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">virun {0} Qtl.</relativeTimePattern>
-					<relativeTimePattern count="other">virun {0} Qtl.</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} Q.</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} Q.</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="quarter-narrow">
@@ -1962,12 +1962,12 @@
 				<relative type="0">dëst Q.</relative>
 				<relative type="1">nächst Q.</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">an {0} Q.</relativeTimePattern>
-					<relativeTimePattern count="other">an {0} Q.</relativeTimePattern>
+					<relativeTimePattern count="one">+{0} Q.</relativeTimePattern>
+					<relativeTimePattern count="other">+{0} Q.</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">virun {0} Q.</relativeTimePattern>
-					<relativeTimePattern count="other">virun {0} Q.</relativeTimePattern>
+					<relativeTimePattern count="one">-{0} Q.</relativeTimePattern>
+					<relativeTimePattern count="other">-{0} Q.</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="month">
@@ -1976,26 +1976,26 @@
 				<relative type="0">dëse Mount</relative>
 				<relative type="1">nächste Mount</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} Mount</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} Méint</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} Mount</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} Méint</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} Mount</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} Méint</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} Mount</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} Méint</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="month-short">
-				<displayName>Mnt.</displayName>
-				<relative type="-1">leschte Mnt.</relative>
-				<relative type="0">dëse Mnt.</relative>
-				<relative type="1">nächste Mnt.</relative>
+				<displayName>M.</displayName>
+				<relative type="-1">leschte M.</relative>
+				<relative type="0">dëse M.</relative>
+				<relative type="1">nächste M.</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} Mnt.</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} Mnt.</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} M.</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} M.</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} Mnt.</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} Mnt.</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} M.</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} M.</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="month-narrow">
@@ -2004,12 +2004,12 @@
 				<relative type="0">dëse M.</relative>
 				<relative type="1">nächste M.</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} M.</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} M.</relativeTimePattern>
+					<relativeTimePattern count="one">+{0} M.</relativeTimePattern>
+					<relativeTimePattern count="other">+{0} M.</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} M.</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} M.</relativeTimePattern>
+					<relativeTimePattern count="one">-{0} M.</relativeTimePattern>
+					<relativeTimePattern count="other">-{0} M.</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="week">
@@ -2018,12 +2018,12 @@
 				<relative type="0">dës Woch</relative>
 				<relative type="1">nächst Woch</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} Woch</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} Wochen</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} Woch</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} Wochen</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} Woch</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} Wochen</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} Woch</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} Wochen</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="week-short">
@@ -2032,12 +2032,12 @@
 				<relative type="0">dës W.</relative>
 				<relative type="1">nächst W.</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} W.</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} W.</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} W.</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} W.</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} W.</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} W.</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} W.</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} W.</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="week-narrow">
@@ -2046,59 +2046,59 @@
 				<relative type="0">dës W.</relative>
 				<relative type="1">nächst W.</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} W.</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} W.</relativeTimePattern>
+					<relativeTimePattern count="one">+{0} W.</relativeTimePattern>
+					<relativeTimePattern count="other">+{0} W.</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} W.</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} W.</relativeTimePattern>
+					<relativeTimePattern count="one">-{0} W.</relativeTimePattern>
+					<relativeTimePattern count="other">-{0} W.</relativeTimePattern>
 				</relativeTime>
 			<field type="day">
 				<displayName>Dag</displayName>
-				<relative type="-2">Virgëschter</relative>
-				<relative type="-1">Gëschter</relative>
-				<relative type="0">Haut</relative>
-				<relative type="1">Muer</relative>
-				<relative type="2">Iwwermuer</relative>
+				<relative type="-2">virgëschter</relative>
+				<relative type="-1">gëschter</relative>
+				<relative type="0">haut</relative>
+				<relative type="1">muer</relative>
+				<relative type="2">iwwermuer</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} Dag</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} Deeg</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} Dag</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} Deeg</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} Dag</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} Deeg</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} Dag</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} Deeg</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="day-short">
-				<displayName>Dag</displayName>
-				<relative type="-2">Virgëschter</relative>
-				<relative type="-1">Gëschter</relative>
-				<relative type="0">Haut</relative>
-				<relative type="1">Muer</relative>
-				<relative type="2">Iwwermuer</relative>
+				<displayName>D</displayName>
+				<relative type="-2">virgëschter</relative>
+				<relative type="-1">gëschter</relative>
+				<relative type="0">haut</relative>
+				<relative type="1">muer</relative>
+				<relative type="2">iwwermuer</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} Dag</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} Deeg</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} D</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} D</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} Dag</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} Deeg</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} D</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} D</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="day-narrow">
 				<displayName>Dag</displayName>
-				<relative type="-2">Virgëschter</relative>
-				<relative type="-1">Gëschter</relative>
-				<relative type="0">Haut</relative>
-				<relative type="1">Muer</relative>
-				<relative type="2">Iwwermuer</relative>
+				<relative type="-2">virgëschter</relative>
+				<relative type="-1">gëschter</relative>
+				<relative type="0">haut</relative>
+				<relative type="1">muer</relative>
+				<relative type="2">iwwermuer</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} Dag</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} Deeg</relativeTimePattern>
+					<relativeTimePattern count="one">+{0} D</relativeTimePattern>
+					<relativeTimePattern count="other">+{0} D</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} Dag</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} Deeg</relativeTimePattern>
+					<relativeTimePattern count="one">-{0} D</relativeTimePattern>
+					<relativeTimePattern count="other">-{0} D</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="weekday">
