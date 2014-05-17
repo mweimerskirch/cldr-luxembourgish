@@ -4291,9 +4291,9 @@
 				<displayName count="other">Guineesch Syli</displayName>
 			</currency>
 			<currency type="GQE">
-				<displayName>Äquatorialguinea-Ekwele</displayName>
-				<displayName count="one">Äquatorialguinea-Ekwele</displayName>
-				<displayName count="other">Äquatorialguinea-Ekwele</displayName>
+				<displayName>Equatorialguinea-Ekwele</displayName>
+				<displayName count="one">Equatorialguinea-Ekwele</displayName>
+				<displayName count="other">Equatorialguinea-Ekwele</displayName>
 			</currency>
 			<currency type="GRD">
 				<displayName>Griichesch Drachme</displayName>
