@@ -1071,7 +1071,7 @@
 			<type type="persian" key="calendar">Persesche Kalenner</type>
 			<type type="phonebook" key="collation">Telefonsbuch-Zortéierung</type>
 			<type type="phonetic" key="collation">Zortéierung no Phonetik</type>
-			<type type="pinyin" key="collation">Pinyin-Zortéierreegelen</type>
+			<type type="pinyin" key="collation">Pinyin-Zortéierregelen</type>
 			<type type="primary" key="colStrength">Nëmme Basisbuschtawe zortéieren</type>
 			<type type="quaternary" key="colStrength">Accenten/Fall/Breet/Kana zortéieren</type>
 			<type type="reformed" key="collation">Reforméiert Zortéierreiefolleg</type>
@@ -1089,9 +1089,9 @@
 			<type type="tertiary" key="colStrength">Accenten/Fall/Breet zortéieren</type>
 			<type type="thai" key="numbers">Thai-Zifferen</type>
 			<type type="tibt" key="numbers">Tibetesch Zifferen</type>
-			<type type="traditional" key="collation">Traditionell Zortéierreegelen</type>
+			<type type="traditional" key="collation">Traditionell Zortéierregelen</type>
 			<type type="traditional" key="numbers">Traditionell Zuelen</type>
-			<type type="unihan" key="collation">Radikal-Stréch-Zortéierreegelen</type>
+			<type type="unihan" key="collation">Radikal-Stréch-Zortéierregelen</type>
 			<type type="upper" key="colCaseFirst">Groussbuschtawe fir d'éischt opféieren</type>
 			<type type="vaii" key="numbers">Vai-Zifferen</type>
 			<type type="yes" key="colBackwards">Accenten ëmgedréint zortéieren</type>
