@@ -3162,9 +3162,9 @@
 			</metazone>
 			<metazone type="Newfoundland">
 				<long>
-					<generic>Neifonntland-Zäit</generic>
-					<standard>Neifonntland-Normalzäit</standard>
-					<daylight>Neifonntland-Summerzäit</daylight>
+					<generic>Neifundland-Zäit</generic>
+					<standard>Neifundland-Normalzäit</standard>
+					<daylight>Neifundland-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Niue">
