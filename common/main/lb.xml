@@ -1748,21 +1748,21 @@
 					<dayPeriodContext type="format">
 						<dayPeriodWidth type="wide">
 							<dayPeriod type="afternoon">nomëttes</dayPeriod>
-							<dayPeriod type="am">virm.</dayPeriod>
-							<dayPeriod type="earlyMorning">moies</dayPeriod>
+							<dayPeriod type="am">moies</dayPeriod>
+							<dayPeriod type="earlyMorning">fréi moies</dayPeriod>
 							<dayPeriod type="evening">owes</dayPeriod>
-							<dayPeriod type="morning">virmëttes</dayPeriod>
+							<dayPeriod type="morning">moies</dayPeriod>
 							<dayPeriod type="night">nuets</dayPeriod>
 							<dayPeriod type="noon">mëttes</dayPeriod>
-							<dayPeriod type="pm">nom.</dayPeriod>
+							<dayPeriod type="pm">nomëttes</dayPeriod>
 						</dayPeriodWidth>
 					</dayPeriodContext>
 					<dayPeriodContext type="stand-alone">
 						<dayPeriodWidth type="wide">
 							<dayPeriod type="afternoon">Nomëtteg</dayPeriod>
-							<dayPeriod type="earlyMorning">Moien</dayPeriod>
+							<dayPeriod type="earlyMorning">Fréie Moien</dayPeriod>
 							<dayPeriod type="evening">Owend</dayPeriod>
-							<dayPeriod type="morning">Virmëtteg</dayPeriod>
+							<dayPeriod type="morning">Moien</dayPeriod>
 							<dayPeriod type="night">Nuet</dayPeriod>
 							<dayPeriod type="noon">Mëtteg</dayPeriod>
 						</dayPeriodWidth>
