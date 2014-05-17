@@ -1893,39 +1893,39 @@
 				<relative type="1">nächst Joer</relative>
 				<relativeTime type="future">
 					<relativeTimePattern count="one">an {0} Joer</relativeTimePattern>
-					<relativeTimePattern count="other">an {0} Joer</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} Joer</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
 					<relativeTimePattern count="one">virun {0} Joer</relativeTimePattern>
-					<relativeTimePattern count="other">virun {0} Joer</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} Joer</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="year-short">
-				<displayName>Jr.</displayName>
-				<relative type="-1">lescht Jr.</relative>
-				<relative type="0">dëst Jr.</relative>
-				<relative type="1">next Jr.</relative>
+				<displayName>J.</displayName>
+				<relative type="-1">lescht J.</relative>
+				<relative type="0">dëst J.</relative>
+				<relative type="1">nächst J.</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">in {0} yr.</relativeTimePattern>
-					<relativeTimePattern count="other">in {0} yr.</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} J.</relativeTimePattern>
+					<relativeTimePattern count="other">a(n) {0} J.</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">{0} yr. ago</relativeTimePattern>
-					<relativeTimePattern count="other">{0} yr. ago</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} J.</relativeTimePattern>
+					<relativeTimePattern count="other">viru(n) {0} J.</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="year-narrow">
-				<displayName>yr.</displayName>
-				<relative type="-1">last yr.</relative>
-				<relative type="0">this yr.</relative>
-				<relative type="1">next yr.</relative>
+				<displayName>J.</displayName>
+				<relative type="-1">lescht J.</relative>
+				<relative type="0">dëst J.</relative>
+				<relative type="1">nächst J.</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">+{0} yr.</relativeTimePattern>
-					<relativeTimePattern count="other">+{0} yr.</relativeTimePattern>
+					<relativeTimePattern count="one">+{0} J.</relativeTimePattern>
+					<relativeTimePattern count="other">+{0} J.</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">-{0} yr.</relativeTimePattern>
-					<relativeTimePattern count="other">-{0} yr.</relativeTimePattern>
+					<relativeTimePattern count="one">-{0} J.</relativeTimePattern>
+					<relativeTimePattern count="other">-{0} J.</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="quarter">
