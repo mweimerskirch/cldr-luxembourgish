@@ -2228,7 +2228,7 @@
 				<exemplarCity>St. John's</exemplarCity>
 			</zone>
 			<zone type="Europe/Zurich">
-				<exemplarCity>Zürech</exemplarCity>
+				<exemplarCity>Zürich</exemplarCity>
 			</zone>
 			<zone type="Pacific/Easter">
 				<exemplarCity>Ouschterinsel</exemplarCity>
@@ -2261,7 +2261,7 @@
 				<exemplarCity>Kopenhagen</exemplarCity>
 			</zone>
 			<zone type="Africa/Algiers">
-				<exemplarCity>Algier</exemplarCity>
+				<exemplarCity>Alger</exemplarCity>
 			</zone>
 			<zone type="Africa/Cairo">
 				<exemplarCity>Kairo</exemplarCity>
