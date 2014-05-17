@@ -336,7 +336,7 @@
 			<language type="nah">Nahuatl</language>
 			<language type="nai">Nordamerikanesch Indianersprooch</language>
 			<language type="nap">Neapolitanesch</language>
-			<language type="nb">Norweegesch Bokmål</language>
+			<language type="nb">Norwegesch Bokmål</language>
 			<language type="nd">Nord-Ndebele-Sprooch</language>
 			<language type="nds">Nidderdäitsch</language>
 			<language type="ne">Nepalesesch</language>
@@ -347,8 +347,8 @@
 			<language type="niu">Niue-Sprooch</language>
 			<language type="nl">Nidderlännesch</language>
 			<language type="nl_BE">Flämesch</language>
-			<language type="nn">Norweegesch Nynorsk</language>
-			<language type="no">Norweegesch</language>
+			<language type="nn">Norwegesch Nynorsk</language>
+			<language type="no">Norwegesch</language>
 			<language type="nog">Nogai</language>
 			<language type="non">Alnordesch</language>
 			<language type="nqo">N’Ko</language>
@@ -4390,9 +4390,9 @@
 				<displayName count="other">Nidderlännesch Gulden</displayName>
 			</currency>
 			<currency type="NOK">
-				<displayName>Norweegesch Kroun</displayName>
-				<displayName count="one">Norweegesch Kroun</displayName>
-				<displayName count="other">Norweegesch Krounen</displayName>
+				<displayName>Norwegesch Kroun</displayName>
+				<displayName count="one">Norwegesch Kroun</displayName>
+				<displayName count="other">Norwegesch Krounen</displayName>
 			</currency>
 			<currency type="NPR">
 				<displayName>Nepalesesch Rupie</displayName>
