@@ -692,7 +692,7 @@
 			<script type="Egyd">Egyptesch - Demotesch</script>
 			<script type="Egyh">Egyptesch - Hieratesch</script>
 			<script type="Egyp">Egyptesch Hieroglyphen</script>
-			<script type="Ethi">Äthiopesch</script>
+			<script type="Ethi">Ethiopesch</script>
 			<script type="Geok">Khutsuri</script>
 			<script type="Geor">Georgesch</script>
 			<script type="Glag">Glagolitesch</script>
@@ -1177,9 +1177,9 @@
 			<type type="deva" key="numbers">Devanagari-Zifferen</type>
 			<type type="dictionary" key="collation">Lexikographesch Zortéierreiefolleg</type>
 			<type type="ducet" key="collation">Unicode-Zortéierung</type>
-			<type type="ethi" key="numbers">Äthiopesch Zifferen</type>
-			<type type="ethiopic" key="calendar">Äthiopesche Kalenner</type>
-			<type type="ethiopic-amete-alem" key="calendar">Äthiopesche Kalenner &quot;Amete Alem&quot;</type>
+			<type type="ethi" key="numbers">Ethiopesch Zifferen</type>
+			<type type="ethiopic" key="calendar">Ethiopesche Kalenner</type>
+			<type type="ethiopic-amete-alem" key="calendar">Ethiopesche Kalenner &quot;Amete Alem&quot;</type>
 			<type type="finance" key="numbers">Finanzzuelen</type>
 			<type type="fullwide" key="numbers">Vollbreet Zifferen</type>
 			<type type="gb2312han" key="collation">Vereinfacht Chinesesch - GB2312</type>
@@ -4018,8 +4018,8 @@
 			</currency>
 			<currency type="BRZ">
 				<displayName>Brasilianesche Cruzeiro (1942-1967)</displayName>
-				<displayName count="one">Brasilianesche Cruzeiro (1942-1967))</displayName>
-				<displayName count="other">Brasilianesch Cruzeiro (1942-1967))</displayName>
+				<displayName count="one">Brasilianesche Cruzeiro (1942-1967)</displayName>
+				<displayName count="other">Brasilianesch Cruzeiro (1942-1967)</displayName>
 			</currency>
 			<currency type="BSD">
 				<displayName>Bahama-Dollar</displayName>
@@ -4199,24 +4199,24 @@
 				<displayName count="other">Eritreesch Nakfa</displayName>
 			</currency>
 			<currency type="ESA">
-				<displayName>Spanesch Peseta (A-Konten)</displayName>
-				<displayName count="one">Spanesch Peseta (A-Konten)</displayName>
-				<displayName count="other">Spanesch Peseten (A-Konten)</displayName>
+				<displayName>Spuenesch Peseta (A-Konten)</displayName>
+				<displayName count="one">Spuenesch Peseta (A-Konten)</displayName>
+				<displayName count="other">Spuenesch Peseten (A-Konten)</displayName>
 			</currency>
 			<currency type="ESB">
-				<displayName>Spanesch Peseta (konvertibel)</displayName>
-				<displayName count="one">Spanesch Peseta (konvertibel)</displayName>
-				<displayName count="other">Spanesch Peseten (konvertibel)</displayName>
+				<displayName>Spuenesch Peseta (konvertibel)</displayName>
+				<displayName count="one">Spuenesch Peseta (konvertibel)</displayName>
+				<displayName count="other">Spuenesch Peseten (konvertibel)</displayName>
 			</currency>
 			<currency type="ESP">
-				<displayName>Spanesch Peseta</displayName>
-				<displayName count="one">Spanesch Peseta</displayName>
-				<displayName count="other">Spanesch Peseten</displayName>
+				<displayName>Spuenesch Peseta</displayName>
+				<displayName count="one">Spuenesch Peseta</displayName>
+				<displayName count="other">Spuenesch Peseten</displayName>
 			</currency>
 			<currency type="ETB">
-				<displayName>Äthiopesch Birr</displayName>
-				<displayName count="one">Äthiopeschen Birr</displayName>
-				<displayName count="other">Äthiopesch Birr</displayName>
+				<displayName>Ethiopesch Birr</displayName>
+				<displayName count="one">Ethiopeschen Birr</displayName>
+				<displayName count="other">Ethiopesch Birr</displayName>
 			</currency>
 			<currency type="EUR">
 				<displayName>Euro</displayName>
