@@ -4723,9 +4723,9 @@
 				<displayName count="other">Pakistanesch Rupien</displayName>
 			</currency>
 			<currency type="PLN">
-				<displayName>Polneschen Złoty</displayName>
-				<displayName count="one">Polneschen Złoty</displayName>
-				<displayName count="other">Polnesch Złoty</displayName>
+				<displayName>Polneschen Zloty</displayName>
+				<displayName count="one">Polneschen Zloty</displayName>
+				<displayName count="other">Polnesch Zloty</displayName>
 			</currency>
 			<currency type="PLZ">
 				<displayName>Polneschen Zloty (1950-1995)</displayName>
