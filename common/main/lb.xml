@@ -2073,6 +2073,7 @@
 					<relativeTimePattern count="one">-{0} W.</relativeTimePattern>
 					<relativeTimePattern count="other">-{0} W.</relativeTimePattern>
 				</relativeTime>
+			</field>
 			<field type="day">
 				<displayName>Dag</displayName>
 				<relative type="-2">virgëschter</relative>
