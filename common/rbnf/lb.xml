@@ -32,11 +32,11 @@
                 <rbnfrule value="11">eelef;</rbnfrule>
                 <rbnfrule value="12">zwielef;</rbnfrule>
                 <rbnfrule value="13">→→zéng;</rbnfrule>
-                <rbnfrule value="16">siéchzéng;</rbnfrule>
+                <rbnfrule value="16">siechzéng;</rbnfrule>
                 <rbnfrule value="17">siwwenzéng;</rbnfrule>
                 <rbnfrule value="18">uechtzéng;</rbnfrule>
                 <rbnfrule value="20">[→%spellout-cardinal-masculine→­an]zwanzeg;</rbnfrule>
-                <rbnfrule value="30">[→%spellout-cardinal-masculine→­an]dreißig;</rbnfrule>
+                <rbnfrule value="30">[→%spellout-cardinal-masculine→­an]drësseg;</rbnfrule>
                 <rbnfrule value="40">[→%spellout-cardinal-masculine→­a­]véierzeg;</rbnfrule>
                 <rbnfrule value="50">[→%spellout-cardinal-masculine→­a]fofzeg;</rbnfrule>
                 <rbnfrule value="60">[→%spellout-cardinal-masculine→­a­]siechzeg;</rbnfrule>
