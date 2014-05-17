@@ -4949,8 +4949,8 @@
 				<compoundUnitPattern>{0} pro {1}</compoundUnitPattern>
 			</compoundUnit>
 			<unit type="acceleration-g-force">
-				<unitPattern count="one">{0}-fach Äerdbeschleinegung</unitPattern>
-				<unitPattern count="other">{0}-fach Äerdbeschleinegung</unitPattern>
+				<unitPattern count="one">{0}-fach Äerdacceleratioun</unitPattern>
+				<unitPattern count="other">{0}-fach Äerdacceleratioun</unitPattern>
 			</unit>
 			<unit type="angle-arc-minute">
 				<unitPattern count="one">{0} Wénkelminutt</unitPattern>
