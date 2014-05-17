@@ -620,7 +620,7 @@
 			<script type="Phag">Phags-pa</script>
 			<script type="Phlv">Pahlavi</script>
 			<script type="Phnx">Phönizesch</script>
-			<script type="Plrd">Pollard Fonetesch</script>
+			<script type="Plrd">Pollard Phonetesch</script>
 			<script type="Rjng">Rejang</script>
 			<script type="Roro">Rongorongo</script>
 			<script type="Runr">Runeschrëft</script>
@@ -971,8 +971,8 @@
 			<variant type="BAKU1926">Eenheetlecht Tierkescht Alphabet</variant>
 			<variant type="BISKE">Bela-Dialekt</variant>
 			<variant type="BOONT">Boontling</variant>
-			<variant type="FONIPA">Fonetesch (IPA)</variant>
-			<variant type="FONUPA">Fonetesch (UPA)</variant>
+			<variant type="FONIPA">Phonetesch (IPA)</variant>
+			<variant type="FONUPA">Phonetesch (UPA)</variant>
 			<variant type="KKCOR">Allgemeng Rechtschreiwung</variant>
 			<variant type="LIPAW">Lipovaz-Dialekt</variant>
 			<variant type="MONOTON">Monotonesch</variant>
@@ -1070,7 +1070,7 @@
 			<type type="orya" key="numbers">Oriya-Zifferen</type>
 			<type type="persian" key="calendar">Persesche Kalenner</type>
 			<type type="phonebook" key="collation">Telefonsbuch-Sortéierung</type>
-			<type type="phonetic" key="collation">Sortéierung no Fonetik</type>
+			<type type="phonetic" key="collation">Sortéierung no Phonetik</type>
 			<type type="pinyin" key="collation">Pinyin-Sortéierreegelen</type>
 			<type type="primary" key="colStrength">Nëmme Basisbuschtawe sortéieren</type>
 			<type type="quaternary" key="colStrength">Akzenter/Fall/Breet/Kana sortéieren</type>
@@ -2909,7 +2909,7 @@
 			</metazone>
 			<metazone type="GMT">
 				<long>
-					<standard>Mëttel Greenwich-Zäit</standard>
+					<standard>Mittlere Greenwich-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Greenland_Eastern">
@@ -4009,8 +4009,8 @@
 				<displayName count="other">Guinea-Frang</displayName>
 			</currency>
 			<currency type="GNS">
-				<displayName>Guineeseche Syli</displayName>
-				<displayName count="one">Guineeseche Syli</displayName>
+				<displayName>Guineesche Syli</displayName>
+				<displayName count="one">Guineesche Syli</displayName>
 				<displayName count="other">Guineesch Syli</displayName>
 			</currency>
 			<currency type="GQE">
@@ -4431,9 +4431,9 @@
 				<displayName count="other">Peruanesch Sol (1863-1965)</displayName>
 			</currency>
 			<currency type="PGK">
-				<displayName>Papua-Neuguineeseche Kina</displayName>
-				<displayName count="one">Papua-Neuguineeseche Kina</displayName>
-				<displayName count="other">Papua-Neuguineesech Kina</displayName>
+				<displayName>Papua-Neuguineesche Kina</displayName>
+				<displayName count="one">Papua-Neuguineesche Kina</displayName>
+				<displayName count="other">Papua-Neuguineesch Kina</displayName>
 			</currency>
 			<currency type="PHP">
 				<displayName>Philippinnesche Peso</displayName>
