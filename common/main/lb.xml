@@ -2145,35 +2145,35 @@
 			<field type="hour">
 				<displayName>Stonn</displayName>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} Stonn</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} Stonnen</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} Stonn</relativeTimePattern>
+					<relativeTimePattern count="other">an {0} Stonnen</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} Stonn</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} Stonnen</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} Stonn</relativeTimePattern>
+					<relativeTimePattern count="other">virun {0} Stonnen</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="minute">
 				<displayName>Minutt</displayName>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} Minutt</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} Minutten</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} Minutt</relativeTimePattern>
+					<relativeTimePattern count="other">an {0} Minutten</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} Minutt</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} Minutten</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} Minutt</relativeTimePattern>
+					<relativeTimePattern count="other">virun {0} Minutten</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="second">
 				<displayName>Sekonn</displayName>
 				<relative type="0">elo</relative>
 				<relativeTime type="future">
-					<relativeTimePattern count="one">An {0} Sekonn</relativeTimePattern>
-					<relativeTimePattern count="other">An {0} Sekonnen</relativeTimePattern>
+					<relativeTimePattern count="one">an {0} Sekonn</relativeTimePattern>
+					<relativeTimePattern count="other">an {0} Sekonnen</relativeTimePattern>
 				</relativeTime>
 				<relativeTime type="past">
-					<relativeTimePattern count="one">Virun {0} Sekonn</relativeTimePattern>
-					<relativeTimePattern count="other">Virun {0} Sekonnen</relativeTimePattern>
+					<relativeTimePattern count="one">virun {0} Sekonn</relativeTimePattern>
+					<relativeTimePattern count="other">virun {0} Sekonnen</relativeTimePattern>
 				</relativeTime>
 			</field>
 			<field type="zone">
