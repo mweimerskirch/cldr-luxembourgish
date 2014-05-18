@@ -1164,7 +1164,7 @@
 			<type type="reformed" key="collation">Reforméiert Zortéierreiefolleg</type>
 			<type type="roc" key="calendar">Kalenner vun der Republik China</type>
 			<type type="roman" key="numbers">Réimesch Zifferen</type>
-			<type type="romanlow" key="numbers">Réimesch Zifferen a Kleischrëft</type>
+			<type type="romanlow" key="numbers">Réimesch Zifferen a Klengschrëft</type>
 			<type type="search" key="collation">Allgemeng Sich</type>
 			<type type="searchjl" key="collation">Sich no Ufanksbuschtawen aus dem koreaneschen Alphabet</type>
 			<type type="standard" key="collation">Standard Zortéierreiefolleg</type>
@@ -1177,7 +1177,7 @@
 			<type type="traditional" key="collation">Traditionell Zortéierregelen</type>
 			<type type="unihan" key="collation">Radikal-Stréch-Zortéierregelen</type>
 			<type type="vaii" key="numbers">Vai-Zifferen</type>
-			<type type="zhuyin" key="collation">Zhuyin-Sortéierregelen</type>
+			<type type="zhuyin" key="collation">Zhuyin-Zortéierregelen</type>
 		</types>
 		<measurementSystemNames>
 			<measurementSystemName type="metric">Metreschen Eenheetesystem</measurementSystemName>
