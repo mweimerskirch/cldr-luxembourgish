@@ -3487,9 +3487,9 @@
 			</metazone>
 			<metazone type="Yakutsk">
 				<long>
-					<generic>Yakutsk-Zäit</generic>
-					<standard>Yakutsk-Normalzäit</standard>
-					<daylight>Yakutsk-Summerzäit</daylight>
+					<generic>Jakutsk-Zäit</generic>
+					<standard>Jakutsk-Normalzäit</standard>
+					<daylight>Jakutsk-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Yekaterinburg">
