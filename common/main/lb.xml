@@ -1164,7 +1164,7 @@
 			<type type="reformed" key="collation">Reforméiert Zortéierreiefolleg</type>
 			<type type="roc" key="calendar">Kalenner vun der Republik China</type>
 			<type type="roman" key="numbers">Réimesch Zifferen</type>
-			<type type="romanlow" key="numbers">Réimesch Zifferen a Klengschrëft</type>
+			<type type="romanlow" key="numbers">Réimesch Zifferen a Kleischrëft</type>
 			<type type="search" key="collation">Allgemeng Sich</type>
 			<type type="searchjl" key="collation">Sich no Ufanksbuschtawen aus dem koreaneschen Alphabet</type>
 			<type type="standard" key="collation">Standard Zortéierreiefolleg</type>
@@ -1177,7 +1177,7 @@
 			<type type="traditional" key="collation">Traditionell Zortéierregelen</type>
 			<type type="unihan" key="collation">Radikal-Stréch-Zortéierregelen</type>
 			<type type="vaii" key="numbers">Vai-Zifferen</type>
-			<type type="zhuyin" key="collation">Zhuyin-Zortéierregelen</type>
+			<type type="zhuyin" key="collation">Zhuyin-Sortéierregelen</type>
 		</types>
 		<measurementSystemNames>
 			<measurementSystemName type="metric">Metreschen Eenheetesystem</measurementSystemName>
@@ -2633,9 +2633,9 @@
 			</metazone>
 			<metazone type="Alaska">
 				<long>
-					<generic>Alaska Zäit</generic>
+					<generic>Alaska-Zäit</generic>
 					<standard>Alaska-Normalzäit</standard>
-					<daylight>Alaska Summerzäit</daylight>
+					<daylight>Alaska-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Almaty">
@@ -2668,9 +2668,9 @@
 			</metazone>
 			<metazone type="America_Mountain">
 				<long>
-					<generic>Rocky Mountain Zäit</generic>
-					<standard>Rocky Mountain-Normalzäit</standard>
-					<daylight>Rocky Mountain Summerzäit</daylight>
+					<generic>Rocky-Mountain-Zäit</generic>
+					<standard>Rocky-Mountain-Normalzäit</standard>
+					<daylight>Rocky-Mountain-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="America_Pacific">
@@ -3001,9 +3001,9 @@
 			</metazone>
 			<metazone type="Hong_Kong">
 				<long>
-					<generic>Hong-Kong-Zäit</generic>
-					<standard>Hong-Kong-Normalzäit</standard>
-					<daylight>Hong-Kong-Summerzäit</daylight>
+					<generic>Hongkong-Zäit</generic>
+					<standard>Hongkong-Normalzäit</standard>
+					<daylight>Hongkong-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Hovd">
@@ -3143,7 +3143,7 @@
 			</metazone>
 			<metazone type="Maldives">
 				<long>
-					<standard>Maldiven-Zäit</standard>
+					<standard>Maldivesch Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Marquesas">
@@ -3244,9 +3244,9 @@
 			</metazone>
 			<metazone type="Noronha">
 				<long>
-					<generic>Fernando de Noronha-Zäit</generic>
-					<standard>Fernando de Noronha-Normalzäit</standard>
-					<daylight>Fernando de Noronha Summerzäit</daylight>
+					<generic>Fernando-de-Noronha-Zäit</generic>
+					<standard>Fernando-de-Noronha-Normalzäit</standard>
+					<daylight>Fernando-de-Noronha Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Novosibirsk">
@@ -3296,9 +3296,9 @@
 			</metazone>
 			<metazone type="Philippines">
 				<long>
-					<generic>Philippinesch Zäit</generic>
-					<standard>Philippinesch Normalzäit</standard>
-					<daylight>Philippinesch Summerzäit</daylight>
+					<generic>Philippinnesch Zäit</generic>
+					<standard>Philippinnesch Normalzäit</standard>
+					<daylight>Philippinnesch Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Phoenix_Islands">
@@ -3325,7 +3325,7 @@
 			</metazone>
 			<metazone type="Reunion">
 				<long>
-					<standard>Reunion-Zäit</standard>
+					<standard>Réunion-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Rothera">
@@ -3472,7 +3472,7 @@
 			</metazone>
 			<metazone type="Vostok">
 				<long>
-					<standard>Vostok-Zäit</standard>
+					<standard>Wostok-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Wake">
@@ -3494,9 +3494,9 @@
 			</metazone>
 			<metazone type="Yekaterinburg">
 				<long>
-					<generic>Jekaterinburg-Zäit</generic>
-					<standard>Jekaterinburg-Normalzäit</standard>
-					<daylight>Jekaterinburg-Summerzäit</daylight>
+					<generic>Jekaterinbuerg-Zäit</generic>
+					<standard>Jekaterinbuerg-Normalzäit</standard>
+					<daylight>Jekaterinbuerg-Summerzäit</daylight>
 				</long>
 			</metazone>
 		</timeZoneNames>
