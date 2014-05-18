@@ -2,8 +2,8 @@
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
 <ldml>
 	<identity>
-		<version number="$Revision:  $"/>
-		<generation date="$Date:  $"/>
+		<version number="$Revision: $"/>
+		<generation date="$Date: $"/>
 		<language type="lb"/>
 	</identity>
 	<localeDisplayNames>
@@ -867,6 +867,7 @@
 			<territory type="FR">Frankräich</territory>
 			<territory type="GA">Gabun</territory>
 			<territory type="GB">Groussbritannien</territory>
+			<territory type="GB" alt="short">GB</territory>
 			<territory type="GD">Grenada</territory>
 			<territory type="GE">Georgien</territory>
 			<territory type="GF">Guayane</territory>
@@ -1031,6 +1032,7 @@
 			<territory type="UG">Uganda</territory>
 			<territory type="UM">Amerikanesch-Ozeanien</territory>
 			<territory type="US">Vereenegt Staate vun Amerika</territory>
+			<territory type="US" alt="short">US</territory>
 			<territory type="UY">Uruguay</territory>
 			<territory type="UZ">Usbekistan</territory>
 			<territory type="VA">Vatikanstad</territory>
@@ -1042,6 +1044,7 @@
 			<territory type="VU">Vanuatu</territory>
 			<territory type="WF">Wallis a Futuna</territory>
 			<territory type="WS">Samoa</territory>
+			<territory type="XK">Kosovo</territory>
 			<territory type="YE">Jemen</territory>
 			<territory type="YT">Mayotte</territory>
 			<territory type="ZA">Südafrika</territory>
@@ -1117,9 +1120,11 @@
 			<type type="buddhist" key="calendar">Buddhistesche Kalenner</type>
 			<type type="chinese" key="calendar">Chinesesche Kalenner</type>
 			<type type="coptic" key="calendar">Koptesche Kalenner</type>
+			<type type="dangi" key="calendar">Dangi-Kalenner</type>
 			<type type="deva" key="numbers">Devanagari-Zifferen</type>
 			<type type="dictionary" key="collation">Lexikographesch Zortéierreiefolleg</type>
 			<type type="ducet" key="collation">Unicode-Zortéierung</type>
+			<type type="eor" key="collation">Europäesch Zortéierregelen</type>
 			<type type="ethi" key="numbers">Ethiopesch Zifferen</type>
 			<type type="ethiopic" key="calendar">Ethiopesche Kalenner</type>
 			<type type="ethiopic-amete-alem" key="calendar">Ethiopesche Kalenner &quot;Amete Alem&quot;</type>
@@ -1172,6 +1177,7 @@
 			<type type="traditional" key="collation">Traditionell Zortéierregelen</type>
 			<type type="unihan" key="collation">Radikal-Stréch-Zortéierregelen</type>
 			<type type="vaii" key="numbers">Vai-Zifferen</type>
+			<type type="zhuyin" key="collation">Zhuyin-Sortéierregelen</type>
 		</types>
 		<measurementSystemNames>
 			<measurementSystemName type="metric">Metreschen Eenheetesystem</measurementSystemName>
@@ -1596,7 +1602,9 @@
 					</eraNames>
 					<eraAbbr>
 						<era type="0">v. Chr.</era>
+						<era type="0" alt="variant">v. e. Z.</era>
 						<era type="1">n. Chr.</era>
+						<era type="1" alt="variant">n. e. Z.</era>
 					</eraAbbr>
 				</eras>
 				<dateFormats>
@@ -1612,7 +1620,7 @@
 					</dateFormatLength>
 					<dateFormatLength type="medium">
 						<dateFormat>
-							<pattern>dd.MM.y</pattern>
+							<pattern>d. MMM y</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="short">
@@ -1667,6 +1675,10 @@
 					<availableFormats>
 						<dateFormatItem id="d">d</dateFormatItem>
 						<dateFormatItem id="Ed">E, d.</dateFormatItem>
+						<dateFormatItem id="Ehm">E, h:mm a</dateFormatItem>
+						<dateFormatItem id="EHm">E, HH:mm</dateFormatItem>
+						<dateFormatItem id="Ehms">E, h:mm:ss a</dateFormatItem>
+						<dateFormatItem id="EHms">E, HH:mm:ss</dateFormatItem>
 						<dateFormatItem id="Gy">y G</dateFormatItem>
 						<dateFormatItem id="GyMMM">MMM y G</dateFormatItem>
 						<dateFormatItem id="GyMMMd">d. MMM y G</dateFormatItem>
@@ -1694,6 +1706,9 @@
 						<dateFormatItem id="yQQQ">QQQ y</dateFormatItem>
 						<dateFormatItem id="yQQQQ">QQQQ y</dateFormatItem>
 					</availableFormats>
+					<appendItems>
+						<appendItem request="Timezone">{0} {1}</appendItem>
+					</appendItems>
 					<intervalFormats>
 						<intervalFormatFallback>{0} - {1}</intervalFormatFallback>
 						<intervalFormatItem id="d">
@@ -3467,6 +3482,11 @@
 		</timeZoneNames>
 	</dates>
 	<numbers>
+		<defaultNumberingSystem>latn</defaultNumberingSystem>
+		<otherNumberingSystems>
+			<native>latn</native>
+		</otherNumberingSystems>
+		<minimumGroupingDigits>1</minimumGroupingDigits>
 		<symbols numberSystem="latn">
 			<decimal>,</decimal>
 			<group>.</group>
@@ -3474,9 +3494,11 @@
 			<plusSign>+</plusSign>
 			<minusSign>-</minusSign>
 			<exponential>E</exponential>
+			<superscriptingExponent>×</superscriptingExponent>
 			<perMille>‰</perMille>
 			<infinity>∞</infinity>
 			<nan>NaN</nan>
+			<timeSeparator>:</timeSeparator>
 		</symbols>
 		<decimalFormats numberSystem="latn">
 			<decimalFormatLength>
@@ -3558,6 +3580,9 @@
 		<currencyFormats numberSystem="latn">
 			<currencyFormatLength>
 				<currencyFormat type="standard">
+					<pattern>#,##0.00 ¤</pattern>
+				</currencyFormat>
+				<currencyFormat type="accounting">
 					<pattern>#,##0.00 ¤</pattern>
 				</currencyFormat>
 			</currencyFormatLength>
@@ -4993,6 +5018,10 @@
 				<displayName count="other">Simbabwe-Dollar (2008)</displayName>
 			</currency>
 		</currencies>
+		<miscPatterns numberSystem="latn">
+			<pattern type="atLeast">⩾ {0}</pattern>
+			<pattern type="range">{0}–{1}</pattern>
+		</miscPatterns>
 	</numbers>
 	<units>
 		<unitLength type="long">
@@ -5011,10 +5040,12 @@
 				<unitPattern count="other">{0} Wénkelminutten</unitPattern>
 			</unit>
 			<unit type="angle-arc-second">
+				<displayName>Wénkelsekonnen</displayName>
 				<unitPattern count="one">{0} Wénkelsekonn</unitPattern>
 				<unitPattern count="other">{0} Wénkelsekonnen</unitPattern>
 			</unit>
 			<unit type="angle-degree">
+				<displayName>Grad</displayName>
 				<unitPattern count="one">{0} Grad</unitPattern>
 				<unitPattern count="other">{0} Grad</unitPattern>
 			</unit>
@@ -5041,6 +5072,56 @@
 			<unit type="area-square-mile">
 				<unitPattern count="one">{0} Quadratmeil</unitPattern>
 				<unitPattern count="other">{0} Quadratmeilen</unitPattern>
+			</unit>
+			<unit type="digital-bit">
+				<displayName>Bits</displayName>
+				<unitPattern count="one">{0} Bit</unitPattern>
+				<unitPattern count="other">{0} Bits</unitPattern>
+			</unit>
+			<unit type="digital-byte">
+				<displayName>Bytes</displayName>
+				<unitPattern count="one">{0} Byte</unitPattern>
+				<unitPattern count="other">{0} Bytes</unitPattern>
+			</unit>
+			<unit type="digital-gigabit">
+				<displayName>Gigabits</displayName>
+				<unitPattern count="one">{0} Gigabit</unitPattern>
+				<unitPattern count="other">{0} Gigabit</unitPattern>
+			</unit>
+			<unit type="digital-gigabyte">
+				<displayName>Gigabytes</displayName>
+				<unitPattern count="one">{0} Gigabyte</unitPattern>
+				<unitPattern count="other">{0} Gigabytes</unitPattern>
+			</unit>
+			<unit type="digital-kilobit">
+				<displayName>Kilobits</displayName>
+				<unitPattern count="one">{0} Kilobit</unitPattern>
+				<unitPattern count="other">{0} Kilobit</unitPattern>
+			</unit>
+			<unit type="digital-kilobyte">
+				<displayName>Kilobytes</displayName>
+				<unitPattern count="one">{0} Kilobyte</unitPattern>
+				<unitPattern count="other">{0} Kilobytes</unitPattern>
+			</unit>
+			<unit type="digital-megabit">
+				<displayName>Megabits</displayName>
+				<unitPattern count="one">{0} Megabit</unitPattern>
+				<unitPattern count="other">{0} Megabits</unitPattern>
+			</unit>
+			<unit type="digital-megabyte">
+				<displayName>Megabytes</displayName>
+				<unitPattern count="one">{0} Megabyte</unitPattern>
+				<unitPattern count="other">{0} Megabytes</unitPattern>
+			</unit>
+			<unit type="digital-terabit">
+				<displayName>Terabits</displayName>
+				<unitPattern count="one">{0} Terabit</unitPattern>
+				<unitPattern count="other">{0} Terabits</unitPattern>
+			</unit>
+			<unit type="digital-terabyte">
+				<displayName>Terabytes</displayName>
+				<unitPattern count="one">{0} Terabyte</unitPattern>
+				<unitPattern count="other">{0} Terabytes</unitPattern>
 			</unit>
 			<unit type="duration-day">
 				<displayName>Deeg</displayName>
@@ -5093,6 +5174,46 @@
 				<displayName>Joer</displayName>
 				<unitPattern count="one">{0} Joer</unitPattern>
 				<unitPattern count="other">{0} Joer</unitPattern>
+			</unit>
+			<unit type="electric-ampere">
+				<displayName>Ampère</displayName>
+				<unitPattern count="one">{0} Ampère</unitPattern>
+				<unitPattern count="other">{0} Ampère</unitPattern>
+			</unit>
+			<unit type="electric-milliampere">
+				<displayName>Milliampère</displayName>
+				<unitPattern count="one">{0} Milliampère</unitPattern>
+				<unitPattern count="other">{0} Milliampère</unitPattern>
+			</unit>
+			<unit type="electric-ohm">
+				<displayName>Ohm</displayName>
+				<unitPattern count="one">{0} Ohm</unitPattern>
+				<unitPattern count="other">{0} Ohm</unitPattern>
+			</unit>
+			<unit type="electric-volt">
+				<displayName>Volt</displayName>
+				<unitPattern count="one">{0} Volt</unitPattern>
+				<unitPattern count="other">{0} Volt</unitPattern>
+			</unit>
+			<unit type="frequency-gigahertz">
+				<displayName>Gigahertz</displayName>
+				<unitPattern count="one">{0} Gigahertz</unitPattern>
+				<unitPattern count="other">{0} Gigahertz</unitPattern>
+			</unit>
+			<unit type="frequency-hertz">
+				<displayName>Hertz</displayName>
+				<unitPattern count="one">{0} Hertz</unitPattern>
+				<unitPattern count="other">{0} Hertz</unitPattern>
+			</unit>
+			<unit type="frequency-kilohertz">
+				<displayName>Kilohertz</displayName>
+				<unitPattern count="one">{0} Kilohertz</unitPattern>
+				<unitPattern count="other">{0} Kilohertz</unitPattern>
+			</unit>
+			<unit type="frequency-megahertz">
+				<displayName>Megahertz</displayName>
+				<unitPattern count="one">{0} Megahertz</unitPattern>
+				<unitPattern count="other">{0} Megahertz</unitPattern>
 			</unit>
 			<unit type="length-astronomical-unit">
 				<displayName>Astronomesch Eenheeten</displayName>
@@ -5437,6 +5558,7 @@
 				<unitPattern count="other">{0}″</unitPattern>
 			</unit>
 			<unit type="angle-degree">
+				<displayName>°</displayName>
 				<unitPattern count="one">{0}°</unitPattern>
 				<unitPattern count="other">{0}°</unitPattern>
 			</unit>
@@ -5463,6 +5585,56 @@
 			<unit type="area-square-mile">
 				<unitPattern count="one">{0} mi²</unitPattern>
 				<unitPattern count="other">{0} mi²</unitPattern>
+			</unit>
+			<unit type="digital-bit">
+				<displayName>b</displayName>
+				<unitPattern count="one">{0} b</unitPattern>
+				<unitPattern count="other">{0} b</unitPattern>
+			</unit>
+			<unit type="digital-byte">
+				<displayName>B</displayName>
+				<unitPattern count="one">{0} B</unitPattern>
+				<unitPattern count="other">{0} B</unitPattern>
+			</unit>
+			<unit type="digital-gigabit">
+				<displayName>Gb</displayName>
+				<unitPattern count="one">{0} Gb</unitPattern>
+				<unitPattern count="other">{0} Gb</unitPattern>
+			</unit>
+			<unit type="digital-gigabyte">
+				<displayName>GB</displayName>
+				<unitPattern count="one">{0} GB</unitPattern>
+				<unitPattern count="other">{0} GB</unitPattern>
+			</unit>
+			<unit type="digital-kilobit">
+				<displayName>kb</displayName>
+				<unitPattern count="one">{0} kb</unitPattern>
+				<unitPattern count="other">{0} kb</unitPattern>
+			</unit>
+			<unit type="digital-kilobyte">
+				<displayName>kB</displayName>
+				<unitPattern count="one">{0} kB</unitPattern>
+				<unitPattern count="other">{0} kB</unitPattern>
+			</unit>
+			<unit type="digital-megabit">
+				<displayName>Mb</displayName>
+				<unitPattern count="one">{0} Mb</unitPattern>
+				<unitPattern count="other">{0} Mb</unitPattern>
+			</unit>
+			<unit type="digital-megabyte">
+				<displayName>MB</displayName>
+				<unitPattern count="one">{0} MB</unitPattern>
+				<unitPattern count="other">{0} MB</unitPattern>
+			</unit>
+			<unit type="digital-terabit">
+				<displayName>Tb</displayName>
+				<unitPattern count="one">{0} Tb</unitPattern>
+				<unitPattern count="other">{0} Tb</unitPattern>
+			</unit>
+			<unit type="digital-terabyte">
+				<displayName>TB</displayName>
+				<unitPattern count="one">{0} TB</unitPattern>
+				<unitPattern count="other">{0} TB</unitPattern>
 			</unit>
 			<unit type="duration-day">
 				<displayName>D</displayName>
@@ -5515,6 +5687,46 @@
 				<displayName>J</displayName>
 				<unitPattern count="one">{0} J</unitPattern>
 				<unitPattern count="other">{0} J</unitPattern>
+			</unit>
+			<unit type="electric-ampere">
+				<displayName>A</displayName>
+				<unitPattern count="one">{0} A</unitPattern>
+				<unitPattern count="other">{0} A</unitPattern>
+			</unit>
+			<unit type="electric-milliampere">
+				<displayName>mA</displayName>
+				<unitPattern count="one">{0} mA</unitPattern>
+				<unitPattern count="other">{0} mA</unitPattern>
+			</unit>
+			<unit type="electric-ohm">
+				<displayName>Ω</displayName>
+				<unitPattern count="one">{0} Ω</unitPattern>
+				<unitPattern count="other">{0} Ω</unitPattern>
+			</unit>
+			<unit type="electric-volt">
+				<displayName>V</displayName>
+				<unitPattern count="one">{0} V</unitPattern>
+				<unitPattern count="other">{0} V</unitPattern>
+			</unit>
+			<unit type="frequency-gigahertz">
+				<displayName>GHz</displayName>
+				<unitPattern count="one">{0} GHz</unitPattern>
+				<unitPattern count="other">{0} GHz</unitPattern>
+			</unit>
+			<unit type="frequency-hertz">
+				<displayName>Hz</displayName>
+				<unitPattern count="one">{0} Hz</unitPattern>
+				<unitPattern count="other">{0} Hz</unitPattern>
+			</unit>
+			<unit type="frequency-kilohertz">
+				<displayName>kHz</displayName>
+				<unitPattern count="one">{0} kHz</unitPattern>
+				<unitPattern count="other">{0} kHz</unitPattern>
+			</unit>
+			<unit type="frequency-megahertz">
+				<displayName>MHz</displayName>
+				<unitPattern count="one">{0} MHz</unitPattern>
+				<unitPattern count="other">{0} MHz</unitPattern>
 			</unit>
 			<unit type="length-astronomical-unit">
 				<displayName>au</displayName>
