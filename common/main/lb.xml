@@ -3308,9 +3308,9 @@
 			</metazone>
 			<metazone type="Pierre_Miquelon">
 				<long>
-					<generic>Saint-Pierre-an-Miquelon-Zäit</generic>
-					<standard>Saint-Pierre-an-Miquelon-Normalzäit</standard>
-					<daylight>Saint-Pierre-an-Miquelon-Summerzäit</daylight>
+					<generic>Saint-Pierre-a-Miquelon-Zäit</generic>
+					<standard>Saint-Pierre-a-Miquelon-Normalzäit</standard>
+					<daylight>Saint-Pierre-a-Miquelon-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Pitcairn">
@@ -3482,7 +3482,7 @@
 			</metazone>
 			<metazone type="Wallis">
 				<long>
-					<standard>Wallis-an-Futuna-Zäit</standard>
+					<standard>Wallis-a-Futuna-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Yakutsk">
