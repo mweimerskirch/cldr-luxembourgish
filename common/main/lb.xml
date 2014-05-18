@@ -1674,6 +1674,7 @@
 					</dateTimeFormatLength>
 					<availableFormats>
 						<dateFormatItem id="d">d</dateFormatItem>
+						<dateFormatItem id="E">ccc</dateFormatItem>
 						<dateFormatItem id="Ed">E, d.</dateFormatItem>
 						<dateFormatItem id="Ehm">E, h:mm a</dateFormatItem>
 						<dateFormatItem id="EHm">E, HH:mm</dateFormatItem>
@@ -3167,6 +3168,20 @@
 					<standard>Mawson-Zäit</standard>
 				</long>
 			</metazone>
+			<metazone type="Mexico_Northwest">
+				<long>
+					<generic>Nordwest-Mexiko-Zäit</generic>
+					<standard>Nordwest-Mexiko-Normalzäit</standard>
+					<daylight>Nordwest-Mexiko-Summerzäit</daylight>
+				</long>
+			</metazone>
+			<metazone type="Mexico_Pacific">
+				<long>
+					<generic>Mexikanesch Pazifikzäit</generic>
+					<standard>Mexikanesch Pazifik-Normalzäit</standard>
+					<daylight>Mexikanesch Pazifik-Summerzäit</daylight>
+				</long>
+			</metazone>
 			<metazone type="Mongolia">
 				<long>
 					<generic>Ulaanbaatar-Zäit</generic>
@@ -3357,6 +3372,11 @@
 			<metazone type="South_Georgia">
 				<long>
 					<standard>Südgeorgesch Zäit</standard>
+				</long>
+			</metazone>
+			<metazone type="Suriname">
+				<long>
+					<standard>Suriname-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Syowa">
@@ -5036,6 +5056,7 @@
 				<unitPattern count="other">{0} Meter pro Quadratsekonn</unitPattern>
 			</unit>
 			<unit type="angle-arc-minute">
+				<displayName>Wénkelminutten</displayName>
 				<unitPattern count="one">{0} Wénkelminutt</unitPattern>
 				<unitPattern count="other">{0} Wénkelminutten</unitPattern>
 			</unit>
@@ -5049,29 +5070,60 @@
 				<unitPattern count="one">{0} Grad</unitPattern>
 				<unitPattern count="other">{0} Grad</unitPattern>
 			</unit>
+			<unit type="angle-radian">
+				<displayName>Radianen</displayName>
+				<unitPattern count="one">{0} Radian</unitPattern>
+				<unitPattern count="other">{0} Radianen</unitPattern>
+			</unit>
 			<unit type="area-acre">
+				<displayName>Acres</displayName>
 				<unitPattern count="one">{0} Acre</unitPattern>
 				<unitPattern count="other">{0} Acres</unitPattern>
 			</unit>
 			<unit type="area-hectare">
+				<displayName>Hektar</displayName>
 				<unitPattern count="one">{0} Hektar</unitPattern>
 				<unitPattern count="other">{0} Hektar</unitPattern>
 			</unit>
+			<unit type="area-square-centimeter">
+				<displayName>Quadratzentimeter</displayName>
+				<unitPattern count="one">{0} Quadratzentimeter</unitPattern>
+				<unitPattern count="other">{0} Quadratzentimeter</unitPattern>
+			</unit>
 			<unit type="area-square-foot">
+				<displayName>Quadratfouss</displayName>
 				<unitPattern count="one">{0} Quadratfouss</unitPattern>
 				<unitPattern count="other">{0} Quadratfouss</unitPattern>
 			</unit>
+			<unit type="area-square-inch">
+				<displayName>Quadratzoll</displayName>
+				<unitPattern count="one">{0} Quadratzoll</unitPattern>
+				<unitPattern count="other">{0} Quadratzoll</unitPattern>
+			</unit>
 			<unit type="area-square-kilometer">
+				<displayName>Quadratkilometer</displayName>
 				<unitPattern count="one">{0} Quadratkilometer</unitPattern>
 				<unitPattern count="other">{0} Quadratkilometer</unitPattern>
 			</unit>
 			<unit type="area-square-meter">
+				<displayName>Quadratmeter</displayName>
 				<unitPattern count="one">{0} Quadratmeter</unitPattern>
 				<unitPattern count="other">{0} Quadratmeter</unitPattern>
 			</unit>
 			<unit type="area-square-mile">
+				<displayName>Quadratmeilen</displayName>
 				<unitPattern count="one">{0} Quadratmeil</unitPattern>
 				<unitPattern count="other">{0} Quadratmeilen</unitPattern>
+			</unit>
+			<unit type="area-square-yard">
+				<displayName>Quadratyards</displayName>
+				<unitPattern count="one">{0} Quadratyard</unitPattern>
+				<unitPattern count="other">{0} Quadratyards</unitPattern>
+			</unit>
+			<unit type="consumption-liter-per-kilometer">
+				<displayName>Liter pro Kilometer</displayName>
+				<unitPattern count="one">{0} Liter pro Kilometer</unitPattern>
+				<unitPattern count="other">{0} Liter pro Kilometer</unitPattern>
 			</unit>
 			<unit type="digital-bit">
 				<displayName>Bits</displayName>
@@ -5195,6 +5247,36 @@
 				<unitPattern count="one">{0} Volt</unitPattern>
 				<unitPattern count="other">{0} Volt</unitPattern>
 			</unit>
+			<unit type="energy-calorie">
+				<displayName>Kalorien</displayName>
+				<unitPattern count="one">{0} Kalorie</unitPattern>
+				<unitPattern count="other">{0} Kalorien</unitPattern>
+			</unit>
+			<unit type="energy-foodcalorie">
+				<displayName>Liewensmëttelkalorien</displayName>
+				<unitPattern count="one">{0} Liewensmëttelkalorie</unitPattern>
+				<unitPattern count="other">{0} Liewensmëttelkalorien</unitPattern>
+			</unit>
+			<unit type="energy-joule">
+				<displayName>Joule</displayName>
+				<unitPattern count="one">{0} Joule</unitPattern>
+				<unitPattern count="other">{0} Joule</unitPattern>
+			</unit>
+			<unit type="energy-kilocalorie">
+				<displayName>Kilokalorien</displayName>
+				<unitPattern count="one">{0} Kilokalorie</unitPattern>
+				<unitPattern count="other">{0} Kilokalorien</unitPattern>
+			</unit>
+			<unit type="energy-kilojoule">
+				<displayName>Kilojoule</displayName>
+				<unitPattern count="one">{0} Kilojoule</unitPattern>
+				<unitPattern count="other">{0} Kilojoule</unitPattern>
+			</unit>
+			<unit type="energy-kilowatt-hour">
+				<displayName>Kilowattstonnen</displayName>
+				<unitPattern count="one">{0} Kilowattstonn</unitPattern>
+				<unitPattern count="other">{0} Kilowattstonnen</unitPattern>
+			</unit>
 			<unit type="frequency-gigahertz">
 				<displayName>Gigahertz</displayName>
 				<unitPattern count="one">{0} Gigahertz</unitPattern>
@@ -5305,10 +5387,15 @@
 				<unitPattern count="one">{0} Yard</unitPattern>
 				<unitPattern count="other">{0} Yards</unitPattern>
 			</unit>
+			<unit type="light-lux">
+				<displayName>Lux</displayName>
+				<unitPattern count="one">{0} Lux</unitPattern>
+				<unitPattern count="other">{0} Lux</unitPattern>
+			</unit>
 			<unit type="mass-carat">
-				<displayName>Karat</displayName>
-				<unitPattern count="one">{0} Karat</unitPattern>
-				<unitPattern count="other">{0} Karat</unitPattern>
+				<displayName>Carat</displayName>
+				<unitPattern count="one">{0} Carat</unitPattern>
+				<unitPattern count="other">{0} Carat</unitPattern>
 			</unit>
 			<unit type="mass-gram">
 				<displayName>Gramm</displayName>
@@ -5360,15 +5447,33 @@
 				<unitPattern count="one">{0} Long ton</unitPattern>
 				<unitPattern count="other">{0} Long ton</unitPattern>
 			</unit>
+			<unit type="power-gigawatt">
+				<displayName>Gigawatt</displayName>
+				<unitPattern count="one">{0} Gigawatt</unitPattern>
+				<unitPattern count="other">{0} Gigawatt</unitPattern>
+			</unit>
 			<unit type="power-horsepower">
+				<displayName>Päerdsstäerkten</displayName>
 				<unitPattern count="one">{0} Päerdsstäerkt</unitPattern>
 				<unitPattern count="other">{0} Päerdsstäerkten</unitPattern>
 			</unit>
 			<unit type="power-kilowatt">
+				<displayName>Kilowatt</displayName>
 				<unitPattern count="one">{0} Kilowatt</unitPattern>
 				<unitPattern count="other">{0} Kilowatt</unitPattern>
 			</unit>
+			<unit type="power-megawatt">
+				<displayName>Megawatt</displayName>
+				<unitPattern count="one">{0} Megawatt</unitPattern>
+				<unitPattern count="other">{0} Megawatt</unitPattern>
+			</unit>
+			<unit type="power-milliwatt">
+				<displayName>Milliwatt</displayName>
+				<unitPattern count="one">{0} Milliwatt</unitPattern>
+				<unitPattern count="other">{0} Milliwatt</unitPattern>
+			</unit>
 			<unit type="power-watt">
+				<displayName>Watt</displayName>
 				<unitPattern count="one">{0} Watt</unitPattern>
 				<unitPattern count="other">{0} Watt</unitPattern>
 			</unit>
@@ -5396,6 +5501,11 @@
 				<displayName>psi</displayName>
 				<unitPattern count="one">{0} psi</unitPattern>
 				<unitPattern count="other">{0} psi</unitPattern>
+			</unit>
+			<unit type="proportion-karat">
+				<displayName>Karat</displayName>
+				<unitPattern count="one">{0} Karat</unitPattern>
+				<unitPattern count="other">{0} Karat</unitPattern>
 			</unit>
 			<unit type="speed-kilometer-per-hour">
 				<displayName>Kilometer pro Stonn</displayName>
@@ -5550,10 +5660,12 @@
 				<unitPattern count="other">{0} m/s²</unitPattern>
 			</unit>
 			<unit type="angle-arc-minute">
+				<displayName>′</displayName>
 				<unitPattern count="one">{0}′</unitPattern>
 				<unitPattern count="other">{0}′</unitPattern>
 			</unit>
 			<unit type="angle-arc-second">
+				<displayName>′′</displayName>
 				<unitPattern count="one">{0}″</unitPattern>
 				<unitPattern count="other">{0}″</unitPattern>
 			</unit>
@@ -5562,29 +5674,65 @@
 				<unitPattern count="one">{0}°</unitPattern>
 				<unitPattern count="other">{0}°</unitPattern>
 			</unit>
+			<unit type="angle-radian">
+				<displayName>rad</displayName>
+				<unitPattern count="one">{0} rad</unitPattern>
+				<unitPattern count="other">{0} rad</unitPattern>
+			</unit>
 			<unit type="area-acre">
+				<displayName>ac</displayName>
 				<unitPattern count="one">{0} ac</unitPattern>
 				<unitPattern count="other">{0} ac</unitPattern>
 			</unit>
 			<unit type="area-hectare">
+				<displayName>ha</displayName>
 				<unitPattern count="one">{0} ha</unitPattern>
 				<unitPattern count="other">{0} ha</unitPattern>
 			</unit>
+			<unit type="area-square-centimeter">
+				<displayName>cm²</displayName>
+				<unitPattern count="one">{0} cm²</unitPattern>
+				<unitPattern count="other">{0} cm²</unitPattern>
+			</unit>
 			<unit type="area-square-foot">
+				<displayName>ft²</displayName>
 				<unitPattern count="one">{0} ft²</unitPattern>
 				<unitPattern count="other">{0} ft²</unitPattern>
 			</unit>
+			<unit type="area-square-inch">
+				<displayName>in²</displayName>
+				<unitPattern count="one">{0} in²</unitPattern>
+				<unitPattern count="other">{0} in²</unitPattern>
+			</unit>
 			<unit type="area-square-kilometer">
+				<displayName>km²</displayName>
 				<unitPattern count="one">{0} km²</unitPattern>
 				<unitPattern count="other">{0} km²</unitPattern>
 			</unit>
 			<unit type="area-square-meter">
+				<displayName>m²</displayName>
 				<unitPattern count="one">{0} m²</unitPattern>
 				<unitPattern count="other">{0} m²</unitPattern>
 			</unit>
 			<unit type="area-square-mile">
+				<displayName>mi²</displayName>
 				<unitPattern count="one">{0} mi²</unitPattern>
 				<unitPattern count="other">{0} mi²</unitPattern>
+			</unit>
+			<unit type="area-square-yard">
+				<displayName>yd²</displayName>
+				<unitPattern count="one">{0} yd²</unitPattern>
+				<unitPattern count="other">{0} yd²</unitPattern>
+			</unit>
+			<unit type="consumption-liter-per-kilometer">
+				<displayName>l/km</displayName>
+				<unitPattern count="one">{0} l/km</unitPattern>
+				<unitPattern count="other">{0} l/km</unitPattern>
+			</unit>
+			<unit type="consumption-mile-per-gallon">
+				<displayName>mpg</displayName>
+				<unitPattern count="one">{0} mpg</unitPattern>
+				<unitPattern count="other">{0} mpg</unitPattern>
 			</unit>
 			<unit type="digital-bit">
 				<displayName>b</displayName>
@@ -5708,6 +5856,36 @@
 				<unitPattern count="one">{0} V</unitPattern>
 				<unitPattern count="other">{0} V</unitPattern>
 			</unit>
+			<unit type="energy-calorie">
+				<displayName>cal</displayName>
+				<unitPattern count="one">{0} cal</unitPattern>
+				<unitPattern count="other">{0} cal</unitPattern>
+			</unit>
+			<unit type="energy-foodcalorie">
+				<displayName>Cal</displayName>
+				<unitPattern count="one">{0} Cal</unitPattern>
+				<unitPattern count="other">{0} Cal</unitPattern>
+			</unit>
+			<unit type="energy-joule">
+				<displayName>joule</displayName>
+				<unitPattern count="one">{0} J</unitPattern>
+				<unitPattern count="other">{0} J</unitPattern>
+			</unit>
+			<unit type="energy-kilocalorie">
+				<displayName>kcal</displayName>
+				<unitPattern count="one">{0} kcal</unitPattern>
+				<unitPattern count="other">{0} kcal</unitPattern>
+			</unit>
+			<unit type="energy-kilojoule">
+				<displayName>kJ</displayName>
+				<unitPattern count="one">{0} kJ</unitPattern>
+				<unitPattern count="other">{0} kJ</unitPattern>
+			</unit>
+			<unit type="energy-kilowatt-hour">
+				<displayName>kWh</displayName>
+				<unitPattern count="one">{0} kWh</unitPattern>
+				<unitPattern count="other">{0} kWh</unitPattern>
+			</unit>
 			<unit type="frequency-gigahertz">
 				<displayName>GHz</displayName>
 				<unitPattern count="one">{0} GHz</unitPattern>
@@ -5818,10 +5996,15 @@
 				<unitPattern count="one">{0} yd</unitPattern>
 				<unitPattern count="other">{0} yd</unitPattern>
 			</unit>
+			<unit type="light-lux">
+				<displayName>lx</displayName>
+				<unitPattern count="one">{0} lx</unitPattern>
+				<unitPattern count="other">{0} lx</unitPattern>
+			</unit>
 			<unit type="mass-carat">
-				<displayName>Kt</displayName>
-				<unitPattern count="one">{0} Kt</unitPattern>
-				<unitPattern count="other">{0} Kt</unitPattern>
+				<displayName>CD</displayName>
+				<unitPattern count="one">{0} CD</unitPattern>
+				<unitPattern count="other">{0} CD</unitPattern>
 			</unit>
 			<unit type="mass-gram">
 				<displayName>g</displayName>
@@ -5873,15 +6056,33 @@
 				<unitPattern count="one">{0} tn</unitPattern>
 				<unitPattern count="other">{0} tn</unitPattern>
 			</unit>
+			<unit type="power-gigawatt">
+				<displayName>GW</displayName>
+				<unitPattern count="one">{0} GW</unitPattern>
+				<unitPattern count="other">{0} GW</unitPattern>
+			</unit>
 			<unit type="power-horsepower">
+				<displayName>PS</displayName>
 				<unitPattern count="one">{0} PS</unitPattern>
 				<unitPattern count="other">{0} PS</unitPattern>
 			</unit>
 			<unit type="power-kilowatt">
+				<displayName>kW</displayName>
 				<unitPattern count="one">{0} kW</unitPattern>
 				<unitPattern count="other">{0} kW</unitPattern>
 			</unit>
+			<unit type="power-megawatt">
+				<displayName>MW</displayName>
+				<unitPattern count="one">{0} MW</unitPattern>
+				<unitPattern count="other">{0} MW</unitPattern>
+			</unit>
+			<unit type="power-milliwatt">
+				<displayName>mW</displayName>
+				<unitPattern count="one">{0} mW</unitPattern>
+				<unitPattern count="other">{0} mW</unitPattern>
+			</unit>
 			<unit type="power-watt">
+				<displayName>W</displayName>
 				<unitPattern count="one">{0} W</unitPattern>
 				<unitPattern count="other">{0} W</unitPattern>
 			</unit>
@@ -5909,6 +6110,11 @@
 				<displayName>psi</displayName>
 				<unitPattern count="one">{0} psi</unitPattern>
 				<unitPattern count="other">{0} psi</unitPattern>
+			</unit>
+			<unit type="proportion-karat">
+				<displayName>kt</displayName>
+				<unitPattern count="one">{0} kt</unitPattern>
+				<unitPattern count="other">{0} kt</unitPattern>
 			</unit>
 			<unit type="speed-kilometer-per-hour">
 				<displayName>km/h</displayName>
