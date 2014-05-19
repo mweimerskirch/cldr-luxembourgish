@@ -3102,9 +3102,9 @@
 			</metazone>
 			<metazone type="Krasnoyarsk">
 				<long>
-					<generic>Krasnojarsk-Zäit</generic>
-					<standard>Krasnojarsk-Normalzäit</standard>
-					<daylight>Krasnojarsk-Summerzäit</daylight>
+					<generic>Krasnoyarsk-Zäit</generic>
+					<standard>Krasnoyarsk-Normalzäit</standard>
+					<daylight>Krasnoyarsk-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Kyrgystan">
@@ -3251,9 +3251,9 @@
 			</metazone>
 			<metazone type="Novosibirsk">
 				<long>
-					<generic>Nowosibirsk-Zäit</generic>
-					<standard>Nowosibirsk-Normalzäit</standard>
-					<daylight>Nowosibirsk-Summerzäit</daylight>
+					<generic>Novosibirsk-Zäit</generic>
+					<standard>Novosibirsk-Normalzäit</standard>
+					<daylight>Novosibirsk-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Omsk">
@@ -4688,9 +4688,9 @@
 				<displayName count="other">Surinamesch Dollar</displayName>
 			</currency>
 			<currency type="SRG">
-				<displayName>Surinamesche Gulden</displayName>
-				<displayName count="one">Surinamesche Gulden</displayName>
-				<displayName count="other">Surinamesch Gulden</displayName>
+				<displayName>Suriname Gulden</displayName>
+				<displayName count="one">Suriname-Gulden</displayName>
+				<displayName count="other">Suriname-Gulden</displayName>
 			</currency>
 			<currency type="SSP">
 				<displayName>Südsudanesescht Pond</displayName>
@@ -4774,9 +4774,9 @@
 				<displayName count="other">Tierkesch Lira</displayName>
 			</currency>
 			<currency type="TTD">
-				<displayName>Trinidad-an-Tobago-Dollar</displayName>
-				<displayName count="one">Trinidad-an-Tobago-Dollar</displayName>
-				<displayName count="other">Trinidad-an-Tobago-Dollar</displayName>
+				<displayName>Trinidad an Tobago-Dollar</displayName>
+				<displayName count="one">Trinidad an Tobago-Dollar</displayName>
+				<displayName count="other">Trinidad an Tobago-Dollar</displayName>
 			</currency>
 			<currency type="TWD">
 				<displayName>Neien Taiwan-Dollar</displayName>
@@ -5073,7 +5073,7 @@
 			<unit type="angle-radian">
 				<displayName>Radianen</displayName>
 				<unitPattern count="one">{0} Radian</unitPattern>
-				<unitPattern count="other">{0} Radianen</unitPattern>
+				<unitPattern count="other">{0} Radian</unitPattern>
 			</unit>
 			<unit type="area-acre">
 				<displayName>Acres</displayName>
@@ -5393,9 +5393,9 @@
 				<unitPattern count="other">{0} Lux</unitPattern>
 			</unit>
 			<unit type="mass-carat">
-				<displayName>Carat</displayName>
-				<unitPattern count="one">{0} Carat</unitPattern>
-				<unitPattern count="other">{0} Carat</unitPattern>
+				<displayName>Karat</displayName>
+				<unitPattern count="one">{0} Karat</unitPattern>
+				<unitPattern count="other">{0} Karat</unitPattern>
 			</unit>
 			<unit type="mass-gram">
 				<displayName>Gramm</displayName>
