@@ -106,7 +106,7 @@
 			<language type="chb">Chibcha-Sprooch</language>
 			<language type="chg">Tschagataesch</language>
 			<language type="chk">Trukesesch</language>
-			<language type="chm">Tscheremissesch</language>
+			<language type="chm">Mari</language>
 			<language type="chn">Chinook</language>
 			<language type="cho">Choctaw</language>
 			<language type="chp">Chipewyan</language>
@@ -120,7 +120,7 @@
 			<language type="crh">Krimtataresch</language>
 			<language type="cs">Tschechesch</language>
 			<language type="csb">Kaschubesch</language>
-			<language type="cu">Kirchenslawesch</language>
+			<language type="cu">Kiercheslawesch</language>
 			<language type="cv">Tschuwaschesch</language>
 			<language type="cy">Walisesch</language>
 			<language type="da">Dänesch</language>
@@ -255,12 +255,12 @@
 			<language type="iu">Inukitut</language>
 			<language type="izh">Ischoresch</language>
 			<language type="ja">Japanesch</language>
-			<language type="jam">Jamaikanesch-kreolesch</language>
+			<language type="jam">Jamaikanesch-Kreolesch</language>
 			<language type="jbo">Lojban</language>
 			<language type="jgo">Ngomba</language>
 			<language type="jmc">Machame</language>
-			<language type="jpr">Jüdesch-Persesch</language>
-			<language type="jrb">Jüdesch-Arabesch</language>
+			<language type="jpr">Juddesch-Persesch</language>
+			<language type="jrb">Juddesch-Arabesch</language>
 			<language type="jut">Jütesch</language>
 			<language type="jv">Javanesch</language>
 			<language type="ka">Georgesch</language>
@@ -446,9 +446,9 @@
 			<language type="prg">Preisesch</language>
 			<language type="pro">Alprovenzalesch</language>
 			<language type="ps">Paschtu</language>
-			<language type="pt">Portugiesesch</language>
-			<language type="pt_BR">Brasilianescht Portugiesesch</language>
-			<language type="pt_PT">Europäescht Portugiesesch</language>
+			<language type="pt">Portugisesch</language>
+			<language type="pt_BR">Brasilianescht Portugisesch</language>
+			<language type="pt_PT">Europäescht Portugisesch</language>
 			<language type="qu">Quechua</language>
 			<language type="quc">Quiché-Sprooch</language>
 			<language type="qug">Kichwa (Chimborazo-Gebidder)</language>
@@ -486,7 +486,7 @@
 			<language type="sco">Schottesch</language>
 			<language type="sd">Sindhi</language>
 			<language type="sdc">Sassaresesch</language>
-			<language type="se">Nord-Samesch</language>
+			<language type="se">Nordsamesch</language>
 			<language type="see">Seneca</language>
 			<language type="seh">Sena</language>
 			<language type="sei">Seri</language>
@@ -506,7 +506,7 @@
 			<language type="sli">Nidderschlesesch</language>
 			<language type="sly">Selayar</language>
 			<language type="sm">Samoanesch</language>
-			<language type="sma">Süd-Samesch</language>
+			<language type="sma">Südsamesch</language>
 			<language type="smj">Lule-Lappesch</language>
 			<language type="smn">Inari-Lappesch</language>
 			<language type="sms">Skolt-Lappesch</language>
@@ -577,7 +577,7 @@
 			<language type="uga">Ugaritesch</language>
 			<language type="uk">Ukrainesch</language>
 			<language type="umb">Mbundu-Sprooch</language>
-			<language type="und">Onbestëmmte Sprooch</language>
+			<language type="und">Onbestëmmt Sprooch</language>
 			<language type="ur">Urdu</language>
 			<language type="uz">Usbekesch</language>
 			<language type="vai">Vai-Sprooch</language>
@@ -585,13 +585,13 @@
 			<language type="vec">Venezesch</language>
 			<language type="vep">Wepsesch</language>
 			<language type="vi">Vietnamesesch</language>
-			<language type="vls">West-Flämesch</language>
+			<language type="vls">Westflämesch</language>
 			<language type="vmf">Mainfränkesch</language>
 			<language type="vo">Volapük</language>
 			<language type="vot">Wotesch</language>
 			<language type="vro">Voro</language>
 			<language type="vun">Vunjo</language>
-			<language type="wa">Wallonesch</language>
+			<language type="wa">Wallounesch</language>
 			<language type="wae">Walliserdäitsch</language>
 			<language type="wal">Walamo-Sprooch</language>
 			<language type="war">Waray</language>
@@ -649,8 +649,8 @@
 			<script type="Cyrs">Alkiercheslawesch</script>
 			<script type="Deva">Devanagari</script>
 			<script type="Dsrt">Deseret</script>
-			<script type="Egyd">Egyptesch - Demotesch</script>
-			<script type="Egyh">Egyptesch - Hieratesch</script>
+			<script type="Egyd">Egyptesch-Demotesch</script>
+			<script type="Egyh">Egyptesch-Hieratesch</script>
 			<script type="Egyp">Egyptesch Hieroglyphen</script>
 			<script type="Ethi">Ethiopesch</script>
 			<script type="Geok">Khutsuri</script>
@@ -684,9 +684,9 @@
 			<script type="Kore">Koreanesch</script>
 			<script type="Lana">Lanna</script>
 			<script type="Laoo">Laotesch</script>
-			<script type="Latf">Latäinesch - Fraktur-Variant</script>
-			<script type="Latg">Latäinesch - Gällesch Variant</script>
-			<script type="Latn">Latäinesch</script>
+			<script type="Latf">Laténgesch-Fraktur-Variant</script>
+			<script type="Latg">Laténgesch-Gällesch Variant</script>
+			<script type="Latn">Laténgesch</script>
 			<script type="Lepc">Lepcha</script>
 			<script type="Limb">Limbu</script>
 			<script type="Lina">Linear A</script>
@@ -725,7 +725,7 @@
 			<script type="Sund">Sundanesesch</script>
 			<script type="Sylo">Syloti Nagri</script>
 			<script type="Syrc">Syresch</script>
-			<script type="Syre">Syresch - Estrangelo-Variant</script>
+			<script type="Syre">Syresch-Estrangelo-Variant</script>
 			<script type="Syrj">Westsyresch</script>
 			<script type="Syrn">Ostsyresch</script>
 			<script type="Tale">Tai Le</script>
@@ -885,8 +885,8 @@
 			<territory type="GU">Guam</territory>
 			<territory type="GW">Guinea-Bissau</territory>
 			<territory type="GY">Guyana</territory>
-			<territory type="HK">Sonnerverwaltungszon Hongkong</territory>
-			<territory type="HK" alt="short">Hongkong</territory>
+			<territory type="HK">Sonnerverwaltungszon Hong Kong</territory>
+			<territory type="HK" alt="short">Hong Kong</territory>
 			<territory type="HM">Heard- a McDonald-Inselen</territory>
 			<territory type="HN">Honduras</territory>
 			<territory type="HR">Kroatien</territory>
@@ -1138,9 +1138,9 @@
 			<type type="guru" key="numbers">Gurmukhi-Zifferen</type>
 			<type type="hanidec" key="numbers">Chinesesch Dezimalzuelen</type>
 			<type type="hans" key="numbers">Vereinfacht-Chinesesch Zifferen</type>
-			<type type="hansfin" key="numbers">Vereinfacht-Chinesesch Finanzziffern</type>
+			<type type="hansfin" key="numbers">Vereinfacht-Chinesesch Finanzzifferen</type>
 			<type type="hant" key="numbers">Traditionell-Chinesesch Zifferen</type>
-			<type type="hantfin" key="numbers">Traditionell-Chinesesch Finanzziffern</type>
+			<type type="hantfin" key="numbers">Traditionell-Chinesesch Finanzzifferen</type>
 			<type type="hebr" key="numbers">Hebräesch Zifferen</type>
 			<type type="hebrew" key="calendar">Hebräesche Kalenner</type>
 			<type type="indian" key="calendar">Indeschen Nationalkalenner</type>
@@ -1149,7 +1149,7 @@
 			<type type="iso8601" key="calendar">ISO-8601-Kalenner</type>
 			<type type="japanese" key="calendar">Japanesche Kalenner</type>
 			<type type="jpan" key="numbers">Japanesch Zifferen</type>
-			<type type="jpanfin" key="numbers">Japanesch Finanzziffern</type>
+			<type type="jpanfin" key="numbers">Japanesch Finanzzifferen</type>
 			<type type="khmr" key="numbers">Khmer-Zifferen</type>
 			<type type="knda" key="numbers">Kannada-Zifferen</type>
 			<type type="laoo" key="numbers">Laotesch Zifferen</type>
@@ -2374,7 +2374,7 @@
 				<exemplarCity>Südgeorgien</exemplarCity>
 			</zone>
 			<zone type="Asia/Hong_Kong">
-				<exemplarCity>Hongkong</exemplarCity>
+				<exemplarCity>Hong Kong</exemplarCity>
 			</zone>
 			<zone type="Asia/Jayapura">
 				<exemplarCity>Port Numbay</exemplarCity>
@@ -2682,9 +2682,9 @@
 			</metazone>
 			<metazone type="Anadyr">
 				<long>
-					<generic>Anadyr Zäit</generic>
-					<standard>Anadyr Normalzäit</standard>
-					<daylight>Anadyr Summerzäit</daylight>
+					<generic>Anadyr-Zäit</generic>
+					<standard>Anadyr-Normalzäit</standard>
+					<daylight>Anadyr-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Arabian">
@@ -2960,7 +2960,7 @@
 			</metazone>
 			<metazone type="GMT">
 				<long>
-					<standard>Mittlere Greenwich-Zäit</standard>
+					<standard>Mëttler Greenwich-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Greenland_Eastern">
@@ -3001,9 +3001,9 @@
 			</metazone>
 			<metazone type="Hong_Kong">
 				<long>
-					<generic>Hongkong-Zäit</generic>
-					<standard>Hongkong-Normalzäit</standard>
-					<daylight>Hongkong-Summerzäit</daylight>
+					<generic>Hong-Kong-Zäit</generic>
+					<standard>Hong-Kong-Normalzäit</standard>
+					<daylight>Hong-Kong-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Hovd">
@@ -3143,7 +3143,7 @@
 			</metazone>
 			<metazone type="Maldives">
 				<long>
-					<standard>Maldivesch Zäit</standard>
+					<standard>Maldiven-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Marquesas">
@@ -3611,8 +3611,8 @@
 		</currencyFormats>
 		<currencies>
 			<currency type="ADP">
-				<displayName>Andorranesch Pesete</displayName>
-				<displayName count="one">Andorranesch Pesete</displayName>
+				<displayName>Andorranesch Peseta</displayName>
+				<displayName count="one">Andorranesch Peseta</displayName>
 				<displayName count="other">Andorranesch Peseten</displayName>
 			</currency>
 			<currency type="AED">
@@ -3658,7 +3658,7 @@
 				<displayName count="other">Angolanesch Kwanza (1977–1990)</displayName>
 			</currency>
 			<currency type="AON">
-				<displayName>Angolaneschen Nei Kwanza (1990–2000)</displayName>
+				<displayName>Angolaneschen Neie Kwanza (1990–2000)</displayName>
 				<displayName count="one">Angolaneschen Neie Kwanza (1990–2000)</displayName>
 				<displayName count="other">Angolanesch Nei Kwanza (1990–2000)</displayName>
 			</currency>
@@ -3675,7 +3675,7 @@
 			<currency type="ARP">
 				<displayName>Argentinesche Peso (1983–1985)</displayName>
 				<displayName count="one">Argentinesche Peso (1983–1985)</displayName>
-				<displayName count="other">Argentinesch Peso (1983–1985)</displayName>
+				<displayName count="other">Argentinesch Pesos (1983–1985)</displayName>
 			</currency>
 			<currency type="ARS">
 				<displayName>Argentinesche Peso</displayName>
@@ -3779,14 +3779,14 @@
 				<symbol alt="narrow">$</symbol>
 			</currency>
 			<currency type="BOB">
-				<displayName>Bolivanesche Boliviano</displayName>
-				<displayName count="one">Bolivanesche Boliviano</displayName>
-				<displayName count="other">Bolivanesch Boliviano</displayName>
+				<displayName>Bolivianesche Boliviano</displayName>
+				<displayName count="one">Bolivianesche Boliviano</displayName>
+				<displayName count="other">Bolivianesch Bolivianos</displayName>
 			</currency>
 			<currency type="BOP">
 				<displayName>Bolivianesche Peso</displayName>
 				<displayName count="one">Bolivianesche Peso</displayName>
-				<displayName count="other">Bolivianesch Peso</displayName>
+				<displayName count="other">Bolivianesch Pesos</displayName>
 			</currency>
 			<currency type="BOV">
 				<displayName>Bolivianseche Mvdol</displayName>
@@ -3796,38 +3796,38 @@
 			<currency type="BRB">
 				<displayName>Brasilianesche Cruzeiro Novo (1967–1986)</displayName>
 				<displayName count="one">Brasilianesche Cruzeiro Novo (1967–1986)</displayName>
-				<displayName count="other">Brasilianesch Cruzeiro Novo (1967–1986)</displayName>
+				<displayName count="other">Brasilianesch Cruzeiros Novos (1967–1986)</displayName>
 			</currency>
 			<currency type="BRC">
 				<displayName>Brasilianesche Cruzado (1986–1989)</displayName>
 				<displayName count="one">Brasilianesche Cruzado (1986–1989)</displayName>
-				<displayName count="other">Brasilianesch Cruzado (1986–1989)</displayName>
+				<displayName count="other">Brasilianesch Cruzados (1986–1989)</displayName>
 			</currency>
 			<currency type="BRE">
 				<displayName>Brasilianesche Cruzeiro (1990–1993)</displayName>
 				<displayName count="one">Brasilianesche Cruzeiro (1990–1993)</displayName>
-				<displayName count="other">Brasilianesch Cruzeiro (1990–1993)</displayName>
+				<displayName count="other">Brasilianesch Cruzeiros (1990–1993)</displayName>
 			</currency>
 			<currency type="BRL">
 				<displayName>Brasilianesche Real</displayName>
 				<displayName count="one">Brasilianesche Real</displayName>
-				<displayName count="other">Brasilianesch Real</displayName>
+				<displayName count="other">Brasilianesch Reais</displayName>
 				<symbol>R$</symbol>
 			</currency>
 			<currency type="BRN">
 				<displayName>Brasilianesche Cruzado Novo (1989–1990)</displayName>
 				<displayName count="one">Brasilianeschen Cruzado Novo (1989–1990)</displayName>
-				<displayName count="other">Brasilianesch Cruzado Novo (1989–1990)</displayName>
+				<displayName count="other">Brasilianesch Cruzados Novos (1989–1990)</displayName>
 			</currency>
 			<currency type="BRR">
 				<displayName>Brasilianesche Cruzeiro (1993–1994)</displayName>
 				<displayName count="one">Brasilianesche Cruzeiro (1993–1994)</displayName>
-				<displayName count="other">Brasilianesch Cruzeiro (1993–1994)</displayName>
+				<displayName count="other">Brasilianesch Cruzeiros (1993–1994)</displayName>
 			</currency>
 			<currency type="BRZ">
 				<displayName>Brasilianesche Cruzeiro (1942–1967)</displayName>
 				<displayName count="one">Brasilianesche Cruzeiro (1942–1967)</displayName>
-				<displayName count="other">Brasilianesch Cruzeiro (1942–1967)</displayName>
+				<displayName count="other">Brasilianesch Cruzeiros (1942–1967)</displayName>
 			</currency>
 			<currency type="BSD">
 				<displayName>Bahama-Dollar</displayName>
@@ -3852,14 +3852,14 @@
 				<displayName count="other">Botswanesch Pula</displayName>
 			</currency>
 			<currency type="BYB">
-				<displayName>Wäissrussland-Rubel (1994–1999)</displayName>
-				<displayName count="one">Wäissrussland-Rubel (1994–1999)</displayName>
-				<displayName count="other">Wäissrussland-Rubel (1994–1999)</displayName>
+				<displayName>Wäissrussesche Rubel (1994–1999)</displayName>
+				<displayName count="one">Wäissrussesche Rubel (1994–1999)</displayName>
+				<displayName count="other">Wäissrussesch Rubel (1994–1999)</displayName>
 			</currency>
 			<currency type="BYR">
-				<displayName>Wäissrussland-Rubel</displayName>
-				<displayName count="one">Wäissrussland-Rubel</displayName>
-				<displayName count="other">Wäissrussland-Rubel</displayName>
+				<displayName>Wäissrussesche Rubel</displayName>
+				<displayName count="one">Wäissrussesche Rubel</displayName>
+				<displayName count="other">Wäissrussesch Rubel</displayName>
 			</currency>
 			<currency type="BZD">
 				<displayName>Belize-Dollar</displayName>
@@ -3893,8 +3893,8 @@
 				<displayName count="other">WIR-Frang</displayName>
 			</currency>
 			<currency type="CLF">
-				<displayName>Chileneschen Unidades de Fomento</displayName>
-				<displayName count="one">Chileneschen Unidades de Fomento</displayName>
+				<displayName>Chileneschen Unidad de Fomento</displayName>
+				<displayName count="one">Chileneschen Unidad de Fomento</displayName>
 				<displayName count="other">Chilenesch Unidades de Fomento</displayName>
 			</currency>
 			<currency type="CLP">
@@ -3917,7 +3917,7 @@
 			<currency type="CRC">
 				<displayName>Costa-Rica-Colón</displayName>
 				<displayName count="one">Costa-Rica-Colón</displayName>
-				<displayName count="other">Costa-Rica-Colón</displayName>
+				<displayName count="other">Costa-Rica-Colones</displayName>
 			</currency>
 			<currency type="CSD">
 				<displayName>Serbeschen Dinar (2002–2006)</displayName>
@@ -3926,7 +3926,7 @@
 			</currency>
 			<currency type="CSK">
 				<displayName>Tschechoslowakesch Kroun</displayName>
-				<displayName count="one">Tschechoslowakesch Krounen</displayName>
+				<displayName count="one">Tschechoslowakesch Kroun</displayName>
 				<displayName count="other">Tschechoslowakesch Krounen</displayName>
 			</currency>
 			<currency type="CUC">
@@ -3942,7 +3942,7 @@
 			<currency type="CVE">
 				<displayName>Kap-Verde-Escudo</displayName>
 				<displayName count="one">Kap-Verde-Escudo</displayName>
-				<displayName count="other">Kap-Verde-Escudo</displayName>
+				<displayName count="other">Kap-Verde-Escudos</displayName>
 			</currency>
 			<currency type="CYP">
 				<displayName>Zypern-Pond</displayName>
@@ -3987,7 +3987,7 @@
 			<currency type="ECS">
 				<displayName>Ecuadorianesche Sucre</displayName>
 				<displayName count="one">Ecuadorianesche Sucre</displayName>
-				<displayName count="other">Ecuadorianesch Sucre</displayName>
+				<displayName count="other">Ecuadorianesch Sucres</displayName>
 			</currency>
 			<currency type="ECV">
 				<displayName>Verrechnungseenheete fir Ecuador</displayName>
@@ -4005,8 +4005,8 @@
 				<displayName count="other">Egyptesch Pond</displayName>
 			</currency>
 			<currency type="ERN">
-				<displayName>Eritreesch Nakfa</displayName>
-				<displayName count="one">Eritreesch Nakfa</displayName>
+				<displayName>Eritreeschen Nakfa</displayName>
+				<displayName count="one">Eritreeschen Nakfa</displayName>
 				<displayName count="other">Eritreesch Nakfa</displayName>
 			</currency>
 			<currency type="ESA">
@@ -4025,8 +4025,8 @@
 				<displayName count="other">Spuenesch Peseten</displayName>
 			</currency>
 			<currency type="ETB">
-				<displayName>Ethiopesch Birr</displayName>
-				<displayName count="one">Ethiopeschen Birr</displayName>
+				<displayName>Ethiopescht Birr</displayName>
+				<displayName count="one">Ethiopescht Birr</displayName>
 				<displayName count="other">Ethiopesch Birr</displayName>
 			</currency>
 			<currency type="EUR">
@@ -4084,7 +4084,7 @@
 			<currency type="GIP">
 				<displayName>Gibraltar-Pond</displayName>
 				<displayName count="one">Gibraltar-Pond</displayName>
-				<displayName count="other">Gibraltar Pond</displayName>
+				<displayName count="other">Gibraltar-Pond</displayName>
 			</currency>
 			<currency type="GMD">
 				<displayName>Gambia-Dalasi</displayName>
@@ -4117,9 +4117,9 @@
 				<displayName count="other">Guatemaltekesch Quetzales</displayName>
 			</currency>
 			<currency type="GWE">
-				<displayName>Portugiesesch-Guinea Escudo</displayName>
-				<displayName count="one">Portugiesesch-Guinea Escudo</displayName>
-				<displayName count="other">Portugiesesch-Guinea Escudo</displayName>
+				<displayName>Portugisesch-Guinea Escudo</displayName>
+				<displayName count="one">Portugisesch-Guinea Escudo</displayName>
+				<displayName count="other">Portugisesch-Guinea Escudos</displayName>
 			</currency>
 			<currency type="GWP">
 				<displayName>Guinea-Bissau Peso</displayName>
@@ -4132,9 +4132,9 @@
 				<displayName count="other">Guyana-Dollar</displayName>
 			</currency>
 			<currency type="HKD">
-				<displayName>Hongkong-Dollar</displayName>
-				<displayName count="one">Hongkong-Dollar</displayName>
-				<displayName count="other">Hongkong-Dollar</displayName>
+				<displayName>Hong-Kong-Dollar</displayName>
+				<displayName count="one">Hong-Kong-Dollar</displayName>
+				<displayName count="other">Hong-Kong-Dollar</displayName>
 				<symbol>HK$</symbol>
 				<symbol alt="narrow">$</symbol>
 			</currency>
@@ -4156,7 +4156,7 @@
 			<currency type="HTG">
 				<displayName>Haitianesch Gourde</displayName>
 				<displayName count="one">Haitianesch Gourde</displayName>
-				<displayName count="other">Haitianesch Gourde</displayName>
+				<displayName count="other">Haitianesch Gourdes</displayName>
 			</currency>
 			<currency type="HUF">
 				<displayName>Ungaresche Forint</displayName>
@@ -4447,7 +4447,7 @@
 			<currency type="MXV">
 				<displayName>Mexikaneschen Unidad de Inversion (UDI)</displayName>
 				<displayName count="one">Mexikaneschen Unidad de Inversion (UDI)</displayName>
-				<displayName count="other">Mexikanesch Unidad de Inversion (UDI)</displayName>
+				<displayName count="other">Mexikanesch Unidades de Inversion (UDI)</displayName>
 			</currency>
 			<currency type="MYR">
 				<displayName>Malayseschen Ringgit</displayName>
@@ -4458,7 +4458,7 @@
 			<currency type="MZE">
 				<displayName>Mosambikaneschen Escudo</displayName>
 				<displayName count="one">Mozambikanesch Escudo</displayName>
-				<displayName count="other">Mozambikanesch Escudo</displayName>
+				<displayName count="other">Mozambikanesch Escudos</displayName>
 			</currency>
 			<currency type="MZM">
 				<displayName>Mosambikanesche Metical (1980–2006)</displayName>
@@ -4483,12 +4483,12 @@
 			<currency type="NIC">
 				<displayName>Nicaraguanesche Córdoba (1988–1991)</displayName>
 				<displayName count="one">Nicaraguanesche Córdoba (1988–1991)</displayName>
-				<displayName count="other">Nicaraguanesch Córdoba (1988–1991)</displayName>
+				<displayName count="other">Nicaraguanesch Córdobas (1988–1991)</displayName>
 			</currency>
 			<currency type="NIO">
 				<displayName>Nicaragua-Cordoba</displayName>
 				<displayName count="one">Nicaragua-Cordoba</displayName>
-				<displayName count="other">Nicaragua-Cordoba</displayName>
+				<displayName count="other">Nicaragua-Cordobas</displayName>
 			</currency>
 			<currency type="NLG">
 				<displayName>Nidderlännesche Gulden</displayName>
@@ -4530,12 +4530,12 @@
 			<currency type="PEN">
 				<displayName>Peruaneschen Neie Sol</displayName>
 				<displayName count="one">Peruaneschen Neie Sol</displayName>
-				<displayName count="other">Peruanesch Nei Sol</displayName>
+				<displayName count="other">Peruanesch Nei Soles</displayName>
 			</currency>
 			<currency type="PES">
 				<displayName>Peruanesche Sol (1863–1965)</displayName>
 				<displayName count="one">Peruanesche Sol (1863–1965)</displayName>
-				<displayName count="other">Peruanesch Sol (1863–1965)</displayName>
+				<displayName count="other">Peruanesch Soles (1863–1965)</displayName>
 			</currency>
 			<currency type="PGK">
 				<displayName>Papua-Neuguineesche Kina</displayName>
@@ -4568,7 +4568,7 @@
 			<currency type="PTE">
 				<displayName>Portugiseschen Escudo</displayName>
 				<displayName count="one">Portugiseschen Escudo</displayName>
-				<displayName count="other">Portugisesch Escudo</displayName>
+				<displayName count="other">Portugisesch Escudos</displayName>
 			</currency>
 			<currency type="PYG">
 				<displayName>Paraguayeschen Guaraní</displayName>
@@ -4822,9 +4822,9 @@
 				<displayName count="other">US-Dollar (Nächsten Dag)</displayName>
 			</currency>
 			<currency type="USS">
-				<displayName>US Dollar (Selweschten Dag)</displayName>
-				<displayName count="one">US-Dollar (Selweschten Dag)</displayName>
-				<displayName count="other">US-Dollar (Selweschten Dag)</displayName>
+				<displayName>US Dollar (Selwechten Dag)</displayName>
+				<displayName count="one">US-Dollar (Selwechten Dag)</displayName>
+				<displayName count="other">US-Dollar (Selwechten Dag)</displayName>
 			</currency>
 			<currency type="UYP">
 				<displayName>Uruguayesche Peso (1975–1993)</displayName>
@@ -4911,9 +4911,9 @@
 				<symbol>EC$</symbol>
 			</currency>
 			<currency type="XDR">
-				<displayName>Sonner-Zéiungsrecht</displayName>
-				<displayName count="one">Sonner-Zéiungsrecht</displayName>
-				<displayName count="other">Sonner-Zéiungsrechter</displayName>
+				<displayName>Sonnerzéiungsrecht</displayName>
+				<displayName count="one">Sonnerzéiungsrecht</displayName>
+				<displayName count="other">Sonnerzéiungsrechter</displayName>
 			</currency>
 			<currency type="XEU">
 				<displayName>Europäesch Währungseenheet (XEU)</displayName>
@@ -5445,7 +5445,7 @@
 			<unit type="mass-ton">
 				<displayName>Long tons</displayName>
 				<unitPattern count="one">{0} Long ton</unitPattern>
-				<unitPattern count="other">{0} Long ton</unitPattern>
+				<unitPattern count="other">{0} Long tons</unitPattern>
 			</unit>
 			<unit type="power-gigawatt">
 				<displayName>Gigawatt</displayName>
