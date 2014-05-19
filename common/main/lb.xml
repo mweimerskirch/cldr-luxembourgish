@@ -3102,9 +3102,9 @@
 			</metazone>
 			<metazone type="Krasnoyarsk">
 				<long>
-					<generic>Krasnoyarsk-Zäit</generic>
-					<standard>Krasnoyarsk-Normalzäit</standard>
-					<daylight>Krasnoyarsk-Summerzäit</daylight>
+					<generic>Krasnojarsk-Zäit</generic>
+					<standard>Krasnojarsk-Normalzäit</standard>
+					<daylight>Krasnojarsk-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Kyrgystan">
@@ -3251,9 +3251,9 @@
 			</metazone>
 			<metazone type="Novosibirsk">
 				<long>
-					<generic>Novosibirsk-Zäit</generic>
-					<standard>Novosibirsk-Normalzäit</standard>
-					<daylight>Novosibirsk-Summerzäit</daylight>
+					<generic>Nowosibirsk-Zäit</generic>
+					<standard>Nowosibirsk-Normalzäit</standard>
+					<daylight>Nowosibirsk-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Omsk">
@@ -4688,9 +4688,9 @@
 				<displayName count="other">Surinamesch Dollar</displayName>
 			</currency>
 			<currency type="SRG">
-				<displayName>Suriname Gulden</displayName>
-				<displayName count="one">Suriname-Gulden</displayName>
-				<displayName count="other">Suriname-Gulden</displayName>
+				<displayName>Surinamesche Gulden</displayName>
+				<displayName count="one">Surinamesche Gulden</displayName>
+				<displayName count="other">Surinamesch Gulden</displayName>
 			</currency>
 			<currency type="SSP">
 				<displayName>Südsudanesescht Pond</displayName>
@@ -4774,9 +4774,9 @@
 				<displayName count="other">Tierkesch Lira</displayName>
 			</currency>
 			<currency type="TTD">
-				<displayName>Trinidad an Tobago-Dollar</displayName>
-				<displayName count="one">Trinidad an Tobago-Dollar</displayName>
-				<displayName count="other">Trinidad an Tobago-Dollar</displayName>
+				<displayName>Trinidad-an-Tobago-Dollar</displayName>
+				<displayName count="one">Trinidad-an-Tobago-Dollar</displayName>
+				<displayName count="other">Trinidad-an-Tobago-Dollar</displayName>
 			</currency>
 			<currency type="TWD">
 				<displayName>Neien Taiwan-Dollar</displayName>
