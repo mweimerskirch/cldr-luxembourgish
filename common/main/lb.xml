@@ -18,7 +18,7 @@
 			<language type="ace">Aceh-Sprooch</language>
 			<language type="ach">Acholi-Sprooch</language>
 			<language type="ada">Adangme</language>
-			<language type="ady">Adygeeësch</language>
+			<language type="ady">Adygéiesch</language>
 			<language type="ae">Avestesch</language>
 			<language type="aeb">Tunesescht Arabesch</language>
 			<language type="af">Afrikaans</language>
@@ -58,7 +58,7 @@
 			<language type="ba">Baschkiresch</language>
 			<language type="bal">Belutschesch</language>
 			<language type="ban">Balinesesch</language>
-			<language type="bar">Bayresch</language>
+			<language type="bar">Bairesch</language>
 			<language type="bas">Basaa-Sprooch</language>
 			<language type="bax">Bamun</language>
 			<language type="bbc">Batak Toba</language>
@@ -139,7 +139,7 @@
 			<language type="dsb">Niddersorbesch</language>
 			<language type="dtp">Zentral-Dusun</language>
 			<language type="dua">Duala</language>
-			<language type="dum">Mëttelnidderlännesch</language>
+			<language type="dum">Mëttelhollännesch</language>
 			<language type="dv">Maldivesch</language>
 			<language type="dyo">Jola-Fonyi</language>
 			<language type="dyu">Dyula-Sprooch</language>
@@ -259,8 +259,8 @@
 			<language type="jbo">Lojban</language>
 			<language type="jgo">Ngomba</language>
 			<language type="jmc">Machame</language>
-			<language type="jpr">Juddesch-Persesch</language>
-			<language type="jrb">Juddesch-Arabesch</language>
+			<language type="jpr">Jiddesch-Persesch</language>
+			<language type="jrb">Jiddesch-Arabesch</language>
 			<language type="jut">Jütesch</language>
 			<language type="jv">Javanesch</language>
 			<language type="ka">Georgesch</language>
@@ -399,7 +399,7 @@
 			<language type="nia">Nias-Sprooch</language>
 			<language type="niu">Niue-Sprooch</language>
 			<language type="njo">Ao Naga</language>
-			<language type="nl">Nidderlännesch</language>
+			<language type="nl">Hollännesch</language>
 			<language type="nl_BE">Flämesch</language>
 			<language type="nmg">Kwasio</language>
 			<language type="nn">Norwegesch Nynorsk</language>
@@ -811,7 +811,7 @@
 			<territory type="BM">Bermuda</territory>
 			<territory type="BN">Brunei</territory>
 			<territory type="BO">Bolivien</territory>
-			<territory type="BQ">Karibesch Nidderlanden</territory>
+			<territory type="BQ">Karibescht Holland</territory>
 			<territory type="BR">Brasilien</territory>
 			<territory type="BS">Bahamas</territory>
 			<territory type="BT">Bhutan</territory>
@@ -885,7 +885,7 @@
 			<territory type="GU">Guam</territory>
 			<territory type="GW">Guinea-Bissau</territory>
 			<territory type="GY">Guyana</territory>
-			<territory type="HK">Sonnerverwaltungszon Hong Kong</territory>
+			<territory type="HK">Spezialverwaltungszon Hong Kong</territory>
 			<territory type="HK" alt="short">Hong Kong</territory>
 			<territory type="HM">Heard- a McDonald-Inselen</territory>
 			<territory type="HN">Honduras</territory>
@@ -941,7 +941,7 @@
 			<territory type="ML">Mali</territory>
 			<territory type="MM">Myanmar</territory>
 			<territory type="MN">Mongolei</territory>
-			<territory type="MO">Sonnerverwaltungszon Macau</territory>
+			<territory type="MO">Spezialverwaltungszon Macau</territory>
 			<territory type="MO" alt="short">Macau</territory>
 			<territory type="MP">Nërdlech Marianen</territory>
 			<territory type="MQ">Martinique</territory>
@@ -960,7 +960,7 @@
 			<territory type="NF">Norfolkinsel</territory>
 			<territory type="NG">Nigeria</territory>
 			<territory type="NI">Nicaragua</territory>
-			<territory type="NL">Nidderlanden</territory>
+			<territory type="NL">Holland</territory>
 			<territory type="NO">Norwegen</territory>
 			<territory type="NP">Nepal</territory>
 			<territory type="NR">Nauru</territory>
@@ -1224,7 +1224,7 @@
 						<cyclicNameContext type="format">
 							<cyclicNameWidth type="abbreviated">
 								<cyclicName type="1">Rat</cyclicName>
-								<cyclicName type="2">Uess</cyclicName>
+								<cyclicName type="2">Ochs</cyclicName>
 								<cyclicName type="3">Tiger</cyclicName>
 								<cyclicName type="4">Kannéngchen</cyclicName>
 								<cyclicName type="5">Draach</cyclicName>
@@ -1268,7 +1268,7 @@
 						<cyclicNameContext type="format">
 							<cyclicNameWidth type="abbreviated">
 								<cyclicName type="1">Rat</cyclicName>
-								<cyclicName type="2">Uess</cyclicName>
+								<cyclicName type="2">Ochs</cyclicName>
 								<cyclicName type="3">Tiger</cyclicName>
 								<cyclicName type="4">Kannéngchen</cyclicName>
 								<cyclicName type="5">Draach</cyclicName>
@@ -3319,7 +3319,7 @@
 			</metazone>
 			<metazone type="Papua_New_Guinea">
 				<long>
-					<standard>Papua-Neuguinea-Zäit</standard>
+					<standard>Papua-Neiguinea-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Paraguay">
@@ -3685,9 +3685,9 @@
 				<displayName count="other">Armenesch Dram</displayName>
 			</currency>
 			<currency type="ANG">
-				<displayName>Nidderlännesch-Antillen-Gulden</displayName>
-				<displayName count="one">Nidderlännesch-Antillen-Gulden</displayName>
-				<displayName count="other">Nidderlännesch-Antillen-Gulden</displayName>
+				<displayName>Antillen-Gulden</displayName>
+				<displayName count="one">Antillen-Gulden</displayName>
+				<displayName count="other">Antillen-Gulden</displayName>
 			</currency>
 			<currency type="AOA">
 				<displayName>Angolanesche Kwanza</displayName>
@@ -4047,9 +4047,9 @@
 				<displayName count="other">Egyptesch Pond</displayName>
 			</currency>
 			<currency type="ERN">
-				<displayName>Eritreeschen Nakfa</displayName>
-				<displayName count="one">Eritreeschen Nakfa</displayName>
-				<displayName count="other">Eritreesch Nakfa</displayName>
+				<displayName>Eritréieschen Nakfa</displayName>
+				<displayName count="one">Eritréieschen Nakfa</displayName>
+				<displayName count="other">Eritréiesch Nakfa</displayName>
 			</currency>
 			<currency type="ESA">
 				<displayName>Spuenesch Peseta (A–Konten)</displayName>
@@ -4139,9 +4139,9 @@
 				<displayName count="other">Guinea-Frang</displayName>
 			</currency>
 			<currency type="GNS">
-				<displayName>Guineesche Syli</displayName>
-				<displayName count="one">Guineesche Syli</displayName>
-				<displayName count="other">Guineesch Syli</displayName>
+				<displayName>Guinéiesche Syli</displayName>
+				<displayName count="one">Guinéiesche Syli</displayName>
+				<displayName count="other">Guinéiesch Syli</displayName>
 			</currency>
 			<currency type="GQE">
 				<displayName>Equatorialguinea-Ekwele</displayName>
@@ -4528,14 +4528,14 @@
 				<displayName count="other">Nicaraguanesch Córdobas (1988–1991)</displayName>
 			</currency>
 			<currency type="NIO">
-				<displayName>Nicaragua-Cordoba</displayName>
-				<displayName count="one">Nicaragua-Cordoba</displayName>
-				<displayName count="other">Nicaragua-Cordobas</displayName>
+				<displayName>Nicaraguanesche Córdoba</displayName>
+				<displayName count="one">Nicaraguanesche Córdoba</displayName>
+				<displayName count="other">Nicaraguanesch Córdobas</displayName>
 			</currency>
 			<currency type="NLG">
-				<displayName>Nidderlännesche Gulden</displayName>
-				<displayName count="one">Nidderlännesche Gulden</displayName>
-				<displayName count="other">Nidderlännesch Gulden</displayName>
+				<displayName>Hollännesche Gulden</displayName>
+				<displayName count="one">Hollännesche Gulden</displayName>
+				<displayName count="other">Hollännesch Gulden</displayName>
 			</currency>
 			<currency type="NOK">
 				<displayName>Norwegesch Kroun</displayName>
@@ -4580,9 +4580,9 @@
 				<displayName count="other">Peruanesch Soles (1863–1965)</displayName>
 			</currency>
 			<currency type="PGK">
-				<displayName>Papua-Neuguineesche Kina</displayName>
-				<displayName count="one">Papua-Neuguineesche Kina</displayName>
-				<displayName count="other">Papua-Neuguineesch Kina</displayName>
+				<displayName>Papua-Neiguinéiesche Kina</displayName>
+				<displayName count="one">Papua-Neiguinéiesche Kina</displayName>
+				<displayName count="other">Papua-Neiguinéiesch Kina</displayName>
 			</currency>
 			<currency type="PHP">
 				<displayName>Philippinnesche Peso</displayName>
@@ -4750,9 +4750,9 @@
 				<displayName count="other">Sowjetesch Rubel</displayName>
 			</currency>
 			<currency type="SVC">
-				<displayName>El-Salvador-Colon</displayName>
-				<displayName count="one">El-Salvador-Colon</displayName>
-				<displayName count="other">El-Salvador-Colon</displayName>
+				<displayName>El-Salvador-Colón</displayName>
+				<displayName count="one">El-Salvador-Colón</displayName>
+				<displayName count="other">El-Salvador-Colones</displayName>
 			</currency>
 			<currency type="SYP">
 				<displayName>Syrescht Pond</displayName>
@@ -5113,9 +5113,9 @@
 				<unitPattern count="other">{0} Grad</unitPattern>
 			</unit>
 			<unit type="angle-radian">
-				<displayName>Radianen</displayName>
-				<unitPattern count="one">{0} Radian</unitPattern>
-				<unitPattern count="other">{0} Radianen</unitPattern>
+				<displayName>Radianten</displayName>
+				<unitPattern count="one">{0} Radiant</unitPattern>
+				<unitPattern count="other">{0} Radianten</unitPattern>
 			</unit>
 			<unit type="area-acre">
 				<displayName>Acres</displayName>
