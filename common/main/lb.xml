@@ -898,7 +898,7 @@
 			<territory type="IL">Israel</territory>
 			<territory type="IM">Isle of Man</territory>
 			<territory type="IN">Indien</territory>
-			<territory type="IO">Britescht Territorium am Indeschen Ozean</territory>
+			<territory type="IO">Briteschen Territoire am Indeschen Ozean</territory>
 			<territory type="IQ">Irak</territory>
 			<territory type="IR">Iran</territory>
 			<territory type="IS">Island</territory>
@@ -3062,7 +3062,7 @@
 			</metazone>
 			<metazone type="Indian_Ocean">
 				<long>
-					<standard>Indeschen Ozean-Zäit</standard>
+					<standard>Indeschen-Ozean-Zäit</standard>
 				</long>
 			</metazone>
 			<metazone type="Indochina">
