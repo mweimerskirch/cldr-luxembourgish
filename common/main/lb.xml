@@ -14,9 +14,9 @@
 		</localeDisplayPattern>
 		<languages>
 			<language type="aa">Afar</language>
-			<language type="ab">Abchasesch</language>
-			<language type="ace">Aceh-Sprooch</language>
-			<language type="ach">Acholi-Sprooch</language>
+			<language type="ab">Abkasesch</language>
+			<language type="ace">Acehnesesch</language>
+			<language type="ach">Acholi</language>
 			<language type="ada">Adangme</language>
 			<language type="ady">Adygeeësch</language>
 			<language type="ae">Avestesch</language>
@@ -24,7 +24,7 @@
 			<language type="af">Afrikaans</language>
 			<language type="afh">Afrihili</language>
 			<language type="agq">Aghem</language>
-			<language type="ain">Ainu-Sprooch</language>
+			<language type="ain">Ainu</language>
 			<language type="ak">Akan</language>
 			<language type="akk">Akkadesch</language>
 			<language type="akz">Alabama</language>
@@ -40,9 +40,9 @@
 			<language type="arc">Aramäesch</language>
 			<language type="arn">Araukanesch</language>
 			<language type="aro">Araona</language>
-			<language type="arp">Arapaho-Sprooch</language>
+			<language type="arp">Arapaho</language>
 			<language type="arq">Algerescht Arabesch</language>
-			<language type="arw">Arawak-Sprooch</language>
+			<language type="arw">Arawak</language>
 			<language type="ary">Marokkanescht Arabesch</language>
 			<language type="arz">Egyptescht Arabesch</language>
 			<language type="as">Assamesesch</language>
@@ -54,18 +54,18 @@
 			<language type="awa">Awadhi</language>
 			<language type="ay">Aymara</language>
 			<language type="az">Aserbaidschanesch</language>
-			<language type="azb">Süd-Aserbaidschanesch</language>
+			<language type="azb">Südaserbaidschanesch</language>
 			<language type="ba">Baschkiresch</language>
 			<language type="bal">Belutschesch</language>
 			<language type="ban">Balinesesch</language>
 			<language type="bar">Bayresch</language>
-			<language type="bas">Basaa-Sprooch</language>
+			<language type="bas">Basaa</language>
 			<language type="bax">Bamun</language>
 			<language type="bbc">Batak Toba</language>
 			<language type="bbj">Ghomálá’</language>
 			<language type="be">Wäissrussesch</language>
 			<language type="bej">Bedauye</language>
-			<language type="bem">Bemba-Sprooch</language>
+			<language type="bem">Bemba</language>
 			<language type="bew">Betawi</language>
 			<language type="bez">Bena</language>
 			<language type="bfd">Bafut</language>
@@ -73,12 +73,12 @@
 			<language type="bg">Bulgaresch</language>
 			<language type="bho">Bhodschpuri</language>
 			<language type="bi">Bislama</language>
-			<language type="bik">Bikol-Sprooch</language>
-			<language type="bin">Bini-Sprooch</language>
+			<language type="bik">Bikol</language>
+			<language type="bin">Bini</language>
 			<language type="bjn">Banjaresesch</language>
 			<language type="bkm">Kom</language>
-			<language type="bla">Blackfoot-Sprooch</language>
-			<language type="bm">Bambara-Sprooch</language>
+			<language type="bla">Blackfoot</language>
+			<language type="bm">Bambara</language>
 			<language type="bn">Bengalesch</language>
 			<language type="bo">Tibetesch</language>
 			<language type="bpy">Bishnupriya</language>
@@ -102,8 +102,8 @@
 			<language type="ce">Tschetschenesch</language>
 			<language type="ceb">Cebuano</language>
 			<language type="cgg">Kiga</language>
-			<language type="ch">Chamorro-Sprooch</language>
-			<language type="chb">Chibcha-Sprooch</language>
+			<language type="ch">Chamorro</language>
+			<language type="chb">Chibcha</language>
 			<language type="chg">Tschagataesch</language>
 			<language type="chk">Trukesesch</language>
 			<language type="chm">Tscheremissesch</language>
@@ -124,16 +124,16 @@
 			<language type="cv">Tschuwaschesch</language>
 			<language type="cy">Walisesch</language>
 			<language type="da">Dänesch</language>
-			<language type="dak">Dakota-Sprooch</language>
+			<language type="dak">Dakota</language>
 			<language type="dar">Darginesch</language>
 			<language type="dav">Taita</language>
 			<language type="de">Däitsch</language>
 			<language type="de_AT">Éisträichescht Däitsch</language>
 			<language type="de_CH">Schwäizer Héichdäitsch</language>
-			<language type="del">Delaware-Sprooch</language>
+			<language type="del">Delaware</language>
 			<language type="den">Slave</language>
 			<language type="dgr">Dogrib</language>
-			<language type="din">Dinka-Sprooch</language>
+			<language type="din">Dinka</language>
 			<language type="dje">Zarma</language>
 			<language type="doi">Dogri</language>
 			<language type="dsb">Niddersorbesch</language>
@@ -142,11 +142,11 @@
 			<language type="dum">Mëttelnidderlännesch</language>
 			<language type="dv">Maldivesch</language>
 			<language type="dyo">Jola-Fonyi</language>
-			<language type="dyu">Dyula-Sprooch</language>
+			<language type="dyu">Dyula</language>
 			<language type="dz">Bhutanesch</language>
 			<language type="dzg">Dazaga</language>
 			<language type="ebu">Kiembu</language>
-			<language type="ee">Ewe-Sprooch</language>
+			<language type="ee">Ewe</language>
 			<language type="efi">Efik</language>
 			<language type="egl">Emilianesch</language>
 			<language type="egy">Egyptesch</language>
@@ -172,15 +172,15 @@
 			<language type="ewo">Ewondo</language>
 			<language type="ext">Extremaduresch</language>
 			<language type="fa">Persesch</language>
-			<language type="fan">Pangwe-Sprooch</language>
-			<language type="fat">Fanti-Sprooch</language>
+			<language type="fan">Pangwe</language>
+			<language type="fat">Fanti</language>
 			<language type="ff">Ful</language>
 			<language type="fi">Finnesch</language>
 			<language type="fil">Filipino</language>
 			<language type="fit">Meänkieli</language>
 			<language type="fj">Fidschianesch</language>
 			<language type="fo">Färöesch</language>
-			<language type="fon">Fon-Sprooch</language>
+			<language type="fon">Fon</language>
 			<language type="fr">Franséisch</language>
 			<language type="fr_CA">Kanadescht Franséisch</language>
 			<language type="fr_CH">Schwäizer Franséisch</language>
@@ -188,16 +188,16 @@
 			<language type="frm">Mëttelfranséisch</language>
 			<language type="fro">Alfranséisch</language>
 			<language type="frp">Frankoprovenzalesch</language>
-			<language type="frr">Nordfriesesch</language>
-			<language type="frs">Ostfriesesch</language>
+			<language type="frr">Nordfrisesch</language>
+			<language type="frs">Ostfrisesch</language>
 			<language type="fur">Friulesch</language>
-			<language type="fy">Westfriesesch</language>
+			<language type="fy">Westfrisesch</language>
 			<language type="ga">Iresch</language>
-			<language type="gaa">Ga-Sprooch</language>
+			<language type="gaa">Ga</language>
 			<language type="gag">Gagausesch</language>
 			<language type="gan">Gan-Chinesesch</language>
 			<language type="gay">Gayo</language>
-			<language type="gba">Gbaya-Sprooch</language>
+			<language type="gba">Gbaya</language>
 			<language type="gbz">Zoroastrianescht Dari</language>
 			<language type="gd">Schottescht Gällesch</language>
 			<language type="gez">Geez</language>
@@ -208,28 +208,28 @@
 			<language type="gn">Guarani</language>
 			<language type="goh">Alhéichdäitsch</language>
 			<language type="gom">Goan-Konkani</language>
-			<language type="gon">Gondi-Sprooch</language>
+			<language type="gon">Gondi</language>
 			<language type="gor">Mongondou</language>
 			<language type="got">Gotesch</language>
-			<language type="grb">Grebo-Sprooch</language>
+			<language type="grb">Grebo</language>
 			<language type="grc">Algriichesch</language>
 			<language type="gsw">Schwäizerdäitsch</language>
 			<language type="gu">Gujarati</language>
 			<language type="guc">Wayuu</language>
 			<language type="gur">Farefare</language>
-			<language type="guz">Gusii-Sprooch</language>
+			<language type="guz">Gusii</language>
 			<language type="gv">Manx</language>
-			<language type="gwi">Kutchin-Sprooch</language>
+			<language type="gwi">Kutchin</language>
 			<language type="ha">Hausa</language>
-			<language type="hai">Haida-Sprooch</language>
+			<language type="hai">Haida</language>
 			<language type="hak">Hakka-Chinesesch</language>
 			<language type="haw">Hawaiesch</language>
 			<language type="he">Hebräesch</language>
 			<language type="hi">Hindi</language>
 			<language type="hif">Fidschi-Hindi</language>
-			<language type="hil">Hiligaynon-Sprooch</language>
+			<language type="hil">Hiligaynon</language>
 			<language type="hit">Hethitesch</language>
-			<language type="hmn">Miao-Sprooch</language>
+			<language type="hmn">Miao</language>
 			<language type="ho">Hiri-Motu</language>
 			<language type="hr">Kroatesch</language>
 			<language type="hsb">Uewersorbesch</language>
@@ -238,18 +238,18 @@
 			<language type="hu">Ungaresch</language>
 			<language type="hup">Hupa</language>
 			<language type="hy">Armenesch</language>
-			<language type="hz">Herero-Sprooch</language>
+			<language type="hz">Herero</language>
 			<language type="ia">Interlingua</language>
 			<language type="iba">Iban</language>
 			<language type="ibb">Ibibio</language>
 			<language type="id">Indonesesch</language>
 			<language type="ie">Interlingue</language>
-			<language type="ig">Igbo-Sprooch</language>
+			<language type="ig">Igbo</language>
 			<language type="ii">Sichuan Yi</language>
 			<language type="ik">Inupiak</language>
-			<language type="ilo">Ilokano-Sprooch</language>
+			<language type="ilo">Ilokano</language>
 			<language type="inh">Inguschesch</language>
-			<language type="io">Ido-Sprooch</language>
+			<language type="io">Ido</language>
 			<language type="is">Islännesch</language>
 			<language type="it">Italienesch</language>
 			<language type="iu">Inukitut</language>
@@ -266,7 +266,7 @@
 			<language type="ka">Georgesch</language>
 			<language type="kaa">Karakalpakesch</language>
 			<language type="kab">Kabylesch</language>
-			<language type="kac">Kachin-Sprooch</language>
+			<language type="kac">Kachin</language>
 			<language type="kaj">Jju</language>
 			<language type="kam">Kamba</language>
 			<language type="kaw">Kawi</language>
@@ -279,11 +279,11 @@
 			<language type="kfo">Koro</language>
 			<language type="kg">Kongolesesch</language>
 			<language type="kgp">Kaingang</language>
-			<language type="kha">Khasi-Sprooch</language>
+			<language type="kha">Khasi</language>
 			<language type="kho">Sakesch</language>
 			<language type="khq">Koyra Chiini</language>
 			<language type="khw">Khowar</language>
-			<language type="ki">Kikuyu-Sprooch</language>
+			<language type="ki">Kikuyu</language>
 			<language type="kiu">Kirmanjki</language>
 			<language type="kj">Kwanyama</language>
 			<language type="kk">Kasachesch</language>
@@ -291,94 +291,94 @@
 			<language type="kl">Grönlännesch</language>
 			<language type="kln">Kalenjin</language>
 			<language type="km">Kambodschanesch</language>
-			<language type="kmb">Kimbundu-Sprooch</language>
+			<language type="kmb">Kimbundu</language>
 			<language type="kn">Kannada</language>
 			<language type="ko">Koreanesch</language>
 			<language type="koi">Komi-Permiak</language>
 			<language type="kok">Konkani</language>
 			<language type="kos">Kosraeanesch</language>
-			<language type="kpe">Kpelle-Sprooch</language>
-			<language type="kr">Kanuri-Sprooch</language>
+			<language type="kpe">Kpelle</language>
+			<language type="kr">Kanuri</language>
 			<language type="krc">Karatschaiesch-Balkaresch</language>
 			<language type="kri">Krio</language>
 			<language type="krj">Kinaray-a</language>
 			<language type="krl">Karelesch</language>
-			<language type="kru">Oraon-Sprooch</language>
+			<language type="kru">Oraon</language>
 			<language type="ks">Kaschmiresch</language>
 			<language type="ksb">Shambala</language>
 			<language type="ksf">Bafia</language>
 			<language type="ksh">Kölsch</language>
 			<language type="ku">Kurdesch</language>
 			<language type="kum">Kumükesch</language>
-			<language type="kut">Kutenai-Sprooch</language>
-			<language type="kv">Komi-Sprooch</language>
+			<language type="kut">Kutenai</language>
+			<language type="kv">Komi</language>
 			<language type="kw">Kornesch</language>
 			<language type="ky">Kirgisesch</language>
 			<language type="la">Latäin</language>
 			<language type="lad">Ladino</language>
 			<language type="lag">Langi</language>
 			<language type="lah">Lahnda</language>
-			<language type="lam">Lamba-Sprooch</language>
+			<language type="lam">Lamba</language>
 			<language type="lb">Lëtzebuergesch</language>
 			<language type="lez">Lesgesch</language>
 			<language type="lfn">Lingua Franca Nova</language>
-			<language type="lg">Ganda-Sprooch</language>
+			<language type="lg">Ganda</language>
 			<language type="li">Limburgesch</language>
 			<language type="lij">Liguresch</language>
 			<language type="liv">Livesch</language>
-			<language type="lkt">Lakota-Sprooch</language>
+			<language type="lkt">Lakota</language>
 			<language type="lmo">Lombardesch</language>
 			<language type="ln">Lingala</language>
 			<language type="lo">Laotesch</language>
 			<language type="lol">Mongo</language>
-			<language type="loz">Rotse-Sprooch</language>
+			<language type="loz">Rotse</language>
 			<language type="lt">Litauesch</language>
 			<language type="ltg">Lettgallesch</language>
 			<language type="lu">Luba-Katanga</language>
 			<language type="lua">Luba-Lulua</language>
-			<language type="lui">Luiseno-Sprooch</language>
-			<language type="lun">Lunda-Sprooch</language>
-			<language type="luo">Luo-Sprooch</language>
-			<language type="lus">Lushai-Sprooch</language>
+			<language type="lui">Luiseno</language>
+			<language type="lun">Lunda</language>
+			<language type="luo">Luo</language>
+			<language type="lus">Lushai</language>
 			<language type="luy">Olulujia</language>
 			<language type="lv">Lettesch</language>
 			<language type="lzh">Klassescht Chinesesch</language>
-			<language type="lzz">Lasesch Sprooch</language>
+			<language type="lzz">Lhasesch</language>
 			<language type="mad">Maduresesch</language>
 			<language type="maf">Mafa</language>
 			<language type="mag">Khotta</language>
 			<language type="mai">Maithili</language>
 			<language type="mak">Makassaresch</language>
-			<language type="man">Manding-Sprooch</language>
-			<language type="mas">Massai-Sprooch</language>
+			<language type="man">Manding</language>
+			<language type="mas">Massai</language>
 			<language type="mde">Maba</language>
 			<language type="mdf">Moksha</language>
 			<language type="mdr">Mandaresesch</language>
-			<language type="men">Mende-Sprooch</language>
-			<language type="mer">Meru-Sprooch</language>
+			<language type="men">Mende</language>
+			<language type="mer">Meru</language>
 			<language type="mfe">Morisyen</language>
-			<language type="mg">Malagassi-Sprooch</language>
+			<language type="mg">Malagassi</language>
 			<language type="mga">Mëtteliresch</language>
 			<language type="mgh">Makhuwa-Meetto</language>
 			<language type="mgo">Meta'</language>
 			<language type="mh">Marschallesesch</language>
 			<language type="mi">Maori</language>
-			<language type="mic">Micmac-Sprooch</language>
-			<language type="min">Minangkabau-Sprooch</language>
+			<language type="mic">Micmac</language>
+			<language type="min">Minangkabau</language>
 			<language type="mk">Mazedonesch</language>
 			<language type="ml">Malayalam</language>
 			<language type="mn">Mongolesch</language>
 			<language type="mnc">Mandschuresch</language>
-			<language type="mni">Meithei-Sprooch</language>
-			<language type="moh">Mohawk-Sprooch</language>
-			<language type="mos">Mossi-Sprooch</language>
+			<language type="mni">Meithei</language>
+			<language type="moh">Mohawk</language>
+			<language type="mos">Mossi</language>
 			<language type="mr">Marathi</language>
 			<language type="mrj">West-Mari</language>
 			<language type="ms">Malaiesch</language>
 			<language type="mt">Maltesesch</language>
 			<language type="mua">Mundang</language>
 			<language type="mul">Méisproocheg</language>
-			<language type="mus">Muskogee-Sprooch</language>
+			<language type="mus">Muskogee</language>
 			<language type="mwl">Mirandesesch</language>
 			<language type="mwr">Marwari</language>
 			<language type="mwv">Mentawai</language>
@@ -391,13 +391,13 @@
 			<language type="nap">Neapolitanesch</language>
 			<language type="naq">Nama</language>
 			<language type="nb">Norwegesch Bokmål</language>
-			<language type="nd">Nord-Ndebele-Sprooch</language>
+			<language type="nd">Nordndebele</language>
 			<language type="nds">Nidderdäitsch</language>
 			<language type="ne">Nepalesesch</language>
 			<language type="new">Newari</language>
 			<language type="ng">Ndonga</language>
-			<language type="nia">Nias-Sprooch</language>
-			<language type="niu">Niue-Sprooch</language>
+			<language type="nia">Nias</language>
+			<language type="niu">Niue</language>
 			<language type="njo">Ao Naga</language>
 			<language type="nl">Nidderlännesch</language>
 			<language type="nl_BE">Flämesch</language>
@@ -409,35 +409,35 @@
 			<language type="non">Alnordesch</language>
 			<language type="nov">Novial</language>
 			<language type="nqo">N’Ko</language>
-			<language type="nr">Süd-Ndebele-Sprooch</language>
-			<language type="nso">Nord-Sotho-Sprooch</language>
+			<language type="nr">Südndebele</language>
+			<language type="nso">Nordsotho</language>
 			<language type="nus">Nuer</language>
 			<language type="nv">Navajo</language>
 			<language type="nwc">Al-Newari</language>
-			<language type="ny">Nyanja-Sprooch</language>
-			<language type="nym">Nyamwezi-Sprooch</language>
+			<language type="ny">Nyanja</language>
+			<language type="nym">Nyamwezi</language>
 			<language type="nyn">Nyankole</language>
 			<language type="nyo">Nyoro</language>
 			<language type="nzi">Nzima</language>
 			<language type="oc">Okzitanesch</language>
-			<language type="oj">Ojibwa-Sprooch</language>
+			<language type="oj">Ojibwa</language>
 			<language type="om">Oromo</language>
 			<language type="or">Orija</language>
 			<language type="os">Ossetesch</language>
-			<language type="osa">Osage-Sprooch</language>
+			<language type="osa">Osage</language>
 			<language type="ota">Osmanesch</language>
 			<language type="pa">Pandschabesch</language>
-			<language type="pag">Pangasinan-Sprooch</language>
+			<language type="pag">Pangasinan</language>
 			<language type="pal">Mëttelpersesch</language>
-			<language type="pam">Pampanggan-Sprooch</language>
+			<language type="pam">Pampanggan</language>
 			<language type="pap">Papiamento</language>
 			<language type="pau">Palau</language>
 			<language type="pcd">Picardesch</language>
 			<language type="pdc">Pennsylvaniadäitsch</language>
 			<language type="pdt">Plattdäitsch</language>
 			<language type="peo">Alpersesch</language>
-			<language type="pfl">Pfälzesch Däitsch</language>
-			<language type="phn">Phönikesch</language>
+			<language type="pfl">Pfälzescht Däitsch</language>
+			<language type="phn">Phenizesch</language>
 			<language type="pi">Pali</language>
 			<language type="pl">Polnesch</language>
 			<language type="pms">Piemontesesch</language>
@@ -450,15 +450,15 @@
 			<language type="pt_BR">Brasilianescht Portugiesesch</language>
 			<language type="pt_PT">Europäescht Portugiesesch</language>
 			<language type="qu">Quechua</language>
-			<language type="quc">Quiché-Sprooch</language>
+			<language type="quc">Quiché</language>
 			<language type="qug">Kichwa (Chimborazo-Gebidder)</language>
 			<language type="raj">Rajasthani</language>
-			<language type="rap">Ouschterinsel-Sprooch</language>
+			<language type="rap">Ouschterinsel</language>
 			<language type="rar">Rarotonganesch</language>
 			<language type="rgn">Romagnol</language>
 			<language type="rif">Tarifit</language>
 			<language type="rm">Rätoromanesch</language>
-			<language type="rn">Rundi-Sprooch</language>
+			<language type="rn">Rundi</language>
 			<language type="ro">Rumänesch</language>
 			<language type="ro_MD">Moldawesch</language>
 			<language type="rof">Rombo</language>
@@ -472,7 +472,7 @@
 			<language type="rw">Ruandesch</language>
 			<language type="rwk">Rwa</language>
 			<language type="sa">Sanskrit</language>
-			<language type="sad">Sandawe-Sprooch</language>
+			<language type="sad">Sandawe</language>
 			<language type="sah">Jakutesch</language>
 			<language type="sam">Samaritanesch</language>
 			<language type="saq">Samburu</language>
@@ -486,7 +486,7 @@
 			<language type="sco">Schottesch</language>
 			<language type="sd">Sindhi</language>
 			<language type="sdc">Sassaresesch</language>
-			<language type="se">Nord-Samesch</language>
+			<language type="se">Nordsamesch</language>
 			<language type="see">Seneca</language>
 			<language type="seh">Sena</language>
 			<language type="sei">Seri</language>
@@ -497,7 +497,7 @@
 			<language type="sgs">Samogitesch</language>
 			<language type="sh">Serbo-Kroatesch</language>
 			<language type="shi">Taschelhit</language>
-			<language type="shn">Schan-Sprooch</language>
+			<language type="shn">Schan</language>
 			<language type="shu">Tschadesch-Arabesch</language>
 			<language type="si">Singhalesesch</language>
 			<language type="sid">Sidamo</language>
@@ -506,24 +506,24 @@
 			<language type="sli">Nidderschlesesch</language>
 			<language type="sly">Selayar</language>
 			<language type="sm">Samoanesch</language>
-			<language type="sma">Süd-Samesch</language>
+			<language type="sma">Südsamesch</language>
 			<language type="smj">Lule-Lappesch</language>
 			<language type="smn">Inari-Lappesch</language>
 			<language type="sms">Skolt-Lappesch</language>
 			<language type="sn">Shona</language>
-			<language type="snk">Soninke-Sprooch</language>
+			<language type="snk">Soninke</language>
 			<language type="so">Somali</language>
 			<language type="sog">Sogdesch</language>
 			<language type="sq">Albanesch</language>
 			<language type="sr">Serbesch</language>
 			<language type="srn">Srananesch</language>
-			<language type="srr">Serer-Sprooch</language>
+			<language type="srr">Serer</language>
 			<language type="ss">Swazi</language>
 			<language type="ssy">Saho</language>
-			<language type="st">Süd-Sotho-Sprooch</language>
-			<language type="stq">Saterfriesesch</language>
+			<language type="st">Südsotho</language>
+			<language type="stq">Saterfrisesch</language>
 			<language type="su">Sundanesesch</language>
-			<language type="suk">Sukuma-Sprooch</language>
+			<language type="suk">Sukuma</language>
 			<language type="sus">Susu</language>
 			<language type="sux">Sumeresch</language>
 			<language type="sv">Schwedesch</language>
@@ -538,34 +538,34 @@
 			<language type="te">Telugu</language>
 			<language type="tem">Temne</language>
 			<language type="teo">Teso</language>
-			<language type="ter">Tereno-Sprooch</language>
-			<language type="tet">Tetum-Sprooch</language>
+			<language type="ter">Tereno</language>
+			<language type="tet">Tetum</language>
 			<language type="tg">Tadschikesch</language>
 			<language type="th">Thailännesch</language>
 			<language type="ti">Tigrinja</language>
 			<language type="tig">Tigre</language>
-			<language type="tiv">Tiv-Sprooch</language>
+			<language type="tiv">Tiv</language>
 			<language type="tk">Turkmenesch</language>
 			<language type="tkl">Tokelauanesch</language>
 			<language type="tkr">Tsachuresch</language>
-			<language type="tl">Dagalog</language>
+			<language type="tl">Tagalog</language>
 			<language type="tlh">Klingonesch</language>
-			<language type="tli">Tlingit-Sprooch</language>
+			<language type="tli">Tlingit</language>
 			<language type="tly">Talesch</language>
 			<language type="tmh">Tamaseq</language>
-			<language type="tn">Tswana-Sprooch</language>
+			<language type="tn">Tswana</language>
 			<language type="to">Tongaesch</language>
-			<language type="tog">Tsonga-Sprooch</language>
+			<language type="tog">Tsonga</language>
 			<language type="tpi">Neimelanesesch</language>
 			<language type="tr">Tierkesch</language>
 			<language type="tru">Turoyo</language>
 			<language type="trv">Seediq</language>
 			<language type="ts">Tsonga</language>
 			<language type="tsd">Tsakonesch</language>
-			<language type="tsi">Tsimshian-Sprooch</language>
+			<language type="tsi">Tsimshian</language>
 			<language type="tt">Tataresch</language>
 			<language type="ttt">Tatesch</language>
-			<language type="tum">Tumbuka-Sprooch</language>
+			<language type="tum">Tumbuka</language>
 			<language type="tvl">Elliceanesch</language>
 			<language type="tw">Twi</language>
 			<language type="twq">Tasawaq</language>
@@ -576,16 +576,16 @@
 			<language type="ug">Uiguresch</language>
 			<language type="uga">Ugaritesch</language>
 			<language type="uk">Ukrainesch</language>
-			<language type="umb">Mbundu-Sprooch</language>
-			<language type="und">Onbestëmmte Sprooch</language>
+			<language type="umb">Mbundu</language>
+			<language type="und">Gebräichlech</language>
 			<language type="ur">Urdu</language>
 			<language type="uz">Usbekesch</language>
-			<language type="vai">Vai-Sprooch</language>
-			<language type="ve">Venda-Sprooch</language>
+			<language type="vai">Vai</language>
+			<language type="ve">Venda</language>
 			<language type="vec">Venezesch</language>
 			<language type="vep">Wepsesch</language>
 			<language type="vi">Vietnamesesch</language>
-			<language type="vls">West-Flämesch</language>
+			<language type="vls">Westflämesch</language>
 			<language type="vmf">Mainfränkesch</language>
 			<language type="vo">Volapük</language>
 			<language type="vot">Wotesch</language>
@@ -593,16 +593,16 @@
 			<language type="vun">Vunjo</language>
 			<language type="wa">Wallonesch</language>
 			<language type="wae">Walliserdäitsch</language>
-			<language type="wal">Walamo-Sprooch</language>
+			<language type="wal">Walamo</language>
 			<language type="war">Waray</language>
-			<language type="was">Washo-Sprooch</language>
+			<language type="was">Washo</language>
 			<language type="wo">Wolof</language>
 			<language type="wuu">Wu-Chinesesch</language>
 			<language type="xal">Kalmückesch</language>
 			<language type="xh">Xhosa</language>
-			<language type="xmf">Mingrelesch Sprooch</language>
+			<language type="xmf">Mingrelesch</language>
 			<language type="xog">Soga</language>
-			<language type="yao">Yao-Sprooch</language>
+			<language type="yao">Yao</language>
 			<language type="yap">Yapesesch</language>
 			<language type="yav">Yangben</language>
 			<language type="ybb">Yemba</language>
@@ -620,7 +620,7 @@
 			<language type="zh_Hans">Chinesesch (vereinfacht)</language>
 			<language type="zh_Hant">Chinesesch (traditionell)</language>
 			<language type="zu">Zulu</language>
-			<language type="zun">Zuni-Sprooch</language>
+			<language type="zun">Zuni</language>
 			<language type="zxx">Keng Sproochinhalter</language>
 			<language type="zza">Zaza</language>
 		</languages>
@@ -672,7 +672,7 @@
 			<script type="Hmng">Pahawh Hmong</script>
 			<script type="Hrkt">Katakana oder Hiragana</script>
 			<script type="Hung">Alungaresch</script>
-			<script type="Inds">Indus-Schrëft</script>
+			<script type="Inds">Indus</script>
 			<script type="Ital">Alitalesch</script>
 			<script type="Java">Javanesesch</script>
 			<script type="Jpan">Japanesch</script>
@@ -734,7 +734,7 @@
 			<script type="Telu">Telugu</script>
 			<script type="Teng">Tengwar</script>
 			<script type="Tfng">Tifinagh</script>
-			<script type="Tglg">Dagalog</script>
+			<script type="Tglg">Tagalog</script>
 			<script type="Thaa">Thaana</script>
 			<script type="Thai">Thai</script>
 			<script type="Tibt">Tibetesch</script>
@@ -744,7 +744,7 @@
 			<script type="Xpeo">Alpersesch</script>
 			<script type="Xsux">Sumeresch-akkadesch Keilschrëft</script>
 			<script type="Yiii">Yi</script>
-			<script type="Zinh">Geierfte Schrëftwäert</script>
+			<script type="Zinh">Geierft</script>
 			<script type="Zsym">Symboler</script>
 			<script type="Zxxx">Ouni Schrëft</script>
 			<script type="Zyyy">Onbestëmmt</script>
@@ -885,7 +885,7 @@
 			<territory type="GU">Guam</territory>
 			<territory type="GW">Guinea-Bissau</territory>
 			<territory type="GY">Guyana</territory>
-			<territory type="HK">Sonnerverwaltungszon Hongkong</territory>
+			<territory type="HK">Spezialverwaltungszon Hongkong</territory>
 			<territory type="HK" alt="short">Hongkong</territory>
 			<territory type="HM">Heard- a McDonald-Inselen</territory>
 			<territory type="HN">Honduras</territory>
@@ -898,7 +898,7 @@
 			<territory type="IL">Israel</territory>
 			<territory type="IM">Isle of Man</territory>
 			<territory type="IN">Indien</territory>
-			<territory type="IO">Britescht Territorium am Indeschen Ozean</territory>
+			<territory type="IO">Briteschen Territoire am Indeschen Ozean</territory>
 			<territory type="IQ">Irak</territory>
 			<territory type="IR">Iran</territory>
 			<territory type="IS">Island</territory>
@@ -941,7 +941,7 @@
 			<territory type="ML">Mali</territory>
 			<territory type="MM">Myanmar</territory>
 			<territory type="MN">Mongolei</territory>
-			<territory type="MO">Sonnerverwaltungszon Macau</territory>
+			<territory type="MO">Spezialverwaltungszon Macau</territory>
 			<territory type="MO" alt="short">Macau</territory>
 			<territory type="MP">Nërdlech Marianen</territory>
 			<territory type="MQ">Martinique</territory>
@@ -1060,13 +1060,13 @@
 			<variant type="1694ACAD">Klassescht Franséisch</variant>
 			<variant type="1959ACAD">Akademesch</variant>
 			<variant type="ALALC97">ALA-LC-Romaniséierung, Editioun vun 1997</variant>
-			<variant type="ALUKU">Aluku-Dialekt</variant>
+			<variant type="ALUKU">Aluku</variant>
 			<variant type="AREVELA">Ostarmenesch</variant>
 			<variant type="AREVMDA">Westarmenesch</variant>
 			<variant type="BAKU1926">Eenheetlecht Tierkescht Alphabet</variant>
-			<variant type="BALANKA">Balanka-Dialekt vun Anii</variant>
+			<variant type="BALANKA">Balanka vun Anii</variant>
 			<variant type="BARLA">Barlavento-Dialektgrupp vu Kabuverdianu</variant>
-			<variant type="BISKE">Bela-Dialekt</variant>
+			<variant type="BISKE">Bela</variant>
 			<variant type="BOHORIC">Bohorič-Alphabet</variant>
 			<variant type="BOONT">Boontling</variant>
 			<variant type="DAJNKO">Dajnko-Alphabet</variant>
@@ -1078,15 +1078,15 @@
 			<variant type="IJEKAVSK">Serbesch mat Ijekavian-Aussprooch</variant>
 			<variant type="KKCOR">Allgemeng Rechtschreiwung</variant>
 			<variant type="KSCOR">Standard-Rechtschreiwung</variant>
-			<variant type="LIPAW">Lipovaz-Dialekt</variant>
+			<variant type="LIPAW">Lipovaz</variant>
 			<variant type="METELKO">Metelko-Alphabet</variant>
 			<variant type="MONOTON">Monotonesch</variant>
-			<variant type="NDYUKA">Ndyuka-Dialekt</variant>
-			<variant type="NEDIS">Natisone-Dialekt</variant>
-			<variant type="NJIVA">Njiva-Dialekt</variant>
+			<variant type="NDYUKA">Ndyuka</variant>
+			<variant type="NEDIS">Natisone</variant>
+			<variant type="NJIVA">Njiva</variant>
 			<variant type="NULIK">Modernt Volapük</variant>
-			<variant type="OSOJS">Osojane-Dialekt</variant>
-			<variant type="PAMAKA">Pamaka-Dialekt</variant>
+			<variant type="OSOJS">Osojane</variant>
+			<variant type="PAMAKA">Pamaka</variant>
 			<variant type="PINYIN">Pinyin</variant>
 			<variant type="POLYTON">Polytonesch</variant>
 			<variant type="POSIX">Computer</variant>
@@ -1094,9 +1094,9 @@
 			<variant type="ROZAJ">Resianesch</variant>
 			<variant type="SAAHO">Saho</variant>
 			<variant type="SCOTLAND">Schottescht Standardenglesch</variant>
-			<variant type="SCOUSE">Scouse-Dialekt</variant>
-			<variant type="SOLBA">Solbica-Dialekt</variant>
-			<variant type="SOTAV">Sotavento-Dialekt-Grupp vu Kabuverdianu</variant>
+			<variant type="SCOUSE">Scouse</variant>
+			<variant type="SOLBA">Solbica</variant>
+			<variant type="SOTAV">Sotavento-Dialektgrupp vu Kabuverdianu</variant>
 			<variant type="TARASK">Taraskievica-Orthographie</variant>
 			<variant type="UCCOR">Vereenheetlecht Rechtschreiwung</variant>
 			<variant type="UCRCOR">Vereenheetlecht iwwerschaffte Rechtschreiwung</variant>
@@ -3940,9 +3940,9 @@
 				<displayName count="other">Kubanesch Pesos</displayName>
 			</currency>
 			<currency type="CVE">
-				<displayName>Kap-Verde-Escudo</displayName>
-				<displayName count="one">Kap-Verde-Escudo</displayName>
-				<displayName count="other">Kap-Verde-Escudo</displayName>
+				<displayName>Kapverdeschen Escudo</displayName>
+				<displayName count="one">Kapverdeschen Escudo</displayName>
+				<displayName count="other">Kapverdesch Escudoen</displayName>
 			</currency>
 			<currency type="CYP">
 				<displayName>Zypern-Pond</displayName>
@@ -4119,7 +4119,7 @@
 			<currency type="GWE">
 				<displayName>Portugiesesch-Guinea Escudo</displayName>
 				<displayName count="one">Portugiesesch-Guinea Escudo</displayName>
-				<displayName count="other">Portugiesesch-Guinea Escudo</displayName>
+				<displayName count="other">Portugiesesch-Guinea Escudoen</displayName>
 			</currency>
 			<currency type="GWP">
 				<displayName>Guinea-Bissau Peso</displayName>
@@ -4376,7 +4376,7 @@
 			<currency type="MKD">
 				<displayName>Mazedoneschen Denar</displayName>
 				<displayName count="one">Mazedoneschen Denar</displayName>
-				<displayName count="other">Mazedonesch Denari</displayName>
+				<displayName count="other">Mazedonesch Denaren</displayName>
 			</currency>
 			<currency type="MLF">
 				<displayName>Malesche Frang</displayName>
@@ -4456,19 +4456,19 @@
 				<symbol>MYR</symbol>
 			</currency>
 			<currency type="MZE">
-				<displayName>Mosambikaneschen Escudo</displayName>
-				<displayName count="one">Mozambikanesch Escudo</displayName>
-				<displayName count="other">Mozambikanesch Escudo</displayName>
+				<displayName>Mosambikeschen Escudo</displayName>
+				<displayName count="one">Mosambikesch Escudo</displayName>
+				<displayName count="other">Mosambikesch Escudoen</displayName>
 			</currency>
 			<currency type="MZM">
-				<displayName>Mosambikanesche Metical (1980–2006)</displayName>
-				<displayName count="one">Mosambikanesche Metical (1980–2006)</displayName>
-				<displayName count="other">Mosambikanesch Meticais (1980–2006)</displayName>
+				<displayName>Mosambikesche Metical (1980–2006)</displayName>
+				<displayName count="one">Mosambikesche Metical (1980–2006)</displayName>
+				<displayName count="other">Mosambikesch Meticais (1980–2006)</displayName>
 			</currency>
 			<currency type="MZN">
-				<displayName>Mosambikanesche Metical</displayName>
-				<displayName count="one">Mosambikanesche Metical</displayName>
-				<displayName count="other">Mosambikanesch Meticais</displayName>
+				<displayName>Mosambikesche Metical</displayName>
+				<displayName count="one">Mosambikesche Metical</displayName>
+				<displayName count="other">Mosambikesch Meticais</displayName>
 			</currency>
 			<currency type="NAD">
 				<displayName>Namibia-Dollar</displayName>
@@ -4568,7 +4568,7 @@
 			<currency type="PTE">
 				<displayName>Portugiseschen Escudo</displayName>
 				<displayName count="one">Portugiseschen Escudo</displayName>
-				<displayName count="other">Portugisesch Escudo</displayName>
+				<displayName count="other">Portugisesch Escudoen</displayName>
 			</currency>
 			<currency type="PYG">
 				<displayName>Paraguayeschen Guaraní</displayName>
@@ -4761,7 +4761,7 @@
 			<currency type="TPE">
 				<displayName>Timor-Escudo</displayName>
 				<displayName count="one">Timor-Escudo</displayName>
-				<displayName count="other">Timor-Escudo</displayName>
+				<displayName count="other">Timor-Escudoen</displayName>
 			</currency>
 			<currency type="TRL">
 				<displayName>Tierkesch Lira (1922–2005)</displayName>
@@ -4983,9 +4983,9 @@
 				<displayName count="other">Jugoslawesch Dinaren (1966–1990)</displayName>
 			</currency>
 			<currency type="YUM">
-				<displayName>Jugoslaweschen Neien Dinar (1994–2002)</displayName>
-				<displayName count="one">Jugoslaweschen Neien Dinar (1994–2002)</displayName>
-				<displayName count="other">Jugoslawesch Nei Dinaren (1994–2002)</displayName>
+				<displayName>Neie jugoslaweschen Dinar (1994–2002)</displayName>
+				<displayName count="one">Neie jugoslaweschen Dinar (1994–2002)</displayName>
+				<displayName count="other">Nei jugoslawesch Dinaren (1994–2002)</displayName>
 			</currency>
 			<currency type="YUN">
 				<displayName>Jugoslaweschen Dinar (konvertibel)</displayName>
